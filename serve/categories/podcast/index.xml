@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on Claudio Stoduto</title>
+    <link>https://tender-wing-5abee4.netlify.com/categories/podcast/</link>
+    <description>Recent content in Podcast on Claudio Stoduto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 06 Feb 2019 22:35:28 +0100</lastBuildDate>
+    
+	<atom:link href="https://tender-wing-5abee4.netlify.com/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The title of your post</title>
+      <link>https://tender-wing-5abee4.netlify.com/posts/postnamehere/</link>
+      <pubDate>Wed, 06 Feb 2019 22:35:28 +0100</pubDate>
+      
+      <guid>https://tender-wing-5abee4.netlify.com/posts/postnamehere/</guid>
+      <description>Coniuge congerit oscula Surgit insigne non coniunx Dantem telum Aethiopesque ille Lorem markdownum hauriret ense pro rapiare deum, Letoidos vestem marinas Lotis exsangues. Verus mea adfert scopulum restitit. Iste annus opus vox ursos habuisse quiete foret redeamus est tori igne voracis. Catenis patriaeque frequentat aquarum? Ad quae et impia ostendens recens; videtur in tutam sua pharetrae locat pars tuus obstantia medios excipit.
+Falsae coniuge Ulixe Viribus utero Thescelus anima. Quem ingreditur suos, labitur, infantia mille, volant in virga haec umbras Lycopen lacrimas!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+baseURL = "https://claudiostoduto.com"
+languageCode = "it"
+defaultContentLanguage = "it"
+title = "Claudio Stoduto"
+theme = "hugo-coder"
+googleAnalytics = "UA-102432953-1"
+disqusShortname = "claudiostoduto-com-2"
+enableRobotsTXT =  true
+
+[params]
+brand = "Claudio Stoduto"
+description = "Sono Claudio Stoduto, un giornalista, blogger e podcaster con la passione per la tecnologia e l'informazione."
+author = "Claudio Stoduto"
+info = "Giornalista, blogger e podcaster."
+dateformat = "2 January 2006"
+keywords = "blog,developer,personal,podcast,podcaster,tecnologia,sport,innovazione,tech"
+avatarurl = "images/foto.jpg"
+favicon_32 = "images/foto.jpg"
+favicon_16 = "images/foto.jpg"
+footercontent = "Edit in 🇮🇹 with ❤️ by Claudio"
+hidecredits = true
+hidecopyright = false
+rtl = false
+math = true
+images = ["/images/foto.jpg"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params.publisher]
+    name = "Claudio Stoduto"
+
+    [params.publisher.logo]
+      url = "/images/foto.jpg"
+      width = 120
+      height = 120
+
+    [params.logo]
+      url = "/images/foto.jpg"
+      width = 120
+      height = 120
+
+    [params.image]
+      url = "/images/foto.jpg"
+      width = 600
+      height = 600
+
+
+[[menu.main]]
+    name = "🤝"
+    weight = 1.0
+    url = "/chi-sono/"
+
+[[menu.main]]
+    name = "📲"
+    weight = 2.0
+    url = "/contatti/"
+
+[[menu.main]]
+    name = "✏️"
+    weight = 3.0
+    url = "/blog/"
+
+[[menu.main]]
+    name = "🎙"
+    weight = 4.0
+    url = "/podcast/"
+
+[[menu.main]]
+    name = "📤"
+    weight = 5.0
+    url = "/newsletter/"
+
+[[menu.main]]
+    name = "🔍"
+    weight = 6.0
+    url = "https://cse.google.it/cse?cx=016202018555974450875:csuggubo2k0"
+
+
+# Social links
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/claudiostoduto"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 2
+    url = "https://facebook.com/cstoduto"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/claudiostoduto/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 4
+    url = "https://instagram.com/claudiostoduto"
+[[params.social]]
+    name = "E-mail"
+    icon = "fas fa-envelope fa-2x"
+    weight = 5
+    url = "mailto:me@claudiostoduto.com"

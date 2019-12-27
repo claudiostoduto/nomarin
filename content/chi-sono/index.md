@@ -1,0 +1,12 @@
+--- 
+title: "About"
+---
+**Claudio Stoduto, **torinese di nascita, sin da piccolo con una grandissima passione per tutto quello che riguardava la tecnologia ed il mondo dello sport. Trascorro il mio tempo libero con lo smartphone in mano sempre alla ricerca delle ultime novità. 
+
+Ad _ottobre 2012_ ho creato [**instaNews**](https://t.umblr.com/redirect?z=http%3A%2F%2Finstanews.it&t=MTk3ZWVjNzg2MDc5MzgxYzk5NDhmNjk5ZGExZDE5YjBhZmYwYjI5NSxUbU4zdWpESg%3D%3D&p=&m=0), un progetto totalmente incentrato sulla tecnologia, dopo una lunga esperienza sia personale che collaborativa nel settore con altre testate. Nel _2017_ il sito in parte rinasce sotto un nuova veste che ingloba anche il progetto InstaSport (dedicato al mondo sportivo e con un taglio legato interamente al mondo dei social network). L’obiettivo è quello di renderlo un unico grande portale di informazione a 360 gradi con al centro le opinioni personali. Conduco sia il [podcast tecnologico](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.instanews.it%2Fcategory%2Fpodcast%2F&t=YTJlNGU3ZDU3OGZjNzliNzNiMTQ4NWI5NGEyMTg3MWFiMTQ0ZTQzYyxtOERKanVSZA%3D%3D&b=t%3APukYLPcLu6bb6f_kd-94RQ&p=https%3A%2F%2Fclaudiostoduto.com%2Fpost%2F172616511943%2Fchi-sono&m=1) che quello [sportivo](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.instanews.it%2Fcategory%2Fpodcast%2F&t=YTJlNGU3ZDU3OGZjNzliNzNiMTQ4NWI5NGEyMTg3MWFiMTQ0ZTQzYyxtOERKanVSZA%3D%3D&b=t%3APukYLPcLu6bb6f_kd-94RQ&p=https%3A%2F%2Fclaudiostoduto.com%2Fpost%2F172616511943%2Fchi-sono&m=1) in onda ogni lunedì e mercoledì alle ore 12.
+
+Da _maggio 2017_ ho fondato **[LikeTorino](https://t.umblr.com/redirect?z=http%3A%2F%2Finstagram.com%2Fliketorino&t=MmU5MDBlYWRiOGEyMjkwNDdjMzgyYzFjZTIzYzljODJmYzI2MDJjMSxUbU4zdWpESg%3D%3D&p=&m=0)**, un profilo Instagram dedicato alle migliori foto riguardanti Torino ed i suoi meravigliosi angoli nascosti. 
+
+Da _giugno 2017_, ho iniziato la collaborazione quotidiana con SpinBlog il network italiano di cui fanno parte i blog [**TEEECH.it** ](https://t.umblr.com/redirect?z=http%3A%2F%2FTEEECH.it%2520&t=YjkxODA3M2MzOTdiNDA4MGMxZDU2MmU3N2U1ZTZkYzBjZTQyYzA2YixUbU4zdWpESg%3D%3D&p=&m=0)ed **[iPhoneItalia.com](https://t.umblr.com/redirect?z=http%3A%2F%2FiPhoneItalia.com&t=MjdkOTlkZmYxZDEzMWQ1YTQ1MGYzMjU5YzYyMDI5YmI1NzE2OTM2NSxUbU4zdWpESg%3D%3D&p=&m=0),** due pietre miliari nel mondo dell’informazione in ambito tecnologico a livello italiano.
+
+Da _novembre 2017_ sono ufficialmente iscritto all’albo del Consiglio Nazionale dell’Ordine dei Giornalisti come **Giornalista Pubblicista**.
