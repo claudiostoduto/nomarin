@@ -1,21 +1,17 @@
 title: Pigro e Passivo
 description: Un blog pigro, passivo e consapevole
+url: ""
 baseurl: ""
-url: "https://claudiostoduto.github.io/Pigroepassivo/"
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-  - jekyll-seo-tag
 
 theme_skin: default
 lang: it
-
-logo: /assets/avatar.png
 
 defaults:
   - scope:
