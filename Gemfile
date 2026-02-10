@@ -1,3 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
+gem "so-simple-theme"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-include-cache"
