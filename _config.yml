@@ -3,6 +3,7 @@ description: Un blog pigro, passivo e consapevole
 url: "https://www.pigroepassivo.it"
 baseurl: ""
 
+theme: null
 lang: it
 theme_skin: default
 
