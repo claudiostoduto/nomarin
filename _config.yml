@@ -1,6 +1,6 @@
 title: Pigro e Passivo
 description: Un blog pigro, passivo e consapevole
-url: ""
+url: "https://www.pigroepassivo.it"
 baseurl: ""
 
 lang: it
@@ -10,15 +10,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
