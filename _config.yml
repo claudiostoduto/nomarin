@@ -3,9 +3,13 @@ description: Un blog pigro, passivo e consapevole
 url: ""
 baseurl: ""
 
-theme: so-simple-theme
 lang: it
 theme_skin: default
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
 
 defaults:
   - scope:
