@@ -4,6 +4,7 @@ title: Chi siamo
 permalink: /about/
 ---
 
-**Pigro e Passivo** nasce per rallentare.
+**Pigro e Passivo** è un esercizio di lentezza.
 
-Qui si scrive quando serve, non quando conviene.
+Scriviamo poco.
+Scriviamo quando serve.

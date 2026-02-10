@@ -1,8 +1,5 @@
 ---
-layout: home
-title: Home
+layout: posts
+title: Pigro e Passivo
+excerpt: Un blog pigro, passivo e consapevole
 ---
-
-Benvenuto su **Pigro e Passivo**.
-
-Un blog lento, riflessivo e senza fretta.

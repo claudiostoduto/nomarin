@@ -1,9 +1,10 @@
 title: Pigro e Passivo
 description: Un blog pigro, passivo e consapevole
 baseurl: ""
-url: "https://TUO_USERNAME.github.io"
+url: "https://www.pigroepassivo.it"
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -12,6 +13,16 @@ plugins:
 theme_skin: "default"
 lang: "it"
 
-author:
-  name: Pigro e Passivo
-  avatar: /assets/avatar.png
+logo: /assets/avatar.png
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
