@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 5.0"
+gem "jekyll", "~> 4.3.3"
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme", "~> 0.2"
+gem "jekyll-remote-theme"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
+gem "jekyll-include-cache"

@@ -3,15 +3,16 @@ description: Un blog pigro, passivo e consapevole
 baseurl: ""
 url: "https://www.pigroepassivo.it"
 
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: mmistakes/so-simple-theme@3.2.0
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
-theme_skin: "default"
-lang: "it"
+theme_skin: default
+lang: it
 
 logo: /assets/avatar.png
 
