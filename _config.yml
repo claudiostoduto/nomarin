@@ -5,8 +5,7 @@ url: "https://claudiostoduto.github.io"
 baseurl: "/Pigroepassivo"            
 
 # Forza GitHub a ignorare i temi predefiniti
-theme: null
-remote_theme: null
+remote_theme: mmistakes/so-simple-theme
 
 # Plugin necessari
 plugins:
