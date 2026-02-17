@@ -7,7 +7,14 @@ sitemap: false
 
 @import "so-simple";
 
-.site-header {
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid rgba(0,0,0,0.06);
+/* --- Spazio tra header e featured image --- */
+.page-image {
+  margin-top: 1.5rem;   /* regola questo valore a gusto */
+}
+
+/* opzionale: un po’ meno spazio su mobile */
+@media (max-width: 768px) {
+  .page-image {
+    margin-top: 1rem;
+  }
 }
