@@ -3,11 +3,13 @@ layout: post
 title: "La mia recensione di Apple iPhone 17 Pro: che bella sorpresa"
 date: "2025-12-28 10:21:20 +0100"
 excerpt: "Non volevo cambiare il mio iPhone ma alla fine questo 17 Pro è un grandissimo upgrade."
-categories: []
-tags: []
+categories: [Tecnologia]
+tags: [recensione iphone 17 pro, apple iphone 17 pro, apple]
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d10983c9-16cb-4084-b957-a3e01b4eefda_665x1182.jpeg"
 ---
-![EB8352D2-656C-41CE-AFBB-2EFAEBD99821_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/d10983c9-16cb-4084-b957-a3e01b4eefda_665x1182.jpeg)Quando sono stati presentati i nuovi **iPhone 17** sono stato sicuramente molto critico nei loro confronti. Mai come quest’anno ammetto di non aver apprezzato le scelte estetiche di Apple nei confronti di questa gamma di prodotti, tuttavia era innegabile che avrebbero avuto un discreto successo finale. Perché? In genere i numeri dispari sono quelli che vendono di più, sebbene di poco. Chi è nel cerchio di cambiare il telefono almeno una volta ogni due anni (e son tanti stranamente), quest’anno era lì pronti per fare il salto. Anche io? No, ma alla fine si.
+![EB8352D2-656C-41CE-AFBB-2EFAEBD99821_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/d10983c9-16cb-4084-b957-a3e01b4eefda_665x1182.jpeg)
+
+Quando sono stati presentati i nuovi **iPhone 17** sono stato sicuramente molto critico nei loro confronti. Mai come quest’anno ammetto di non aver apprezzato le scelte estetiche di Apple nei confronti di questa gamma di prodotti, tuttavia era innegabile che avrebbero avuto un discreto successo finale. Perché? In genere i numeri dispari sono quelli che vendono di più, sebbene di poco. Chi è nel cerchio di cambiare il telefono almeno una volta ogni due anni (e son tanti stranamente), quest’anno era lì pronti per fare il salto. Anche io? No, ma alla fine si.
 
 Premetto: è una mia recensione, per il mio uso. Non sono un giornalista, non sono un tech blogger, non più. Sono un consumatore ed un appassionato. Vi riporto quegli elementi che mi hanno colpito nel bene o nel male.
 
