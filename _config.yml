@@ -15,3 +15,13 @@ plugins:
 
 # Percorso dei CSS del tema So Simple
 skin: "/assets/css/skins/default.css"
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Chi sono"
+    url: /chi-sono/
+  - title: "Blog"
+    url: /posts/
+  - title: "Tag"
+    url: /tags/
