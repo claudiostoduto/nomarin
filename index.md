@@ -2,6 +2,6 @@
 layout: home
 show_excerpts: true
 paginate: true
-entries_layout: grid
+entries_layout: list
 limit: 10
 ---
