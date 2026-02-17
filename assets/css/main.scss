@@ -7,12 +7,3 @@ sitemap: false
 
 @import "so-simple";
 
-/* Riduce l'immagine di copertina dei post */
-.post-header img,
-.page-header img,
-img.featured-image {
-  max-height: 320px;     /* altezza desiderata */
-  width: 100%;
-  object-fit: cover;     /* ritaglia senza deformare */
-  border-radius: 8px;    /* opzionale, più elegante */
-}
