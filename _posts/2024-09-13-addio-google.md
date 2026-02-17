@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Addio Google?
-date: "2024-09-13 11:30:56 +0200"
-excerpt: Piano piano sto limitando sempre di più i miei utilizzi di Google e dei suoi servizi.
-categories:
+date: 2024-09-13 11:30:56 +0200
+excerpt: Piano piano sto limitando sempre di più i miei utilizzi di Google e dei suoi
+  servizi.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/118f97ef-278b-48bf-8fab-c31ea7364c1c_1280x548.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/118f97ef-278b-48bf-8fab-c31ea7364c1c_1280x548.jpeg
 ---
 ![ass_goo.jpg](https://substack-post-media.s3.amazonaws.com/public/images/118f97ef-278b-48bf-8fab-c31ea7364c1c_1280x548.jpeg)Posso tranquillamente dire che il mio allontanamento da Google è iniziato praticamente con la fine della mia “carriera” da giornalista. Con la riconsegna del tesserino da pubblicista che tanto avevo ambito, diciamo che ho iniziato a dedicarmi sempre di più al mondo Apple andando a confermare come la prontezza e rapidità dei suoi prodotti fosse più efficace per me in questa fase della vita.
 

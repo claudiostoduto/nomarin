@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Soldi gratis
-date: "2024-08-21 13:27:56 +0200"
-categories:
+date: 2024-08-21 13:27:56 +0200
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/73270df1-39fe-4895-bda3-6e6c1c947151_1200x630.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/73270df1-39fe-4895-bda3-6e6c1c947151_1200x630.jpeg
 ---
 In questa pagina andiamo ad inserire tutti quelli che sono i codici sconto/presenta un amico ecc ecc per ottenere del denaro gratis senza fare praticamente nulla, o quasi.
 

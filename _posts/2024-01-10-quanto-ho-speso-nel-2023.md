@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Quanto ho speso nel 2023
-date: "2024-01-10 14:57:19 +0100"
+date: 2024-01-10 14:57:19 +0100
 excerpt: 2023 un anno di grandi spese e di follie generali. Quanto mi è costato?
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/87ac8968-adaa-41df-ba74-9130749c5810_2000x1390.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/87ac8968-adaa-41df-ba74-9130749c5810_2000x1390.png
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/87ac8968-adaa-41df-ba74-9130749c5810_2000x1390.png)Il 2023 è stato un anno molto particolare che ha portato con sé tantissime novità ed una serie di basi solide messe per il nuovo anno e per la gestione di un figlio all’interno di una coppia.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "“Effetto gennaio”: di cosa si tratta?"
-date: "2024-12-06 10:31:09 +0100"
-excerpt: Ci stiamo avviando alla chiusura dell’anno ma occhio a comprare sui mercati per via del cosiddetto “effetto gennaio”.
-categories:
+title: '“Effetto gennaio”: di cosa si tratta?'
+date: 2024-12-06 10:31:09 +0100
+excerpt: Ci stiamo avviando alla chiusura dell’anno ma occhio a comprare sui mercati
+  per via del cosiddetto “effetto gennaio”.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/eac9e408-0714-4b47-b61f-302e9e23a2d8_975x483.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/eac9e408-0714-4b47-b61f-302e9e23a2d8_975x483.png
 ---
 ![9c70a95d1889a7db4e78579427afac43.png](https://substack-post-media.s3.amazonaws.com/public/images/eac9e408-0714-4b47-b61f-302e9e23a2d8_975x483.png)Mi sono dato sempre un paio di regole da un paio di anni all’interno del mondo degli investimenti. La prima è stata mai comprare sotto natale,salvo dei collassi eccezionali. La seconda invece è stata quella di mantenere sempre il più basso possibile il mio PMC.
 

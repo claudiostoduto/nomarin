@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Perché ho venduto la serratura smart
-date: "2024-11-18 10:30:46 +0100"
+date: 2024-11-18 10:30:46 +0100
 excerpt: Avevo acquistato una serratura smart di Switchbot ma l’ho venduta.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/eaf94957-1b0d-4705-86e1-8885823c083f_880x495.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/eaf94957-1b0d-4705-86e1-8885823c083f_880x495.png
 ---
 ![switchbot-lock-pro_880x495.png](https://substack-post-media.s3.amazonaws.com/public/images/eaf94957-1b0d-4705-86e1-8885823c083f_880x495.png)Qualche mese fa vi raccontai che avevo in mente un progetto per cui mi sarei voluto sbarazzare delle chiavi di casa in favore della tecnologia. Perché? Perché vogliamo rendere tutto più tecnologico, ma l’epilogo di questa storia sicuramente non è ciò che vi state immaginando.
 

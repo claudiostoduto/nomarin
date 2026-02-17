@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Non ho mai usato il tasto azione di iPhone 15 Pro Max
-date: "2024-04-22 12:30:56 +0200"
-excerpt: Sono ormai passati diversi mesi da quando ho preso iPhone 15 Pro Max ma non ho mai usato il pulsante Action.
-categories:
+date: 2024-04-22 12:30:56 +0200
+excerpt: Sono ormai passati diversi mesi da quando ho preso iPhone 15 Pro Max ma non
+  ho mai usato il pulsante Action.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/f2703fda-d524-4874-b70e-fab92860a2e9_1600x900.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/f2703fda-d524-4874-b70e-fab92860a2e9_1600x900.png
 ---
 ![Tasto-azione-iPhone-15-Pro-e-15-Pro-Max.png](https://substack-post-media.s3.amazonaws.com/public/images/f2703fda-d524-4874-b70e-fab92860a2e9_1600x900.png)Giusto qualche giorno fa mi sono reso conto come anche Aprile, fra una cosa e l’altra, fosse praticamente finito il che vuole dire che siamo già a circa sei mesi d’uso **dell’iPhone 15 Pro Max**. Lo scorso anno, come saprete, ho fatto il passaggio a questo nuovo modello che mi ha portato non pochi dubbi in merito. Sebbene ad oggi sia soddisfatto del prodotto, non posso non dire che avrei tirato ancora avanti parecchio con il mio vecchio 13 Pro Sierra Blu che mi sono pentito di aver dato vita.
 

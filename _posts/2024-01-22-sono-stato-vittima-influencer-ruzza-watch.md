@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Sono stato “vittima” dell’influencer marketing
-date: "2024-01-22 14:30:51 +0100"
-excerpt: Ammetto di essere caduto nella trappola. Qualche mese fa ho comprato anche io un Ruzza Watch.
-categories:
+date: 2024-01-22 14:30:51 +0100
+excerpt: Ammetto di essere caduto nella trappola. Qualche mese fa ho comprato anche
+  io un Ruzza Watch.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/9e341b2a-1ed4-40d5-9265-b3e6f63bf431_3024x4032.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/9e341b2a-1ed4-40d5-9265-b3e6f63bf431_3024x4032.jpeg
 ---
 Ammetto di esserci cascato e di aver dovuto cedere ad un prodotto venduto da un influencer. Mi è successo nel mese di ottobre in cui ho comprato il **Ruzza Watch**, l'orologio dell'omonimo influencer venditore di orologi di lusso con sede a Milano.
 

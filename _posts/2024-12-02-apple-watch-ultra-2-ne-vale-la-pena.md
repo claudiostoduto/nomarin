@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Apple Watch Ultra 2: ne vale la pena?"
-date: "2024-12-02 10:31:04 +0100"
-excerpt: Con la laurea mi è arrivato in regalo un Apple Watch Ultra 2 che ad oggi non sostituirei più con un modello normale.
-categories:
+title: 'Apple Watch Ultra 2: ne vale la pena?'
+date: 2024-12-02 10:31:04 +0100
+excerpt: Con la laurea mi è arrivato in regalo un Apple Watch Ultra 2 che ad oggi
+  non sostituirei più con un modello normale.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/34b77a19-d332-45c1-9034-caad8ea515b6_1200x630.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/34b77a19-d332-45c1-9034-caad8ea515b6_1200x630.jpeg
 ---
 ![Apple-Watch-Ultra-on-Wrist-Pocket.jpg](https://substack-post-media.s3.amazonaws.com/public/images/34b77a19-d332-45c1-9034-caad8ea515b6_1200x630.jpeg)Lo bramavo, poi mi dicevo che era inutile. Lo volevo ma poi mi raccontavo che non serviva a niente. Alla fine ho ceduto. Ne abbiamo parlato in una vecchia puntata di [LIFE](https://www.mrclaus.xyz/s/life) e di come alla fine lo abbia pagato in realtà molto poco ma poi è divenuto un regalo per cui…ma di cosa parlo? Di **Apple Watch Ultra 2**.
 

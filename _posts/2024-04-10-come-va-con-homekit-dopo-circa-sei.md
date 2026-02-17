@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Come va con HomeKit dopo circa sei mesi?
-date: "2024-04-10 15:01:09 +0200"
-excerpt: Dopo aver preso la decisione di passare direttamente tutto su HomeKit, mi guardo indietro e non me ne pento e non penso ad Home Assistant, per ora.
-categories:
+date: 2024-04-10 15:01:09 +0200
+excerpt: Dopo aver preso la decisione di passare direttamente tutto su HomeKit, mi
+  guardo indietro e non me ne pento e non penso ad Home Assistant, per ora.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/96b12788-3e2b-4da3-b4c3-35fb82cb8e0c_1200x900.webp"
+image: https://substack-post-media.s3.amazonaws.com/public/images/96b12788-3e2b-4da3-b4c3-35fb82cb8e0c_1200x900.webp
 ---
 ![IMG_0156.webp](https://substack-post-media.s3.amazonaws.com/public/images/96b12788-3e2b-4da3-b4c3-35fb82cb8e0c_1200x900.webp)Circa sei mesi fa presi la "grande" decisione di migrare l'intera gestione domotica su [HomeKit](https://www.mrclaus.xyz/p/sono-passato-ad-homekit-come-riferimento?utm_source=%2Fsearch%2Fhomekit&utm_medium=reader2). I dubbi furono diversi così come alcune “critiche” da amici che non comprendevano il motivo della mia scelta. Ad oggi, zero problemi. Non scherzo. Non una disconnessione, non un accessorio che non rispondesse. Niente. Tanta invece la soddisfazione perché, come giustamente voglio io, la tecnologia qui mi aiuta e mi semplifica la vita.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ho sostituito Pocket con GoodLinks
-date: "2024-11-11 10:30:54 +0100"
-excerpt: Non ho mai digerito Pocket come servizio di read it later, finalmente lo ho sostituito con GoodLinks.
-categories:
+date: 2024-11-11 10:30:54 +0100
+excerpt: Non ho mai digerito Pocket come servizio di read it later, finalmente lo
+  ho sostituito con GoodLinks.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/185d6ba4-7dd3-47c8-8f1e-56f20fb2a5b8_2266x1488.heic"
+image: https://substack-post-media.s3.amazonaws.com/public/images/185d6ba4-7dd3-47c8-8f1e-56f20fb2a5b8_2266x1488.heic
 ---
 ![Immagine.heic](https://substack-post-media.s3.amazonaws.com/public/images/185d6ba4-7dd3-47c8-8f1e-56f20fb2a5b8_2266x1488.heic)I servizi di read it later sono comodi. Li ho sempre usati nel tempo e trovai tanto tempo fa una quadra con Instapaper. Poi ebbe mille problemi con l’UE che ne limitò non poco l’utilizzo. Decisi quindi di passare a malincuore a Pocket e via. Qui persi tantissimi link negli anni oltre a non avere una gestione che mi sia mai realmente piaciuta. Sommiamoci poi l’ulteriore modifica di modello di qualche anno fa con un passaggio anche fra articoli sponsorizzati. Insomma, perché continuare? Ammetto che non è mai stato un servizio che ho amato, in cui ho creduto e che mi sono sentito persino di voler supportare. Certo sarei potuto tornare ad Instapaper, ma mi sono interrogato sul fatto se avesse realmente senso oppure no.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: The Mamba mentality. Il mio basket
-date: "2022-09-15 12:03:00 +0200"
-excerpt: È spettacolare leggere la cura meticolosa di ogni dettaglio con cui Kobe preparava ogni singola partita della sua lunga carriera.
-categories:
+date: 2022-09-15 12:03:00 +0200
+excerpt: È spettacolare leggere la cura meticolosa di ogni dettaglio con cui Kobe
+  preparava ogni singola partita della sua lunga carriera.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/2a2fff39-7c50-4b9b-9b64-285b23649bfd_415x500.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/2a2fff39-7c50-4b9b-9b64-285b23649bfd_415x500.jpeg
 ---
 Autore: **Kobe Bryant**
 

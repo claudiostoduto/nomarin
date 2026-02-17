@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Come chiudere un conto corrente di qualsiasi banca attraverso BBVA
-date: "2024-10-18 08:30:39 +0200"
-excerpt: Ho chiuso un conto di Credit Agricole tramite BBVA senza recarmi in filiale fisica.
-categories:
+date: 2024-10-18 08:30:39 +0200
+excerpt: Ho chiuso un conto di Credit Agricole tramite BBVA senza recarmi in filiale
+  fisica.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/fede2f71-0209-4225-83fe-de4c2f3f3ed7_1920x2074.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/fede2f71-0209-4225-83fe-de4c2f3f3ed7_1920x2074.png
 ---
 ![Immagine.png](https://substack-post-media.s3.amazonaws.com/public/images/fede2f71-0209-4225-83fe-de4c2f3f3ed7_1920x2074.png)Il mondo delle banche online è sicuramente comodo, veloce e molto pratico sotto tantissimi punti di vista. Spesso ci ritroviamo ad aprire vari conti online per sfruttare promozioni, buoni Amazon e via dicendo. E poi come lo chiudiamo? Spesso, purtroppo, una PEC non basta più e varie banche ci chiedono di portare in filiale le loro carte, di dover prendere un appuntamento ecc ecc.
 

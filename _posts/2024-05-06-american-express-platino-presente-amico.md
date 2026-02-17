@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Massimizza i tuoi risparmi con American Express Platino: scopri il codice amico che ti regala fino a 720 Euro!"
-date: "2024-05-06 10:01:10 +0200"
-excerpt: Come guadagnare 720 euro con American Express Platino? Semplice con questo codice.
-categories:
+title: 'Massimizza i tuoi risparmi con American Express Platino: scopri il codice
+  amico che ti regala fino a 720 Euro!'
+date: 2024-05-06 10:01:10 +0200
+excerpt: Come guadagnare 720 euro con American Express Platino? Semplice con questo
+  codice.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/12194397-373d-4bbf-b2d6-143f06df9e3c_2000x1500.webp"
+image: https://substack-post-media.s3.amazonaws.com/public/images/12194397-373d-4bbf-b2d6-143f06df9e3c_2000x1500.webp
 ---
 ![url.webp](https://substack-post-media.s3.amazonaws.com/public/images/12194397-373d-4bbf-b2d6-143f06df9e3c_2000x1500.webp)Se sei un appassionato di viaggi, shopping o semplicemente desideri massimizzare i tuoi risparmi, **American Express Platino** è la carta che fa per te! E oggi ho una notizia fantastica da condividere con te: grazie al mio esclusivo codice amico, potrai ottenere un incredibile bonus di fino **a 720 euro**!
 

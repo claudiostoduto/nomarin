@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Apple cancella Apple Car, la sua auto elettrica
-date: "2024-02-28 07:30:33 +0100"
-excerpt: La notizia non era nell’aria ma ora, dopo le parole di Gurman, è ufficiale la cancellazione del progetto Apple Car.
-categories:
+date: 2024-02-28 07:30:33 +0100
+excerpt: La notizia non era nell’aria ma ora, dopo le parole di Gurman, è ufficiale
+  la cancellazione del progetto Apple Car.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/fa3ef114-5c76-4607-bef7-e401393778e9_1500x840.webp"
+image: https://substack-post-media.s3.amazonaws.com/public/images/fa3ef114-5c76-4607-bef7-e401393778e9_1500x840.webp
 ---
 ![apple-car-carplay-design.jpg.webp](https://substack-post-media.s3.amazonaws.com/public/images/fa3ef114-5c76-4607-bef7-e401393778e9_1500x840.webp)Non so voi, ma io non ci ho mai creduto alla possibilità di una fantomatica **Apple Car**. Questo progetto negli anni è stato tanto chiacchierato quanto discusso ed ha sempre attirato molto interesse sia dal punto di vista della stampa ma anche fra gli appassionati del settore. Apple lo sappiamo che quando scende in campo lo fa con i suoi tempi per arrivare poi nel migliore dei modi (qualcuno ha detto Vision Pro?). Per cui la lunga attesa sembrava essere il classico filone del canovaccio tipico di Cupertino.
 

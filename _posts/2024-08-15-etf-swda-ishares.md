@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Non so investire, scelgo l'ETF SWDA"
-date: "2024-08-15 11:30:22 +0200"
-excerpt: Se non so investire o non ho una cultura in tal senso, posso comunque mettere al sicuro i miei risparmi dall’inflazione con un semplice ETF.
-categories:
+title: Non so investire, scelgo l'ETF SWDA
+date: 2024-08-15 11:30:22 +0200
+excerpt: Se non so investire o non ho una cultura in tal senso, posso comunque mettere
+  al sicuro i miei risparmi dall’inflazione con un semplice ETF.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/ccba1819-305f-4576-9a86-41e44532f434_628x330.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/ccba1819-305f-4576-9a86-41e44532f434_628x330.png
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/ccba1819-305f-4576-9a86-41e44532f434_628x330.png)Tutti quanti vogliamo sempre avere a disposizione **più denaro** per vivere meglio e stare meglio nel corso della nostra vita. Spesso però siamo stati abituati che il mondo finanziario fosse inaccessibile, con competenze enormi da dover avere e con una gestione, in termini di tempo, esagerata. Ok in buona parte tutto questo è vero. Bisogna avere chiaramente competenze, conoscenze e soprattutto informazioni dettate dalla curiosità e della volontà di apprendere. Ma piano piano è arrivata la semplicità anche in questo mondo complesso.
 

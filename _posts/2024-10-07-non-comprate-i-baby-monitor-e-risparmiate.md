@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Non comprate i baby monitor e risparmiate soldi
-date: "2024-10-07 10:30:59 +0200"
-excerpt: Da buon genitore, vuoi non avere un baby monitor? Ovviamente. Ma non lo pago 100 euro mi spiace.
-categories:
+date: 2024-10-07 10:30:59 +0200
+excerpt: Da buon genitore, vuoi non avere un baby monitor? Ovviamente. Ma non lo pago
+  100 euro mi spiace.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/725cf2bb-b746-48de-a1b1-7c8aab74e2fe_2048x1365.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/725cf2bb-b746-48de-a1b1-7c8aab74e2fe_2048x1365.jpeg
 ---
 ![1-vm3251_hero_lifestyle-min-100759096-orig.jpg](https://substack-post-media.s3.amazonaws.com/public/images/725cf2bb-b746-48de-a1b1-7c8aab74e2fe_2048x1365.jpeg)Di recente mi sono imbattuto nella necessità di comprare un fantastico e bellissimo Baby Monitor per controllare mio figlio durante le sue enormi e bellissime pennichelle giornaliere e serali. Con un neonato non sai mai cosa può succedere ed avere sempre la situazione sotto controllo può:
 

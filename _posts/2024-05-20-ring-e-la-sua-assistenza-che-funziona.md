@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ring e la sua assistenza che funziona
-date: "2024-05-20 12:27:37 +0200"
-excerpt: Ho comprato un Ring Intercom nel corso di una fantastica offerta su Amazon ma avevo il problema delle chiamate fantasma.
-categories:
+date: 2024-05-20 12:27:37 +0200
+excerpt: Ho comprato un Ring Intercom nel corso di una fantastica offerta su Amazon
+  ma avevo il problema delle chiamate fantasma.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/503f8fde-d1fa-40e1-a013-91c3d2370c91_1400x700.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/503f8fde-d1fa-40e1-a013-91c3d2370c91_1400x700.png
 ---
 ![ring_ringtercom_blog_banner_01_1400_700.png](https://substack-post-media.s3.amazonaws.com/public/images/503f8fde-d1fa-40e1-a013-91c3d2370c91_1400x700.png)Sono passati ormai un paio di mesi da quando ho comprato un **Ring Intercom** per rendere più smart anche il mio citofono di casa. Il motivo principale? Renderlo compatibile con **HomeKit** attraverso **Homebridge** ed il mio NAS Synology. Volevo un pulsantone dentro la mia Casa su HomeKit da premere per non usare le chiavi, in attesa di una serratura smart che dovrebbe arrivare a breve.
 

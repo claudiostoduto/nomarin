@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Comprare casa conviene?
-date: "2023-09-18 17:45:30 +0200"
-excerpt: Maggio 2022 decido di comprare una casa da ristrutturare ma dopo un anno economicamente ancora non mi sono ripreso.
-categories:
+date: 2023-09-18 17:45:30 +0200
+excerpt: Maggio 2022 decido di comprare una casa da ristrutturare ma dopo un anno
+  economicamente ancora non mi sono ripreso.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/089e1f1a-3408-4b4e-8345-bf4224fbd8ad_909x336.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/089e1f1a-3408-4b4e-8345-bf4224fbd8ad_909x336.png
 ---
 Dopo più di un anno dall’acquisto di casa e dopo averla finalmente e realmente sistemata e finita, ho voluta tracciare un bilancio della situazione economico finanziaria del mio acquisto immobiliare e capire se, nell’ottica futura, ne è valsa la pena oppure no. Vediamo il tutto con l’aiuto di alcune tabelline, che tanto mi piacciono, e tiriamo le conclusioni sulle singole valutazioni fra il pre acquisto, quindi quando ero in affitto, ed il post.
 

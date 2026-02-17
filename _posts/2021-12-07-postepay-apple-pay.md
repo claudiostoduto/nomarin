@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Come associare la carta PostePay o BancoPosta ad Apple Pay su iPhone
-date: "2021-12-07 23:19:00 +0100"
-excerpt: Poste Italiane ha annunciato oggi la compatibilità con Apple Pay per tutte le sue carte di pagamento. Con calma.
-categories:
+date: 2021-12-07 23:19:00 +0100
+excerpt: Poste Italiane ha annunciato oggi la compatibilità con Apple Pay per tutte
+  le sue carte di pagamento. Con calma.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/9122992a-021b-4029-9950-dbf63602debb_600x337.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/9122992a-021b-4029-9950-dbf63602debb_600x337.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/9122992a-021b-4029-9950-dbf63602debb_600x337.jpeg)Alla fine **Poste Italiane**, dopo anni di attesa, ha rilasciato la compatibilità ad **Apple Pay** per le sue carte di pagamento. Da oggi gli utenti PostePay e BancoPosta potranno associare la loro carta direttamente al Wallet di Apple per pagare quindi tramite smartphone, smartwatch, tablet o Mac.
 

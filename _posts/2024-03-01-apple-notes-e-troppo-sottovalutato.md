@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Apple Notes é troppo sottovalutato
-date: "2024-03-01 14:12:30 +0100"
-excerpt: Note di Apple è un’applicazione che, davvero, sottovalutiamo troppo per le potenzialità che mette a disposizione.
-categories:
+date: 2024-03-01 14:12:30 +0100
+excerpt: Note di Apple è un’applicazione che, davvero, sottovalutiamo troppo per le
+  potenzialità che mette a disposizione.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/c07a3289-9bc8-4fe6-b05a-b42255fea188.heic"
+image: https://substack-post-media.s3.amazonaws.com/public/images/c07a3289-9bc8-4fe6-b05a-b42255fea188.heic
 ---
 Da qualche settimana ormai sto usando le Note di Apple come grande aggregatore. Oltre ad essere le note condivise in famiglia, i veloci appunti presi e via dicendo, ci ho anche trasferito sopra il mio blog da [Notion](https://www.mrclaus.xyz/p/notion-vs-apple-notes).
 

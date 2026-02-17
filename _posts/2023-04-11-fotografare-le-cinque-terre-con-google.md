@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Fotografare le Cinque Terre con Google Pixel 6a
-date: "2023-04-11 12:59:00 +0200"
-excerpt: Il Google Pixel 6a rimane oggi un telefono concreto, affidabile e da un ottimo comparto fotografico.
-categories:
+date: 2023-04-11 12:59:00 +0200
+excerpt: Il Google Pixel 6a rimane oggi un telefono concreto, affidabile e da un ottimo
+  comparto fotografico.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/cddd1faa-5deb-4d1c-ad4a-a51ed09b842e_3024x4032.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/cddd1faa-5deb-4d1c-ad4a-a51ed09b842e_3024x4032.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/cddd1faa-5deb-4d1c-ad4a-a51ed09b842e_3024x4032.jpeg) Sono stato per un weekend intero alle **Cinque Terre** durante queste vacanze di Pasqua. Prima di partire ero alla ricerca di un telefono Android da affiancare al mio iPhone 13 Pro dopo i “problemi” avuti con S23 Ultra e Xiaomi 13. Ero tentato da qualche altro modello sono sincero, ma poi alla fine ho ceduto ed ho preso il **Google Pixel 6a per la terza volta.** Si avete letto bene tre. Ho preso praticamente tutti i colori alla fine ed ora sono con il modello Salvia (bellissimo).
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Come iniziare ad investire nel 2024: step 4"
-date: "2024-08-30 12:01:10 +0200"
-excerpt: "Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi ora pensiamo al nostro futuro post lavoro: il fondo pensione."
-categories:
+title: 'Come iniziare ad investire nel 2024: step 4'
+date: 2024-08-30 12:01:10 +0200
+excerpt: 'Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi
+  ora pensiamo al nostro futuro post lavoro: il fondo pensione.'
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/60b6a0b8-83e3-4b31-aef7-6cbfea993e1f_1024x1024.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/60b6a0b8-83e3-4b31-aef7-6cbfea993e1f_1024x1024.png
 ---
 ![Pasted Graphic.png](https://substack-post-media.s3.amazonaws.com/public/images/60b6a0b8-83e3-4b31-aef7-6cbfea993e1f_1024x1024.png)A Gennaio del 2024 ho tirato una riga importante su tanti aspetti della mia vita. Fino ad oggi abbiamo visto come risparmiare, come azzerare i costi e come creare un fondo di emergenza. Oggi vediamo più da vicino il **fondo pensione**, un prodotto a cui tengo molto e che personalmente trovo estremamente utile specie nel lungo periodo.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: La miglior American Express
-date: "2024-09-25 08:31:21 +0200"
-excerpt: Dopo aver provato anche l’Amex Platino, ho scoperto la miglior American Express da richiedere.
-categories:
+date: 2024-09-25 08:31:21 +0200
+excerpt: Dopo aver provato anche l’Amex Platino, ho scoperto la miglior American Express
+  da richiedere.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/f5423bb7-8798-4f00-a9f4-39efc1eccc49_1200x630.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/f5423bb7-8798-4f00-a9f4-39efc1eccc49_1200x630.png
 ---
 ![1200x630wa.png](https://substack-post-media.s3.amazonaws.com/public/images/f5423bb7-8798-4f00-a9f4-39efc1eccc49_1200x630.png)Di recente, come vi avevo raccontato, ho [provato](https://www.mrclaus.xyz/p/perche-ho-deciso-di-spendere-720?utm_source=publication-search) anche l’**American Express** Platino. Sono passati 5 mesi quasi e, come detto su Telegram, ho chiuso quella posizione. Ma su questo ci arriveremo in un secondo momento perché non è detto che in futuro non vi ritorni, anzi.
 

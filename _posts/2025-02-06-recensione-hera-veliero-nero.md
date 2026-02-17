@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Recensione: Hera Veliero nero"
-date: "2025-02-06 08:36:00 +0100"
-categories:
+title: 'Recensione: Hera Veliero nero'
+date: 2025-02-06 08:36:00 +0100
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/a5bfabb2-97fb-40a7-aa0f-d2cc7a64c8b3_1536x2048.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/a5bfabb2-97fb-40a7-aa0f-d2cc7a64c8b3_1536x2048.jpeg
 ---
 ![CC384988-1AAB-4FF4-9632-BFD185F27DDA_1_102_a.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/a5bfabb2-97fb-40a7-aa0f-d2cc7a64c8b3_1536x2048.jpeg)Da tempo desideravo mettere le mani su questo **Hera Veliero**, certo che mi avrebbe conquistato sin dal primo sguardo. L'attesa è stata ricompensata: oggi vanta un posto d'onore nella mia collezione, essendo uno dei miei modelli preferiti.
 

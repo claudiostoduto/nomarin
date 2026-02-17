@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Day One è la miglior Journal App
-date: "2024-09-16 11:30:41 +0200"
-excerpt: Ho ripreso a scrivere seriamente su Day One da quasi un anno, non ne posso più fare a meno.
-categories:
+date: 2024-09-16 11:30:41 +0200
+excerpt: Ho ripreso a scrivere seriamente su Day One da quasi un anno, non ne posso
+  più fare a meno.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/c67dde1c-d7e6-4de3-81c3-ed47aece4b99_3070x1036.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/c67dde1c-d7e6-4de3-81c3-ed47aece4b99_3070x1036.png
 ---
 ![Screenshot 2024-09-07 alle 07.34.40.png](https://substack-post-media.s3.amazonaws.com/public/images/c67dde1c-d7e6-4de3-81c3-ed47aece4b99_3070x1036.png)Quando scaricai, tanti anni fa ormai, **Day One** era una di quelle applicazioni unicamente create per iPhone. Per me che venivo da Android e da quel mondo aperto trovare un’applicazione così fatta bene e funzionante era veramente una manna dal cielo.
 

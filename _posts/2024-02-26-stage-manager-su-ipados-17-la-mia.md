@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Stage Manager su iPadOS 17: la mia opinione"
-date: "2024-02-26 12:08:25 +0100"
-excerpt: Ci sono alcune novità di Apple che non riesco a digerire, una di queste è Stage Manager su iPadOS.
-categories:
+title: 'Stage Manager su iPadOS 17: la mia opinione'
+date: 2024-02-26 12:08:25 +0100
+excerpt: Ci sono alcune novità di Apple che non riesco a digerire, una di queste è
+  Stage Manager su iPadOS.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/828136da-b6f1-4658-b958-32d346a06051_2360x1640.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/828136da-b6f1-4658-b958-32d346a06051_2360x1640.png
 ---
 Ammetto che quando sono arrivate le prime vere novità per **iPad** con i modelli dotati di chip M1 mi son detto: “Dai che è la volta buona!”. Poi mi sono nuovamente ricreduto, come sempre. Lo sappiamo, noi che amiamo il tablet di Apple allo stesso tempo lo odiamo anche per cui non facciamoci tanti problemi nell’ammettere questa cosa suvvia. Gli ultimi aggiornamenti, per quanto interessanti, non hanno mai portato a ciò che tutti noi vorremmo ovvero che l’iPad sostituisse in toto il Mac per tutti. Non sarà mai così, ma noi inguaribili romantici, ci pensiamo e ripensiamo sempre ogni volta.
 

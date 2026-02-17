@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ho cambiato fornitore di luce e gas grazie a Reddit
-date: "2024-11-08 09:01:51 +0100"
-excerpt: Reddit Questa estate ho cambiato i contratti di luce e gas lasciando il mio vecchio operatore, tutto grazie a Reddit.
-categories:
+date: 2024-11-08 09:01:51 +0100
+excerpt: Reddit Questa estate ho cambiato i contratti di luce e gas lasciando il mio
+  vecchio operatore, tutto grazie a Reddit.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/42ea37f4-fd68-497d-b4c9-564b00ecc4a2_825x293.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/42ea37f4-fd68-497d-b4c9-564b00ecc4a2_825x293.png
 ---
 ![eon.png](https://substack-post-media.s3.amazonaws.com/public/images/42ea37f4-fd68-497d-b4c9-564b00ecc4a2_825x293.png)Il titolo non è un clickbait sia chiaro. Questa estate, durante la mia paternità, mi sono un attimo messo a ricontrollare le **offerte di luce e gas** per capire come uscire dal mio vecchio operatore a causa di alcuni comportamenti avuti che non mi sono piaciuti per nulla. In due anni quasi di forniture non ho avuti molti problemi, anzi spesso ho risparmiato ma quando l’assistenza clienti manca e, soprattutto, c’è dell’ignoranza alla base io perdo le staffe.
 

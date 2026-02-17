@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Revolut conto cointestato: 10 minuti e via"
-date: "2023-11-06 18:30:17 +0100"
-excerpt: Revolut mi ha risolto un problema che mi portavo dietro da questa estate in meno di dieci minuti.
-categories:
+title: 'Revolut conto cointestato: 10 minuti e via'
+date: 2023-11-06 18:30:17 +0100
+excerpt: Revolut mi ha risolto un problema che mi portavo dietro da questa estate
+  in meno di dieci minuti.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png)Sono un grande fan di **Revolut**. Seguo l’evoluzione di questa “banca” dai suoi albori ed ammetto che mi sono sempre trovato bene con loro in passato quando ho utilizzato il servizio. Poi, per questioni contrattuali, ho dovuto optare per altre strade e non potevo più avere un conto estero con loro. Nelle ultime settimane, grazie ad un cambio di accordo, finalmente sono potuto rientrarne in possesso.
 

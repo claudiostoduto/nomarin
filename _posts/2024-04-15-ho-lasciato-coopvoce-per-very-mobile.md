@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Ho lasciato CoopVoce per Very Mobile
-date: "2024-04-15 11:52:31 +0200"
+date: 2024-04-15 11:52:31 +0200
 excerpt: Dopo un mio errore ho deciso di lasciare CoopVoce per ripassare a Very Mobile.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/7f4cbb7d-753a-4ba2-9a89-949c3097c9e3_1280x889.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/7f4cbb7d-753a-4ba2-9a89-949c3097c9e3_1280x889.jpeg
 ---
 ![IMG_0159.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/7f4cbb7d-753a-4ba2-9a89-949c3097c9e3_1280x889.jpeg)Ritorniamo a parlare di **Very Mobile**, già. Ho fatto una cavolata, che un po’ mi sono cercato con le mie stesse mani. Sul mio numero secondario, avevo una promozione di CoopVoce con minuti e messaggi illimitati a 9,90 euro al mese. Ok, cosa c’è di strano? Che il traffico internet era anch’esso illimitato. O meglio limitato alla soglia “congrua” dei 500 GB ma potenzialmente illimitato. Era veramente ottima e me la portavo avanti da un paio di anni. Unico neo, giusto, di CoopVoce è che se ti dimentichi di ricaricare e passano più di 30 giorni dall’ultimo non rinnovo della promozione viene disattivata e tu la perdi. Io me ne sono completamente dimenticato ed a quel punto mi son detto che non c’erano tante speranze. Ho provato lo stesso un giro al numero verde, ma… niente è andata. Un bel peccato, mi sarebbe piaciuto mantenerla anche se oggi 10 euro al mese per un cellulare secondario iniziano ad essere tantini.
 

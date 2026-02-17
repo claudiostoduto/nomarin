@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ho abbandonato quasi tutti i podcast di Chora
-date: "2025-12-10 08:08:05 +0100"
-excerpt: Ebbene si, alla fine mi sono deciso di abbandonare la maggior parte dei podcast di Chora Media.
-categories:
+date: 2025-12-10 08:08:05 +0100
+excerpt: Ebbene si, alla fine mi sono deciso di abbandonare la maggior parte dei podcast
+  di Chora Media.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png
 ---
 ![url.png](https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png)Sono un grande fruitore di **podcast**. Lo sono dai tempi dell’università, ergo oltre 10 anni fa (madonna come passa il tempo). I primi in assoluto, che seguo ancora oggi, sono stati [Luca e Federico di EasyApple](https://www.easypodcast.it/easyapple) per poi via via scoprire tante nuove voci ed argomenti. Non sono di contro un grande fruitore della radio, per cui in auto ho sempre deciso io cosa e quando ascoltare una cosa. Ho usato il mondo dei podcast come fonte di informazione per anni per poi arrivare a scoprire tutto il mondo di Will prima ed ora di **Chora**.
 

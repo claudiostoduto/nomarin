@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Cosa fare con i mercati in rosso
-date: "2025-03-21 09:19:39 +0100"
-excerpt: Ormai sono due settimane piene che i mercati stanno andando in rosso quasi regolarmente. Cosa fare con i propri investimenti?
-categories:
+date: 2025-03-21 09:19:39 +0100
+excerpt: Ormai sono due settimane piene che i mercati stanno andando in rosso quasi
+  regolarmente. Cosa fare con i propri investimenti?
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/c2fb37fd-fd85-456d-9a1e-af6c001b325f_735x416.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/c2fb37fd-fd85-456d-9a1e-af6c001b325f_735x416.jpeg
 ---
 ![082040692-ee9e40fd-2fe1-4539-8baf-2676ad809abb.jpg](https://substack-post-media.s3.amazonaws.com/public/images/c2fb37fd-fd85-456d-9a1e-af6c001b325f_735x416.jpeg)Tutti coloro che investono sul mercato azionario, in un modo o nell'altro, si stanno interrogando su cosa fare in queste ore con i proprio soldi. I mercati segnano rosso ormai quasi in maniera costante da settimane e non si sa cosa potrà succedere nel breve peridio. Sarà colpa di Trump? Dello zio Elon? Di chiunque sia la colpa, è una flessione che non ci aspettavamo sicuramente ma che tale è e si sta verificando.
 

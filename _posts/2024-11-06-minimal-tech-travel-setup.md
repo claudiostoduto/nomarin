@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Minimal Tech Travel Setup
-date: "2024-11-06 10:30:48 +0100"
+date: 2024-11-06 10:30:48 +0100
 excerpt: Viaggiare leggeri è veramente un must, forse ho trovato il mio setup definitivo.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/0b372831-c452-4f66-bf56-6e7dba27c28b_5198x3899.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/0b372831-c452-4f66-bf56-6e7dba27c28b_5198x3899.jpeg
 ---
 ![IMG_5507.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/0b372831-c452-4f66-bf56-6e7dba27c28b_5198x3899.jpeg)Sono stato qualche giorno in vacanza in montagna con la mia allegra famiglia e posso confermare una cosa più che mai: se diventi genitore, devi ridurre il più possibile il peso delle tue cose. I motivi sono molteplici partendo dal baule dell’auto che diventa indubbiamente piccolo quanto quello di una smart fino ad arrivare alla gestione del tempo che non hai più, quindi che ti serve avere una marea di cose poi inutili?
 

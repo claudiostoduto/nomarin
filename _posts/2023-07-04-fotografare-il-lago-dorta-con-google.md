@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Fotografare il Lago d’Orta con Google Pixel 7a
-date: "2023-07-04 12:27:00 +0200"
-excerpt: Il Google Pixel 7a mi sta dando non poche soddisfazioni dopo il recente aggiornamento, specie in ambito fotografico.
-categories:
+date: 2023-07-04 12:27:00 +0200
+excerpt: Il Google Pixel 7a mi sta dando non poche soddisfazioni dopo il recente aggiornamento,
+  specie in ambito fotografico.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/d409ccf3-62ff-40e2-b164-f4767a8c8f32_2114x3759.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/d409ccf3-62ff-40e2-b164-f4767a8c8f32_2114x3759.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/d409ccf3-62ff-40e2-b164-f4767a8c8f32_2114x3759.jpeg)## 
 

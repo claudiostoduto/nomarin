@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Come chiudere un conto corrente attraverso isybank
-date: "2024-10-25 08:34:43 +0200"
-excerpt: Puoi chiudere qualsiasi tipologia di conto corrente tramite isybank senza recarti in alcuna filiale.
-categories:
+date: 2024-10-25 08:34:43 +0200
+excerpt: Puoi chiudere qualsiasi tipologia di conto corrente tramite isybank senza
+  recarti in alcuna filiale.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/b3777cc0-2c11-46fa-96e8-335e028159a2_1920x1381.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/b3777cc0-2c11-46fa-96e8-335e028159a2_1920x1381.png
 ---
 ![IMG_5313.png](https://substack-post-media.s3.amazonaws.com/public/images/b3777cc0-2c11-46fa-96e8-335e028159a2_1920x1381.png)Abbiamo parlato qualche giorno fa della possibilità di andare a chiudere un conto corrente di qualsiasi banca tramite BBVA, la nostra banca preferita visto il 4% di rendimento lordo che ci da fino a fine gennaio 2025. Una pratica, quella del Cambio Facile (così chiamata dall’azienda) che in pochi click ti evita di doverti recare in una filiale fisica a chiudere manualmente quel conto corrente.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Apple e Goldman Sachs: siamo già alla fine?"
-date: "2023-12-13 11:00:47 +0100"
-excerpt: Apple potrebbe a breve annunciare un nuovo partner finanziario dopo l’uscita di Goldman Sachs dal precedente accordo.
-categories:
+title: 'Apple e Goldman Sachs: siamo già alla fine?'
+date: 2023-12-13 11:00:47 +0100
+excerpt: Apple potrebbe a breve annunciare un nuovo partner finanziario dopo l’uscita
+  di Goldman Sachs dal precedente accordo.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png)Non sono ore semplici a Cupertino. No scherzo siamo sotto periodo natalizio e le vendite, in un modo o nell’altro, andranno comunque molto molto bene. I prodotti Apple sono tra i più regalati tant’è che io stesso ho giusto regalato un iPhone 15 a mio papà.
 

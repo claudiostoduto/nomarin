@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Non ho venduto l’iPhone 15 Pro Max
-date: "2025-11-01 09:33:11 +0100"
+date: 2025-11-01 09:33:11 +0100
 excerpt: A differenza di tutti i pensieri, non ho venduto il mio iPhone 15 Pro Max.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/cb278264-906e-4505-8aae-5b1397c61683_817x962.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/cb278264-906e-4505-8aae-5b1397c61683_817x962.jpeg
 ---
 ![7DD6F2CF-810D-4D42-8C6E-ECA05A3DD68B_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/cb278264-906e-4505-8aae-5b1397c61683_817x962.jpeg)Nella vita mi sono innamorato poche volte. Una di queste è stata con **l’iPhone 15 Pro Max.** Si perché mi ricordo ancora che lo presi il venerdì senza averlo ordinato per poi scoprire il sabato che sarei diventato papà. Chi se lo scorda più.
 

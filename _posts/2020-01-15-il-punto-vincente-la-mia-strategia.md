@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Il punto vincente: La mia strategia per l'eccellenza fisica e mentale"
-date: "2020-01-15 11:54:00 +0100"
+title: 'Il punto vincente: La mia strategia per l''eccellenza fisica e mentale'
+date: 2020-01-15 11:54:00 +0100
 excerpt: Non è il classico libro di uno sportivo, ma uno stile di vita da seguire.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/3acd8f68-e0b9-40bf-a912-d73a86326a94_327x500.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/3acd8f68-e0b9-40bf-a912-d73a86326a94_327x500.jpeg
 ---
 Autore: **Novak Djokovic**
 

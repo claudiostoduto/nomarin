@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ho comprato una band per tracciare i miei dati
-date: "2025-10-27 08:28:55 +0100"
-excerpt: Ho comprato la Amazfit Helio Strap per tenere traccia di alcuni dati del mio corpo.
-categories:
+date: 2025-10-27 08:28:55 +0100
+excerpt: Ho comprato la Amazfit Helio Strap per tenere traccia di alcuni dati del
+  mio corpo.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/740b2a47-9c78-4caa-8c36-8f8e29b5e3eb_1464x600.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/740b2a47-9c78-4caa-8c36-8f8e29b5e3eb_1464x600.jpeg
 ---
 ![b332326f-497c-4e08-85cf-0887291f37b3.__CR0,12,1464,600_PT0_SX1464_V1___.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/740b2a47-9c78-4caa-8c36-8f8e29b5e3eb_1464x600.jpeg)Sono entrato in una fase della mia vita in cui voglio conoscere meglio il mio corpo e capire determinate cose. Ho lasciato andare questo aspetto per diverso tempo a causa del diventare papà, ma oggi che la situazione in tal senso si sta stabilizzando devo dire che piano piano sto riprendendo in mano anche la mia vita personale.
 

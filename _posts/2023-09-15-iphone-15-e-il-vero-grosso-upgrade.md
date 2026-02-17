@@ -1,13 +1,11 @@
 ---
 layout: post
 title: iPhone 15 è il vero grosso upgrade
-date: "2023-09-15 20:12:21 +0200"
+date: 2023-09-15 20:12:21 +0200
 excerpt: iPhone 15 Pro è il telefono più chiacchierato, ma iPhone 15 è il vero upgrade.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/6604b94d-6f69-45f2-9352-2646a2d833a5_753x1126.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/6604b94d-6f69-45f2-9352-2646a2d833a5_753x1126.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/6604b94d-6f69-45f2-9352-2646a2d833a5_753x1126.jpeg)È quel periodo dell’anno in cui Apple presenta i nuovi iPhone e noi corriamo a comprali, quasi di corsa. iPhone 15 Pro ha attirato l’attenzione di tanti addetti ai lavori ma il vero upgrade è stato quello di **iPhone 15.**
 

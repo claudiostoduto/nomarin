@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Sono io che non sono adatto al Mac, forse
-date: "2024-03-06 14:30:49 +0100"
-excerpt: iPad vs Mac, la mia eterna sfida che prosegue nel corso del 2024 nonostante alcune certezze.
-categories:
+date: 2024-03-06 14:30:49 +0100
+excerpt: iPad vs Mac, la mia eterna sfida che prosegue nel corso del 2024 nonostante
+  alcune certezze.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/85898b16-78f0-41a5-9ed3-5750295448a4_1920x1080.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/85898b16-78f0-41a5-9ed3-5750295448a4_1920x1080.png
 ---
 ![ipad-pro-mac.png](https://substack-post-media.s3.amazonaws.com/public/images/85898b16-78f0-41a5-9ed3-5750295448a4_1920x1080.png)In questi giorni di completa riflessione sull’argomento ho messo a confronto **il mio uso dell’iPad con quello del Mac** cercando di capire dove e quando spesso vado in difficoltà nell’usare uno o l’altro prodotto.
 

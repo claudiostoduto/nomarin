@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Credem ti regala 200 euro su Amazon.it
-date: "2024-09-20 07:34:33 +0200"
-excerpt: Credem mette in palio 200 euro su Amazon.it con una spesa di 1000 euro, facili da raggiungere.
-categories:
+date: 2024-09-20 07:34:33 +0200
+excerpt: Credem mette in palio 200 euro su Amazon.it con una spesa di 1000 euro, facili
+  da raggiungere.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/9f6a27b6-57e8-4f31-9555-6e6e789e6df8_3044x1256.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/9f6a27b6-57e8-4f31-9555-6e6e789e6df8_3044x1256.png
 ---
 ![Screenshot 2024-09-20 alle 07.25.06.png](https://substack-post-media.s3.amazonaws.com/public/images/9f6a27b6-57e8-4f31-9555-6e6e789e6df8_3044x1256.png)Ed eccola la promozione che stavo aspettando per acquistare il nuovo Apple Watch. 200 euro su Amazon non si buttano mai via, specie se si parla di un conto corrente gratis che si apre in meno di 5 minuti con lo SPID.
 

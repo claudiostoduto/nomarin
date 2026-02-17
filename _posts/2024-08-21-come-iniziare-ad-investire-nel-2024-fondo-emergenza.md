@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Come iniziare ad investire nel 2024: step 3"
-date: "2024-08-21 15:42:30 +0200"
-excerpt: Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi ora creiamo il fondo di emergenza.
-categories:
+title: 'Come iniziare ad investire nel 2024: step 3'
+date: 2024-08-21 15:42:30 +0200
+excerpt: Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi ora
+  creiamo il fondo di emergenza.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/46639547-9b10-4d97-bada-b1e24af49c16_1024x1024.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/46639547-9b10-4d97-bada-b1e24af49c16_1024x1024.png
 ---
 ![Pasted Graphic.png](https://substack-post-media.s3.amazonaws.com/public/images/46639547-9b10-4d97-bada-b1e24af49c16_1024x1024.png)A Gennaio del 2024 ho tirato una riga importante su tanti aspetti della mia vita. Fino ad oggi abbiamo visto come risparmiare e come azzerare i costi. Oggi andremo invece a creare quello che è il nostro **fondo di emergenza** che ci permetterà, in caso di imprevisti, di poter far comunque fronte alle nostre spese fisse. Ci interessa quindi avere un cuscinetto di emergenza per l’appunto che dobbiamo avere lì a disposizione.
 

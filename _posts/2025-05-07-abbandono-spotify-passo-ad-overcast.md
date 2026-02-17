@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Abbandono Spotify, passo ad Overcast e YouTube Music
-date: "2025-05-07 08:02:36 +0200"
-excerpt: Ho preso una decisione su Spotify lasciandolo in favore di YouTube Music ed Overcast.
-categories:
+date: 2025-05-07 08:02:36 +0200
+excerpt: Ho preso una decisione su Spotify lasciandolo in favore di YouTube Music
+  ed Overcast.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/35c3408a-cd6d-497c-a1cf-19ca43ac0a39_3840x2160.png"
+image: https://substack-post-media.s3.amazonaws.com/public/images/35c3408a-cd6d-497c-a1cf-19ca43ac0a39_3840x2160.png
 ---
 ![00ek4AmCarzfLmhUlZvWvxj-29..v1693940445.png](https://substack-post-media.s3.amazonaws.com/public/images/35c3408a-cd6d-497c-a1cf-19ca43ac0a39_3840x2160.png)A fine anno avevo preso una decisione sempre legata al mio essere diventato super taccagno: volevo abbandonare **Spotify** in favore di **YouTube** **Music**. Il motivo? Economico. Si perché l’unico abbonamento che pago ad oggi per un servizio digitale è quello di YouTube. Per me è la mia televisione personale. Ci passo ore sopra guardano di tutto e, ad oggi, penso sia a modo suo il più grande motore di ricerca sul mercato.
 

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "L'arte del fare: Come sconfiggere la procrastinazione"
-date: "2019-09-19 11:52:00 +0200"
-excerpt: Procrastinare è una pessima abitudine purtroppo ed i social media ci portano in quella direzione. Rialziamoci.
-categories:
+title: 'L''arte del fare: Come sconfiggere la procrastinazione'
+date: 2019-09-19 11:52:00 +0200
+excerpt: Procrastinare è una pessima abitudine purtroppo ed i social media ci portano
+  in quella direzione. Rialziamoci.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/bee4c740-6bb6-43a5-94a0-59252f9ba9cc_333x500.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/bee4c740-6bb6-43a5-94a0-59252f9ba9cc_333x500.jpeg
 ---
 Autore: **Flavio Rossi**
 

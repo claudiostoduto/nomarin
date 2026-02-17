@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Swisscom: Fastweb dovrà ripulire Vodafone"
-date: "2024-03-17 09:59:01 +0100"
-excerpt: "La notizia della settimana in ambito tecnologico e non solo è l'acquisizione conclusa di Vodafone Italia da parte del colosso Swisscom proprietario, tra gli altri, anched i Fastweb."
-categories:
+title: 'Swisscom: Fastweb dovrà ripulire Vodafone'
+date: 2024-03-17 09:59:01 +0100
+excerpt: La notizia della settimana in ambito tecnologico e non solo è l'acquisizione
+  conclusa di Vodafone Italia da parte del colosso Swisscom proprietario, tra gli
+  altri, anched i Fastweb.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/6c9f4167-7fb1-4473-a503-55aee102b1d2_1020x533.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/6c9f4167-7fb1-4473-a503-55aee102b1d2_1020x533.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/6c9f4167-7fb1-4473-a503-55aee102b1d2_1020x533.jpeg)Ora è ufficiale con un bel deal da 8 miliardi di euro come costo complessivo dell'operazione. Dopo tante settimane di trattative, di indiscrezioni e di offerte con di mezzo anche la cara Iliad, ora si preannuncia un nuovo quadro nel mondo delle telecomunicazioni italiane. **Con l'acquisizione di Vodafone Italia, Swisscom ha messo a segno un gran bel colpo**. Assisteremo ad una nuova operazione in stile WindTre e questa, vuoi o non vuoi, stravolgerà nuovamente il mercato. 
 

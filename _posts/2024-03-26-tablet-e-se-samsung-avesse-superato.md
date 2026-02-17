@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Tablet: e se Samsung avesse superato Apple?"
-date: "2024-03-26 12:02:49 +0100"
-excerpt: "L'iPad è il tablet per eccellenza per molti anche se, negli anni, Samsung ha nettamente recuperato terreno, forse anche superandola."
-categories:
+title: 'Tablet: e se Samsung avesse superato Apple?'
+date: 2024-03-26 12:02:49 +0100
+excerpt: L'iPad è il tablet per eccellenza per molti anche se, negli anni, Samsung
+  ha nettamente recuperato terreno, forse anche superandola.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg)Sapete quanto io sia un amante degli **iPad** di Apple, dei prodotti che mi hanno accompagnato per tanti anni nel corso della mia vita professionale e non. Ci ho lavorato, ci ho giocato e ci ho passato tanto di quel tempo che spesso mi chiedevo il perché mi andassi ad incaponire così tanto quando c'era il Mac lì pronto per me. 
 

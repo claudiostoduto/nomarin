@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Quanto costa Torino Palermo in auto
-date: "2023-09-05 06:15:25 +0200"
-excerpt: Questa estate ho viaggiato in auto da Torino a Palermo andata e ritorno con una spesa decisamente non elevata.
-categories:
+date: 2023-09-05 06:15:25 +0200
+excerpt: Questa estate ho viaggiato in auto da Torino a Palermo andata e ritorno con
+  una spesa decisamente non elevata.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/25e17b70-99a0-4be6-ac21-68a3a5f6d294_1170x1090.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/25e17b70-99a0-4be6-ac21-68a3a5f6d294_1170x1090.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/25e17b70-99a0-4be6-ac21-68a3a5f6d294_1170x1090.jpeg)Complice la possibilità di lavorare in Smart working, questa estate ho approfittato della situazione per potermi spostare un mese intero da Torino e lasciare la mia città natale. Causa impegni e necessità, lo spostamento verso Palermo (meta finale) è avvenuto in auto attraversando lo stretto di Messina.
 

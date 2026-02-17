@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Volotea: come prenotare un volo con il cane"
-date: "2023-11-08 12:30:12 +0100"
+title: 'Volotea: come prenotare un volo con il cane'
+date: 2023-11-08 12:30:12 +0100
 excerpt: Viaggiare in aereo con un cane non è semplice, ma Volotea lo rende più accessibile.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/283f1817-4a4a-4f04-89b0-4d9c356a4d3c_4032x3024.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/283f1817-4a4a-4f04-89b0-4d9c356a4d3c_4032x3024.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/283f1817-4a4a-4f04-89b0-4d9c356a4d3c_4032x3024.jpeg)Circa un anno fa, un cosetto peloso entrò nella mia vita a gamba tesa cambiandola radicalmente. Mai avrei pensato di provare un forma di amore simile, ma non siamo qui a parlare di questo. Prima ero una persona che chiaramente amava viaggiare e che allo stesso tempo prendeva aerei, treni e qualsiasi altro mezzo senza alcun tipo di problema. Tuttavia viaggiare in aereo con un cane non è affatto semplice ed intuitivo viste le tante restrizioni applicate.
 

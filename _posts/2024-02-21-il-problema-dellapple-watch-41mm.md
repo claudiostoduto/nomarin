@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Il problema dell’Apple Watch 41mm
-date: "2024-02-21 14:01:59 +0100"
-excerpt: Apple Watch è un mio compagno di vita da anni, ma c’è un difetto stilistico che mi sta facendo impazzire.
-categories:
+date: 2024-02-21 14:01:59 +0100
+excerpt: Apple Watch è un mio compagno di vita da anni, ma c’è un difetto stilistico
+  che mi sta facendo impazzire.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/05735ae2-b584-4538-aabd-027fe8ebf675.heic"
+image: https://substack-post-media.s3.amazonaws.com/public/images/05735ae2-b584-4538-aabd-027fe8ebf675.heic
 ---
 ![IMG_2242.heic](https://substack-post-media.s3.amazonaws.com/public/images/05735ae2-b584-4538-aabd-027fe8ebf675.heic)Nell’ultimo periodo non mi dispiacerebbe passare ad Apple Watch Ultra. Volevo regalarmi questo sfizio per i 30anni e tenere questo orologio *ad interim*. Chiaramente avrei preso la seconda generazione salvo una grandissima offerta sulla prima serie. Parto da lui nonostante abbia al polso un degnissimo serie 6 da 41mm.
 

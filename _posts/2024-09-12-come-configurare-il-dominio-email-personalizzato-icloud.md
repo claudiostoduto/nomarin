@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Come configurare il dominio email personalizzato su iCloud+
-date: "2024-09-12 10:01:29 +0200"
+date: 2024-09-12 10:01:29 +0200
 excerpt: Configurare un dominio personalizzato di posta su iCloud+ è veramente semplicissimo.
-categories:
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/f099dec1-b0c1-4f90-8f27-e51233578643_1456x874.webp"
+image: https://substack-post-media.s3.amazonaws.com/public/images/f099dec1-b0c1-4f90-8f27-e51233578643_1456x874.webp
 ---
 ![0ebacd6e-af67-4b43-862f-82b67dc137f5_1802x1082.jpeg.webp](https://substack-post-media.s3.amazonaws.com/public/images/f099dec1-b0c1-4f90-8f27-e51233578643_1456x874.webp)Giusto qualche settimana fa [avevamo parlato](https://www.mrclaus.xyz/p/icloud-con-il-dominio-email-personalizzato) di quanto fosse comoda la funzione inclusa in iCloud+ in merito agli indirizzi di posta elettronica configurabili con i domini web personalizzati. Nello specifico, e per capirci meglio, tutti quegli account di posta come ad esempio [hello@mrclaus.xyz](mailto:hello@mrclaus.xyz) e quindi non appoggiati ad un provider come la stessa Apple o Google con Gmail.
 

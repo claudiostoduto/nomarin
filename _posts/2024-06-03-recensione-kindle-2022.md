@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Ho comprato un Kindle 2022
-date: "2024-06-03 12:20:10 +0200"
-excerpt: Ho deciso di portarmi avanti con l’estate e sfruttare una delle tante promozioni di Amazon per comprare un Kindle 2022.
-categories:
+date: 2024-06-03 12:20:10 +0200
+excerpt: Ho deciso di portarmi avanti con l’estate e sfruttare una delle tante promozioni
+  di Amazon per comprare un Kindle 2022.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/346f2ac5-eca1-4930-88c7-cc02bd1da737_960x1280.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/346f2ac5-eca1-4930-88c7-cc02bd1da737_960x1280.jpeg
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/346f2ac5-eca1-4930-88c7-cc02bd1da737_960x1280.jpeg)Ok non avrò [comprato](https://amzn.to/3KsaFjA) la versione più recente di tutte e non è il nuovo Paper White, ma per il mio uso il **Kindle 2022** va più che bene. Volevo la USB-C per non avere problemi di ricarica ed avere un solo ed unico cavo per tutti i prodotti che ho dietro con me. 
 

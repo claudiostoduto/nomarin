@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Un anno con un barboncino nano a Torino
-date: "2024-02-22 14:02:23 +0100"
-excerpt: Praticamente un anno fa Coco è entrato nella mia vita come se non ci fosse domani e, ad oggi, è stata la miglior decisione che potessi prendere.
-categories:
+date: 2024-02-22 14:02:23 +0100
+excerpt: Praticamente un anno fa Coco è entrato nella mia vita come se non ci fosse
+  domani e, ad oggi, è stata la miglior decisione che potessi prendere.
 categories: []
-tags:
 tags: []
-image: "https://substack-post-media.s3.amazonaws.com/public/images/a779b299-7a91-4f9f-816d-924995af1c82_4032x3024.jpeg"
+image: https://substack-post-media.s3.amazonaws.com/public/images/a779b299-7a91-4f9f-816d-924995af1c82_4032x3024.jpeg
 ---
 ![IMG_1939.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/a779b299-7a91-4f9f-816d-924995af1c82_4032x3024.jpeg)Prendersi cura di un’altra persona non è affatto semplice. Prendersi cura di un animale lo è ancora di più. Se questo poi è un **cane**, un animale di per sé gioioso  e molto sociale, il livello si alza ancora a livello esponenziale. Dipende da te per quanto possa essere indipendente. Gli devi dare attenzioni ma, allo stesso tempo, ti regalo anche un sacco di gioie.
 
