@@ -1,4 +1,4 @@
-title: "Passivo e Riflessivo"
+title: "Pigro e Passivo"
 description: "Il mio nuovo sito"
 locale: "it-IT"
 
@@ -20,6 +20,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 paginate: 10
 paginate_path: /page:num/
