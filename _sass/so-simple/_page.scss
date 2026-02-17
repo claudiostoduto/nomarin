@@ -34,16 +34,8 @@
   }
 
   img {
-    width: 100%;
-      max-height: 360px;   /* cambia questo valore */
-  object-fit: cover;   /* taglia mantenendo proporzioni */
-  display: block;
-}
-
-@media (max-width: 768px) {
-  .page-image img {
-    max-height: 220px;
-  
+    width: 60%;
+    
   }
 
 }
