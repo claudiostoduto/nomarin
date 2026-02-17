@@ -16,7 +16,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-logo: "/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
@@ -47,7 +47,7 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
+  name: Mr. Claus
   picture: /images/michael-rose-photo.jpg
   email:
   twitter: mmistakes
@@ -71,5 +71,5 @@ footer_links:
     url: https://instagram.com/mrclaus_xyz
     icon: fab fa-instagram
   - title: Feed
-    url: atom.xml
+    url: feed
     icon: fas fa-rss-square
