@@ -2,14 +2,14 @@
 
 - title: Home
   url: /
-- title: Blog
+- title: Archivio
   url: /posts/
-- title: Categories
+- title: Argomenti
   url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
+# title: Tags
+# url: /tags/
+# title: Recipes
+# url: /recipes/
 - title: Search
   url: /search/
 - title: feed

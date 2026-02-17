@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Apple e Goldman Sachs: siamo già alla fine?"
+date: "2023-12-13 11:00:47 +0100"
+excerpt: Apple potrebbe a breve annunciare un nuovo partner finanziario dopo l’uscita di Goldman Sachs dal precedente accordo.
+categories:
+categories: []
+tags:
+tags: []
+image: "https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png"
+---
+![](https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png)Non sono ore semplici a Cupertino. No scherzo siamo sotto periodo natalizio e le vendite, in un modo o nell’altro, andranno comunque molto molto bene. I prodotti Apple sono tra i più regalati tant’è che io stesso ho giusto regalato un iPhone 15 a mio papà.
+
+Detto questo però c’è stato un grande scossone nei giorni scorsi che ha riguardato **Goldman Sachs**. Esatto, proprio la grande banca d’affari americana che aveva deciso di stringere importanti rapporti commerciali con Apple prima lanciando sul mercato la **Apple Card**, per il solo mercato USA, e poi il **conto deposito** con un tasso di interesse del 4,15%. A suo tempo, quando arrivò ad Aprile, quest’ultimo prodotto lanciato con i “geni del male di Cupertino” fece scalpore. Moltissimi utenti aderirono tanto che in soli quattro giorni venne raccolto circa un miliardo di dollari ed in tre mesi circa una decina. Numeri interessanti per una tech company che, se ci pensate, non c’entra niente con il mondo finanziario. Giusto per fare un paragone, Ally Bank al momento del lancio offriva un prodotto analogo con il tasso al 3,75%. Stessa identica percentuale anche per American Express. Per cui Apple, come avevamo già detto, entrò nel settore dalla porta di servizio, ma lo fece in maniera decisamente ***cattiva***.
+
+Che dire, potremmo pensare ad un successo quindi assicurato, no? Apple sembra che praticamente ogni cosa che tocchi diventi oro tanto che ormai non viene sbagliato un prodotto da anni. Al netto della saturazione tecnologica che un po’ stiamo vivendo, alla fine i risultati fiscali parlano sempre in maniera positiva con però i servizi che ormai stanno prendendo sempre più piede all’interno del bilancio. Invece no. **O meglio non è stato un grande successo come ci potremmo aspettare.**
+
+Apple, dal canto suo, è un’azienda che realizza prodotti tecnologici e che quindi non ha e non possiede una sua infrastruttura bancaria. Per tanto la partnership con Goldman è stata di natura commerciale con tutta la gestione operativa e finanziaria proprio delegata alla banca. Chiaramente a Cupertino non potevano pensare di poter diventare bancari dall’oggi al domani, ma in questo modo potevano entrare nel settore a differenza dei concorrenti. Sfruttando quindi l’appeal del brand era ipotizzabile un ***win win***. Invece i costi hanno superato di non poco le attese. Perché? Goldman è una banca d’affari per tanto il suo operato non è con la clientela retail/commerciale. Non è la medesima situazione da gestire poiché, specializzati in altro, significa andare a creare **ad hoc** delle linee dedicate a tali prodotti. Tutto ciò ha portato a **perdite** che, nei soli 9 mesi iniziali del 2023, hanno raggiunto i 1,37 miliardi di dollari. Per cui la decisione di David Solomon, CEO della banca, è stata molto semplice e facile da prendere: via, ci si ritira dal mercato. Ma questo non solo con Apple attenzione. Lo stesso discorso è stato fatto anche con General Motors con cui era stata attivata anche qui una collaborazione molto simile che prevedeva la realizzazione di una carta di credito dedicata. Infine è stata ceduta anche GreenSky, altra operazione commerciale che prevedeva una piattaforma specializzata in prestiti per ristrutturare casa.
+
+![](https://substack-post-media.s3.amazonaws.com/public/images/bcd87263-b974-4a2f-9611-e28091aa65e7_656x492.png)Il mercato cosa ha detto? È stata la scelta giusta? Vedendo i risultati si. Dopo l’annuncio il titolo ha ripreso il 2%. In futuro vedremo.
+
+Ok ed ora Apple cosa farà? Semplicemente non demorde. Diciamo che alla dirigenza il progetto è piaciuto. Anche agli azionisti dobbiamo dire. Il motivo è semplice: il settore in questione ha portato una crescita del 16% nel solo ultimo trimestre. Con gli iPhone che calano nelle vendite, direi che è un risultato tutt’altro che da buttare via. Per cui si è ora alla ricerca di un nuovo partner che, secondo alcune voci, potrebbe essere American Express o Chase Bank.
+
+Sarà interessante vedere cosa succederà ai consumatori che stanno sfruttando questi servizi. Se saranno obbligati a chiudere il conto e restituire le carte o se, come più probabile, verranno “ceduti” al nuovo partner commerciale.

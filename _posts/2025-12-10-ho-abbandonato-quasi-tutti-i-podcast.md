@@ -1,0 +1,20 @@
+---
+layout: post
+title: Ho abbandonato quasi tutti i podcast di Chora
+date: "2025-12-10 08:08:05 +0100"
+excerpt: Ebbene si, alla fine mi sono deciso di abbandonare la maggior parte dei podcast di Chora Media.
+categories:
+categories: []
+tags:
+tags: []
+image: "https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png"
+---
+![url.png](https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png)Sono un grande fruitore di **podcast**. Lo sono dai tempi dell’università, ergo oltre 10 anni fa (madonna come passa il tempo). I primi in assoluto, che seguo ancora oggi, sono stati [Luca e Federico di EasyApple](https://www.easypodcast.it/easyapple) per poi via via scoprire tante nuove voci ed argomenti. Non sono di contro un grande fruitore della radio, per cui in auto ho sempre deciso io cosa e quando ascoltare una cosa. Ho usato il mondo dei podcast come fonte di informazione per anni per poi arrivare a scoprire tutto il mondo di Will prima ed ora di **Chora**.
+
+Chora è una realtà che avvicina il mondo dell’informazione a noi giovani. Oggi come oggi i social la fanno da padrone anche in questo campo ed hanno surclassato quelli che sono i blog di settore o i semplici quotidiani online o cartacei. Non sto qui a parlarvi della crisi di questo settore che è iniziata con il Covid potremmo dire e che purtroppo ha colpito anche me, se vi ricordate. Tornando però a noi, in Will prima ed ora in Chora sono riusciti ad intercettare il cambiamento per attualizzarlo con il mondo di oggi e creare una realtà che, per me, ad oggi non ha rivali in Italia. Il passo successivo è stato quello di entrare nel mondo dell’audio e nella produzione di contenuti creando sempre più show che fossero in grado di informare, intrattenere ed emozionare più persone possibili. Oggi siamo nella terza fase probabilmente ovvero quella in cui ci stiamo spostando dall’audio anche al video mettendo in atto quella che è il piano di impresa post fusione fra Chora e Will, ovvero puntare (quasi tutto) sulla casa di produzione di contenuti audio e video. Arriverà un loro film prima o poi? Per me si.
+
+Fatto questo piccolo excursus, mi sono ritrovato nella situazione in cui la mia lista di iscrizioni ai podcast cresceva, cresceva e cresceva ancora. Di contro invece non calavano quelli che erano gli episodi ascoltati che anzi aumentavano a dismisura. **Una mattina poi prendo l’iPhone e vedo 14 GB di spazio occupato da Overcast**, il mio riproduttore di podcast. Cavolo. Non bene. Lì ho deciso: era il momento di fare un bel decluttering. Tanti loro show a cui mi ero abbonato e che erano settimanali prima erano diventati bisettimanali se non alcuni addirittura giornalieri. Personalmente non ho tutto il tempo di stare dietro, anche perché non vado sempre in ufficio e tendenzialmente per me il podcast lo si ascolta in auto o a passeggio con il cane. Inoltre mi perdevo costantemente. Mi sentivo confuso ogni volta che aprivo la mia app e non riuscivo a stare dietro a tutti. In più mi perdevo i miei podcast storici a cui sono affezionato e che non volevo perdere. Insomma si è persa quella magia che per me era da sempre legata a questo mondo e che mi portava in quella dimensione in cui ero io ed i miei “amici” nelle cuffiette. 
+
+Sia chiaro, non è una critica. Chora è un’azienda e giustamente deve scalare e produrre contenuti per guadagnare. Il problema è più mio che ho diciamo tralasciato che il cambiamento mi investisse senza capirlo a fondo ed adattarmi. Per cui preferisco fare un passo indietro e tornare a quei miei podcast settimanali con giorni fissi e con argomenti specifici. Mi mancherà Actually in primis, ma sincero erano più le volte che ero bombardato senza ricordarmi cosa stessi ascoltando. Di contro però ascolterò tutti quei podcast tematici e circoscritti in un tot di puntate come La Tigre o In Fuga.
+
+Continuo a leggere e supportare Will e Chora in maniera differente, anche perché il lavoro che fanno è ineguagliabile e soprattutto il più coerente e vicino alla mia generazione. Ma con i podcast, per ora, torno a miei vecchi contenuti.

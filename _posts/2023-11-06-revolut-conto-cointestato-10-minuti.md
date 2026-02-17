@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Revolut conto cointestato: 10 minuti e via"
+date: "2023-11-06 18:30:17 +0100"
+excerpt: Revolut mi ha risolto un problema che mi portavo dietro da questa estate in meno di dieci minuti.
+categories:
+categories: []
+tags:
+tags: []
+image: "https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png"
+---
+![](https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png)Sono un grande fan di **Revolut**. Seguo l’evoluzione di questa “banca” dai suoi albori ed ammetto che mi sono sempre trovato bene con loro in passato quando ho utilizzato il servizio. Poi, per questioni contrattuali, ho dovuto optare per altre strade e non potevo più avere un conto estero con loro. Nelle ultime settimane, grazie ad un cambio di accordo, finalmente sono potuto rientrarne in possesso.
+
+Facciamo un passo indietro però.
+
+Questa estate avevamo deciso con la mia compagna di aprire un **conto cointestato** per gestire delle spese di casa. Una cosa “normale” nel proseguo di una coppia anche a fronte di una casa da mandare avanti assieme. Mi ero quindi guardato attorno partendo dal mio istituto di credito fino ad arrivare ai vari concorrenti. La mia richiesta di base era quella di non pagare un canone mensile per un conto che non avrei quasi mai movimentato, salvo per quelle 3/4 operazioni al mese. Se la spesa mensile era proprio necessaria, allora voleva dire che c’era la comodità alla base di tutto. Cioè? Un conto presente sempre nella mia applicazione bancaria che non mi facesse quindi installare ed avere ulteriori codici di identificazione ed una nuova app da gestire e monitorare.
+
+La prima scelta fu **ING**. È stata la mia prima banca quando avevo 18 anni e la chiusi dopo la pandemia quando cambiai lavoro. Lo feci a malincuore son sincero anche perché non avevo mai avuto problemi e/o altre segnalazioni da fare in quasi 8 anni. Avevo tutto, tranne i bonifici istantanei mi ricordo. A fronte quindi di un conto a zero e, soprattutto, della possibilità di aprire il conto cointestato online senza prendere appuntamenti o altro, mi son detto che era la scelta migliore. Non dovevo spostarmi da casa, avevo un conto con l’operatività di base gratuita e senza canone mensile. Insomma cosa volevo di più? Perfetto, procedo. Sono stato in ballo una settimana lavorativa piena. Non accettavano i documenti della mia compagna senza alcuna motivazione reale e concreta. Ho provato più volte a contattarli ma non confermavano mai un potenziale problema o altro anzi. Chiedevo dettagli anche via chat, cambiavo i documenti ma non avevo mai una risposta che mi dicesse: “C’è questa cosa che non va”. Era un problema semplicemente di anagrafica, ma credetemi che ancora oggi non ho compreso il motivo. Esausto ed in piena vacanza, ho deciso di abortire la situazione e chiamare per chiedere la cessazione dell’invio dei messaggi per il recupero della pratica e la relativa chiusura della richiesta. Anzi mi hanno anche chiesto poi scusa per il tutto in una chiamata di caring successiva.
+
+La seconda scelta, più dolorosa, fu quella di una **banca tradizionale**. Se vi ricordate in apertura avevo detto che sarebbe stato carino aprire tutto online e non prendere alcun appuntamento. Beh non è andata così. ING pensavo fosse l’unica che permettesse tale opzione, prima di Revolut. A quel punto mi son detto, visti i risultati negativi, pago qualcosa ma almeno ho tutto dentro una unica applicazione. Prendo appuntamento, prendo permesso, ci rechiamo insieme in banca ed apriamo il tutto. Bello? Si, sulla carta sembrava funzionare tutto bene salvo l’arrivo della carta di debito. Mai arrivata, mai pervenuta e mai concretizzatasi nelle nostre mani. Allora, passati i 25 giorni di attesa previsti da quell’azienda, chiediamo una riemissione gratuita anziché al costo di 5 euro. Secondo voi, cosa è successo? Ho pagato i 5 euro e la scontistica che prevedeva l’abbassamento del canone a 2 euro non è passata proprio per la mancanza della carta mai arrivata. Quindi mi sono dovuto accollare 8,5 euro di canone completo. Chiedo quindi dettagli in filiale e mi rimandano al numero verde, non aggiungo altro. Allora, cortesemente da collega, chiedo i dettagli e mi confermano passo passo il problema che in realtà avevo già esplicato in filiale prima di farmi “sfanculare”. Mi ripresento, chiedo appunto di sistemare la questione e…. Secondo voi ho risolto? Ovviamente no. A quel punto con tanto di reclamo in atto ed un primo impedimento di chiusura del conto, procedo alla sua estinzione. Questo giochino qui mi è costato 15.50 euro per un conto mai operato e mosso un euro, ma che sia uno. Io ero nero, ma il problema per quest’azienda era la mia compagna: era molto più nera di me per come siamo stati trattati e per il non operato. Ah per la cronaca nemmeno la seconda carta mi è mai arrivata, così giusto per eh.
+
+Ci eravamo messi l’anima in mezza pace. Nel senso che avevamo smesso di cercare soluzioni del genere optando, poi con calma, in eventuali prepagate a canone zero pur odiandole io con tutto il mio cuore.
+
+![](https://substack-post-media.s3.amazonaws.com/public/images/9b52c040-f389-480b-9189-dee65a2dc7fc_2360x1640.jpeg)Invece… Ero sul divano che stavamo riguardando GoT e mi imbatto in **Revolut**. Leggo del conto corrente cointestato e mi documento meglio. Piano standard, zero spese e carta potenzialmente inclusa per i prelievi. Avendo avuto il nullaosta dall’azienda per poter detenere dei conti non italiani, mi ero già ripromesso di provare nuovamente il servizio specie con la versione 10 dell’applicazione appena rilasciata. A quel punto, leggendo meglio, dico a me stesso che era la soluzione perfetta per il nostro uso. Apro quindi il mio conto in meno di dieci minuti, sono serio. La registrazione dura 30 secondi, la verifica dei documenti e della residenza fiscale invece si è completata in 9 minuti e qualcosa, sono serio. Mando subito il link invita un amico alla mia compagna (buttali via i 30 euro gratis per ora) e procede anche lei. Stesso discorso. Ma volete ridere in assoluto? Secondo voi quanto ci ho messo ad aprire il conto cointestato? 30 secondi netti, davvero. Essendo tutti e due gli utenti già con identità verificata, ho cliccato semplicemente sul contatto con cui volevo condividere il conto e, una volta accettato l’invito dalla controparte, conto aperto. Non sto scherzando, davvero. Coordinate già attive ed entrambi disponibili nel creare delle carte da aggiungere ad Apple Pay. A proposito di carte, chi le vuole ancora quelle fisiche? Infatti non le abbiamo richieste, per ora. Al netto dei 6,99 euro che servono per la spedizione, del conto cointestato non ci servono proprio anzi. Per cui via di virtuali, una ciascuno, ed oppalà configurate su entrambi gli iPhone. Adesso io attendo il black Friday dove sicuramente faranno uno sconticino sulla richiesta della carta fisica per il mio conto personale e via. Per ora non mi serve tanto.
+
+![](https://substack-post-media.s3.amazonaws.com/public/images/11cc8eab-6034-4e1c-b258-22c9436d94f6_2360x1640.jpeg)Riassumendo:
+
+* apertura del conto singolo in 10 minuti;
+
+* configurazione dei Pocket;
+
+* trasferimento del denaro con Apple Pay dagli altri conti;
+
+* apertura del conto della mia compagna;
+
+* invito per il conto cointestato.
+
+Problema risolto? Si. In nemmeno una mezz’ora. Boh, io qualche domanda me la farei eh.

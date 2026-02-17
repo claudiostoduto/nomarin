@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Tablet: e se Samsung avesse superato Apple?"
+date: "2024-03-26 12:02:49 +0100"
+excerpt: "L'iPad è il tablet per eccellenza per molti anche se, negli anni, Samsung ha nettamente recuperato terreno, forse anche superandola."
+categories:
+categories: []
+tags:
+tags: []
+image: "https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg"
+---
+![](https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg)Sapete quanto io sia un amante degli **iPad** di Apple, dei prodotti che mi hanno accompagnato per tanti anni nel corso della mia vita professionale e non. Ci ho lavorato, ci ho giocato e ci ho passato tanto di quel tempo che spesso mi chiedevo il perché mi andassi ad incaponire così tanto quando c'era il Mac lì pronto per me. 
+
+Dai **Samsung Galaxy S8 Ultra** però qualcosa è cambiato. Da un lato c'eravamo noi consumatori iPad, il tablet per eccellenza. Dall’altra gli utenti Samsung che piano piano hanno aspettato, aspettato ed aspettato fino ad avere un’evoluzione dei prodotti niente male. Grande merito va dato anche a Google che ha saputo, con pazienza, capire che Android andava anche adattato ai tablet come fatto da Apple. Il passaggio quindi dal riadattarsi da solo lui con il suo framework in automatico doveva essere superato con lo sviluppo di una versione *ad hoc*. I lavori partiti da **Android 12** sono stati importanti ed hanno permesso di mettere delle ottime basi oggi su quelli che sono i tablet Android più diffusi in commercio. Non è casuale quindi la rinascita di questo settore, grazie anche alla pandemia del 2020 che ne ha sicuramente favorito la nuova crescita. Oggi come oggi un po' tutti hanno un tablet, quel prodotto che rimane per tanti di semplice consumo sul divano di casa.
+
+Apple l’ha fatta da padrona. Quando si dice la parola tablet si pensa direttamente ad un iPad. Per tanti anni è stata l’eccellenza del settore, il riferimento ed il prodotto a cui dover aspirare o da volere. Non a caso io stesso creai il sito iPaddista.it e ne foraggiai per tanti anni il suo buon utilizzo e la sua sperimentazione costante. **Oggi però, lo dico con grande convinzione, non è più così.**
+
+Da un paio di mesi abbondanti ormai sto utilizzando dei tablet Android in maniera costante. In realtà è iniziato tutto circa un [anno fa](https://www.mrclaus.xyz/p/redmi-pad-finalmente-un-bel-tablet?utm_source=%2Fsearch%2FRedmi%2520pad&utm_medium=reader2). Un pura e semplice casualità ha dato il via a tutto. Nei mesi poi ho provato tanti altri prodotti fino ad arrivare alla galassia dei tablet di Samsung. In un primo momento ho preso il Tab A9, un compattino che mi sta facendo impazzire ed innamorare e che vale molto di più di un banale Kindle. Qui ho saputo apprezzare l’ottimo lavoro di cui vi ho parlato in precedenza da parte dell’azienda coreana che ha sviluppato non poco la sua One UI. Che sia la versione 5 o 6 non importa, Samsung ha fatto uno step evolutivo a livello software che lascia indietro tutta la concorrenza, a mio avviso. Per cui spinto dall’entusiasmo ed anche grazie ad una promozione, ho preso il Galaxy Tab S9 FE. Uau. 
+
+Con quest’ultimo prodotto ho letteralmente capito una cosa: Apple si è fermata sugli allori. La concorrenza è andata avanti, per quanto si possa evolvere il settore dei tablet. A Cupertino sono rimasti fermi ed immobili. Chiaramente innovare l’iPad Pro, dopo il modello del 2018, è  un processo molto complesso. Visivamente ed esteticamente non puoi fare molto di più se non ottimizzare l’hardware. Il grosso però lo devi poi fare a livello software. Ed ecco che Samsung ha saputo sfruttare meglio la situazione andando a cogliere quel buco di mercato. Ormai oggigiorno la piattaforma hardware e quindi l’efficienza dei processori hanno raggiunto livelli molto alti al punto tale che ciò che appunto fa la differenza è proprio il lo sviluppo del sistema operativo con le relative customizzazioni. La sensazione di tutto bloccato che apprezzo e che adoro su iPhone, su iPad mi limita e mi sta stretta. La poca possibilità di gestione, la poca flessibilità, e l’insieme di tutto mi rende a modo suo forzato. Non a caso nella mia newsletter, [LIFE](https://www.mrclaus.xyz/s/life), vi ho parlato più e più volte di questo mio grande dilemma nell’uso dei due prodotti. Non sto disdegnando  l’iPad che adoro ancora oggi. Tuttavia inizio a trarre alcune conclusioni personali. Sono cambiato in questi anni dando molta più precedenza alla praticità ed in “questo mondo” non la ho più. Apple ha fatto dei passi in avanti permettendo ad esempio il download dei file o il supporto ai monitor esterni, ma è sempre una continua rincorsa ed un continuo vorrei ma non posso. Il motivo? Semplice, non cannibalizzare i Mac. Faccio ancora uno step: per me il tablet deve essere anche un computer. Lo so che per tanti non è così, ma per me si. So anche che è una forzatura perché se un tablet nasce come tablet così deve rimanere. Però, io voglio sempre tutto. Sono sicuro che sia un mio difetto, ma ci ho provato e nella mia testa non sono mai riuscito a sconfiggere questa idea. Quindi devo essere conscio del fatto che a qualche cosa devo rinunciare da qualche parte. Samsung è riuscita a ridurre questa rinuncia al minimo possibile facendomi mancare poco se non quasi niente rispetto ad iPad. Anzi la non limitazione in background di Android molto spesso è più comoda e crea meno impicci di iPadOS. 
+
+Chiaro che devo fare anche una seconda considerazione importante: l’ecosistema. Io ho tutto nel mondo Apple. Ma quando dico tutto è proprio tutto. Dal calendario ai contatti, dalle carte di pagamento ai file. Dalle foto alla gestione domotica. Tutto. Mi sono sempre creato delle scorciatoie e delle alternative di backup (Drive, Alexa, GHome ecc ecc) però la mia fonte primaria è e rimane Apple per tanti motivi. Quindi uscire da tale sistema non è complesso, ma spesso non comodo. Se si vuole si fa, ma si perde in praticità.
+
+Tirando delle somme quindi lo scenario attuale è questo:
+
+* compro un iPad se voglio un prodotto stabile, concreto e longevo con cui posso fare buona parte delle operazioni di base e che per il 90% delle persone è più che sufficiente;
+
+* compro un tablet Android, nello specifico un Samsung con la miglior gestione software dei tablet dell’OS di Google, avendo un prodotto meno longevo sicuramente ma con meno limitazioni software.
+
+La scelta sta a voi. Io ad oggi sto attraversando una fase in cui sto apprezzando molto di più Android su tablet rispetto agli smartphone.
+
+*Questo post è stato interamente scritto da un [Samsung Galaxy Tab S9 FE](https://amzn.to/3TsP4vK).*
+
+*Iscrivetevi al [canale Telegram](https://t.me/mrclaus_xyz) per non perdervi nulla* 😜
