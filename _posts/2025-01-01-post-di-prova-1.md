@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Post di prova 1"
