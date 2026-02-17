@@ -1,16 +1,19 @@
 title: "Passivo e Riflessivo"
+description: "Il mio nuovo sito"
 locale: "it-IT"
 
-# Plugin necessari per So Simple
+# Forza GitHub a usare i file nelle tue cartelle _layouts e _includes
+theme: null
+remote_theme: null
+
+# Configurazione del tema So Simple
+skin: "/assets/css/skins/default.css"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
-# Impostazioni di paginazione
 paginate: 10
 paginate_path: /page:num/
-
-# Forza Jekyll a non cercare temi esterni
-theme: null
