@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Quanti GB consumi in un mese con lo smartphone?
-date: 2024-09-19 08:01:23 +0200
-excerpt: Ti sei mai chiesto quanto consumi in un mese? Io si e ne sono rimasto stupito.
+title: "Quanti GB consumi in un mese con lo smartphone?"
+date: "2024-09-19 08:01:23 +0200"
+excerpt: "Ti sei mai chiesto quanto consumi in un mese? Io si e ne sono rimasto stupito."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/c5eb5f7b-2db3-44f0-bfc1-ec0aceb3833b_1290x579.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/c5eb5f7b-2db3-44f0-bfc1-ec0aceb3833b_1290x579.jpeg"
 ---
 ![2EF71E74-FC08-484C-ADB3-27ABACC0CA2C_1_201_a.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/c5eb5f7b-2db3-44f0-bfc1-ec0aceb3833b_1290x579.jpeg)Durante il mese di agosto ho voluto fare una piccola indagine personale per capire realmente quanto traffico internet consumo con lo smartphone in un periodo in cui non avevo a disposizione una connessione fissa. Il motivo? Capire se la mia tariffa con giga illimitati fosse realmente utile o se invece mi bastava, spendendo molto meno, qualcosa con 200/300 GB.
 

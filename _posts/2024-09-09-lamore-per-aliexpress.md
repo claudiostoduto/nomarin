@@ -1,11 +1,11 @@
 ---
 layout: post
-title: L’amore per AliExpress
-date: 2024-09-09 11:31:15 +0200
-excerpt: Sono diventato iper taccagno ed ho riscoperto l’amore per AliExpress.
+title: "L’amore per AliExpress"
+date: "2024-09-09 11:31:15 +0200"
+excerpt: "Sono diventato iper taccagno ed ho riscoperto l’amore per AliExpress."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9fb1c190-a864-4ff2-b6f0-1038c3638a68_1024x538.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9fb1c190-a864-4ff2-b6f0-1038c3638a68_1024x538.png"
 ---
 ![aliexpress-1024x538.png](https://substack-post-media.s3.amazonaws.com/public/images/9fb1c190-a864-4ff2-b6f0-1038c3638a68_1024x538.png)**AliExpress** è sempre stato una sorta di chimera per noi italiani. Per anni ci abbiamo “combattuto” con pacchi persi e mai arrivati, dogane inventate e tanto altro. Oggi come oggi è un servizio che funziona e che ha solo bisogno di togliersi la vecchia nomea di dosso.
 

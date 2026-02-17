@@ -1,12 +1,11 @@
 ---
 layout: post
-title: É arrivata la fine per Airbnb con la Local law 18?
-date: 2023-09-12 11:00:31 +0200
-excerpt: Airbnb e simili potrebbero cambiare definitivamente volto a seguito della
-  Local law 18 introdotta di recente.
+title: "É arrivata la fine per Airbnb con la Local law 18?"
+date: "2023-09-12 11:00:31 +0200"
+excerpt: "Airbnb e simili potrebbero cambiare definitivamente volto a seguito della Local law 18 introdotta di recente."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/c2086991-0961-43af-8e8a-1243027bb4e7_945x630.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/c2086991-0961-43af-8e8a-1243027bb4e7_945x630.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/c2086991-0961-43af-8e8a-1243027bb4e7_945x630.jpeg)A **New York** è stata ufficialmente introdotta la nuova **[Local law 18](https://www.nyc.gov/site/specialenforcement/registration-law/registration.page?utm_source=substack&utm_medium=email)**, una legge che a suo modo andrà ad impattare le attività di affitto breve che si erano sviluppate nel corso di questi ultimi anni. Società quindi come **Airbnb** in primis (si dice sia proprio una legge contro l’azienda californiana) sono e verrano colpite da questa novità il cui unico grande scopo è quello di andare a contrastare la bolla immobiliare che si sta vivendo nelle grandi città degli Stati Uniti.
 

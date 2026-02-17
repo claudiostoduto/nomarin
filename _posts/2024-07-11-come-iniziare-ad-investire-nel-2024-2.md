@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Come iniziare ad investire nel 2024: step 2'
-date: 2024-07-11 12:01:37 +0200
-excerpt: Ho piano piano ripreso possesso delle mie finanze per iniziare nuovamente
-  ad investire, ma cerchiamo di azzerare prima tutti i costi.
+title: "Come iniziare ad investire nel 2024: step 2"
+date: "2024-07-11 12:01:37 +0200"
+excerpt: "Ho piano piano ripreso possesso delle mie finanze per iniziare nuovamente ad investire, ma cerchiamo di azzerare prima tutti i costi."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/a384bef0-c819-4bef-a85b-1fe9e572a70b_1024x1024.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/a384bef0-c819-4bef-a85b-1fe9e572a70b_1024x1024.png"
 ---
 ![Pasted Graphic.png](https://substack-post-media.s3.amazonaws.com/public/images/a384bef0-c819-4bef-a85b-1fe9e572a70b_1024x1024.png)A gennaio 2024 ho deciso di apportare cambiamenti significativi a molti aspetti della mia vita. Nella prima puntata di questo percorso abbiamo visto come iniziare a risparmiare e come procedere. Oggi vedremo come azzerare tutti i principali costi mensili.
 

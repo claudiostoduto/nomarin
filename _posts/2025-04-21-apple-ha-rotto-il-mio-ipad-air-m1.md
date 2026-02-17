@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Apple ha rotto il mio iPad Air M1
-date: 2025-04-21 13:33:31 +0200
-excerpt: Lo dico con grande rammarico, ma l’aggiornamento di iPadOS 18.4 ha stroncato
-  il mio iPad Air M1.
+title: "Apple ha rotto il mio iPad Air M1"
+date: "2025-04-21 13:33:31 +0200"
+excerpt: "Lo dico con grande rammarico, ma l’aggiornamento di iPadOS 18.4 ha stroncato il mio iPad Air M1."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/7f85fff5-b2d9-4611-b42f-dbfd25bd131e_2360x1640.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/7f85fff5-b2d9-4611-b42f-dbfd25bd131e_2360x1640.png"
 ---
 ![IMG_0083.png](https://substack-post-media.s3.amazonaws.com/public/images/7f85fff5-b2d9-4611-b42f-dbfd25bd131e_2360x1640.png)Sappiamo che da qualche settimana Apple ha rilasciato iPadOS 18.4 con tutte le novità in merito ad Apple Intelligence. Ok bene, ma non benissimo come diceva una vecchia canzone.
 

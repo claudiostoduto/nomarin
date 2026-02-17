@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Perché ho deciso di spendere 720€ con American Express Platino
-date: 2024-05-01 18:30:44 +0200
-excerpt: American Express è ormai una garanzia ed ho deciso di investire su una carta
-  Platino costosa.
+title: "Perché ho deciso di spendere 720€ con American Express Platino"
+date: "2024-05-01 18:30:44 +0200"
+excerpt: "American Express è ormai una garanzia ed ho deciso di investire su una carta Platino costosa."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/a16be9c3-db92-4e87-af03-9725f22875e9_1024x682.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/a16be9c3-db92-4e87-af03-9725f22875e9_1024x682.jpeg"
 ---
 ![American-express-cosa-succede-se-non-paghi.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/a16be9c3-db92-4e87-af03-9725f22875e9_1024x682.jpeg)Ho deciso di fare un esperimento per 365 giorni e di sottoscrivere **l’American Express Platinum Card**. Non è stata una scelta semplice per via del costo mensile, ma volevo capire i benefici e quali e quanti potessero essere e se questi migliorano la mia vita e quella della mia famiglia. Ve ne ho parlato su [LIFE](https://www.mrclaus.xyz/s/life) giusto sabato.
 

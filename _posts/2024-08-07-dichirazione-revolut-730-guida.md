@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Come dichiarare Revolut nel 730: guida completa'
-date: 2024-08-07 08:30:36 +0200
-excerpt: Revolut è un conto corrente estero e, come tale, superati certi parametri
-  va inserito all'interno del nostro 730.
+title: "Come dichiarare Revolut nel 730: guida completa"
+date: "2024-08-07 08:30:36 +0200"
+excerpt: "Revolut è un conto corrente estero e, come tale, superati certi parametri va inserito all'interno del nostro 730."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/166e9df5-660c-4a62-80ea-0cc3bb771aa8_750x892.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/166e9df5-660c-4a62-80ea-0cc3bb771aa8_750x892.png"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/166e9df5-660c-4a62-80ea-0cc3bb771aa8_750x892.png)Negli ultimi anni, **[Revolut](https://revolut.com/referral/?referral-code=claudi53md!AUG1-24-AR-L1)** è diventata una delle piattaforme finanziarie più popolari per la gestione del denaro, grazie alla sua flessibilità, ai costi contenuti e alla facilità d'uso. Tuttavia, con la crescita dell'utilizzo di servizi finanziari digitali, cresce anche la necessità di sapere come dichiarare correttamente queste attività nel **modello 730**. 
 

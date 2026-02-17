@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ho comprato il CMF Phone 1 by Nothing
-date: 2024-07-08 14:44:55 +0200
-excerpt: Ho deciso di comprare il primo smartphone di CMF il Phone 1 dell'azienda
-  che produce prodotti economici di Nothing.
+title: "Ho comprato il CMF Phone 1 by Nothing"
+date: "2024-07-08 14:44:55 +0200"
+excerpt: "Ho deciso di comprare il primo smartphone di CMF il Phone 1 dell'azienda che produce prodotti economici di Nothing."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/0fb77a68-e892-44b6-b937-2b7bb5358dbe_679x679.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/0fb77a68-e892-44b6-b937-2b7bb5358dbe_679x679.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/0fb77a68-e892-44b6-b937-2b7bb5358dbe_679x679.jpeg)Ero curioso di vedere questo **CMF Phone 1** sin da quando se ne è iniziato a parlare. In un mercato saturo e soprattutto senza mezze idee, va detto che Nothing, o chi per essa, sta cercando almeno di portare qualcosa di diverso sul mercato, con accessori, stili e concetti nuovi.
 

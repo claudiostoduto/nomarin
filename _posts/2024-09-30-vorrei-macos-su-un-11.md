@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Vorrei macOS su un 11”
-date: 2024-09-30 10:01:31 +0200
-excerpt: Alla fine parliamo tanto di iPad, ma macOS per tanti usi è ancora molto avanti
-  e su un 11” farebbe la differenza.
+title: "Vorrei macOS su un 11”"
+date: "2024-09-30 10:01:31 +0200"
+excerpt: "Alla fine parliamo tanto di iPad, ma macOS per tanti usi è ancora molto avanti e su un 11” farebbe la differenza."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/f9d2ee13-d350-42f4-9d8d-897ac3cc5d5b_2048x1464.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/f9d2ee13-d350-42f4-9d8d-897ac3cc5d5b_2048x1464.jpeg"
 ---
 ![new-macbook-primary-100578162-orig-15.jpg](https://substack-post-media.s3.amazonaws.com/public/images/f9d2ee13-d350-42f4-9d8d-897ac3cc5d5b_2048x1464.jpeg)Rivoglio il computer in questa foto con un **display da 11/12”**, con **Apple Silicon** (va bene anche un M1 strozzato) ed un prezzo di **999 euro**. Dove devo firmare?
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Come iniziare ad investire nel 2024: step 1'
-date: 2024-06-27 12:30:40 +0200
-excerpt: Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi che
-  mi hanno permesso di capire come e dove cominciare di nuovo ad investire.
+title: "Come iniziare ad investire nel 2024: step 1"
+date: "2024-06-27 12:30:40 +0200"
+excerpt: "Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi che mi hanno permesso di capire come e dove cominciare di nuovo ad investire."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/04305adb-6f60-497c-abc8-e72cf678699b_1024x1024.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/04305adb-6f60-497c-abc8-e72cf678699b_1024x1024.png"
 ---
 ![Pasted Graphic.png](https://substack-post-media.s3.amazonaws.com/public/images/04305adb-6f60-497c-abc8-e72cf678699b_1024x1024.png)A gennaio del **2024** ho tirato una riga importante su tanti aspetti della mia vita, stavo per diventare padre e dovevo smetterla di fare cazzate. Questo mi ha permesso sin da subito di capire cosa stessi sbagliando a livello economico e che cosa avrei dovuto fare per migliorare la situazione. Parto però con il dire che ormai due anni fa decisi, erroneamente, di comprare casa. I "debiti" derivanti da quella operazione me li porto ancora dietro ed ad oggi i benefici non sono ancora rientrati rispetto a quello che era il vantaggio di comprarla. Anche perché in breve tempo ho messo su famiglia e questo ha comportato il fatto che nel giro di qualche anno dovremmo andare via da quell'appartamento, salvo vicini gentili da cederci una semplice stanza  a noi connessa. In quel caso, addio al trasferimento. Tutto questo era per dire che alla fine ho deciso di disinvestire tutto ciò che avevo perché avevo bisogno di liquidità per andare a comprare casa e non sapevo quanto avrei speso, troppo in ogni caso.
 

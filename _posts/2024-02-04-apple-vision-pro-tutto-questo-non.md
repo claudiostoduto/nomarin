@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Apple Vision Pro, tutto questo non mi piace
-date: 2024-02-04 09:30:32 +0100
-excerpt: Apple Vision Pro arriva sul mercato portando con sé tante novità e tante
-  critiche.
+title: "Apple Vision Pro, tutto questo non mi piace"
+date: "2024-02-04 09:30:32 +0100"
+excerpt: "Apple Vision Pro arriva sul mercato portando con sé tante novità e tante critiche."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/7b4af61e-b512-4d52-8012-c535dd023189_748x900.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/7b4af61e-b512-4d52-8012-c535dd023189_748x900.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/7b4af61e-b512-4d52-8012-c535dd023189_748x900.jpeg)Siamo davanti ad una nuova tecnologia, ad un nuovo mondo da esplorare ed **Apple**, come sempre, quando entra in campo lo fa cambiandone le regole. Sono anni che vediamo i visori VR in Rete e nelle ferie tecnologiche. Ma solo oggi, nel 2024, abbiamo iniziato a vederli in giro per le strade con le persone che li indossano mentre passeggiano e/o mangiano al ristorante. Da questo punto di vista **Apple Vision Pro** ha già vinto.
 

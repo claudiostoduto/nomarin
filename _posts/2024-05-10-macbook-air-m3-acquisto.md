@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ma io volevo comprare il MacBook Air M3, ed ora?
-date: 2024-05-10 12:30:55 +0200
-excerpt: Con la presentazione del nuovo Apple Silicon M4 su iPad Pro, Apple ha completamente
-  cambiato i miei piani.
+title: "Ma io volevo comprare il MacBook Air M3, ed ora?"
+date: "2024-05-10 12:30:55 +0200"
+excerpt: "Con la presentazione del nuovo Apple Silicon M4 su iPad Pro, Apple ha completamente cambiato i miei piani."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/0260d6d5-de5e-4c1f-a01e-f498ee94ba0e_1200x630.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/0260d6d5-de5e-4c1f-a01e-f498ee94ba0e_1200x630.jpeg"
 ---
 ![url.jpg](https://substack-post-media.s3.amazonaws.com/public/images/0260d6d5-de5e-4c1f-a01e-f498ee94ba0e_1200x630.jpeg)Ammetto che l’evento di qualche giorno fa i cui **Apple** ha ufficialmente presentato la sua nuova gamma (quasi completa) di iPad ha fatto storcere il naso per diversi motivi. Primo fra tutti sicuramente il nuovo processore M4. Abbiamo già [analizzato](https://www.mrclaus.xyz/p/ipad-pro-m4-motivazione) la tipologia di scelta fatta da Apple in tal senso, ma non posso negare che questo abbia completamente cambiato i miei piani.
 

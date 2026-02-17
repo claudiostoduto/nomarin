@@ -1,12 +1,11 @@
 ---
 layout: post
-title: “Baby Reindeer” è una serie che finalmente piace
-date: 2024-04-24 12:02:13 +0200
-excerpt: Ci hanno messo del tempo ed alla fine in Netflix hanno tirato fuori un vero
-  e proprio capolavoro con Baby Reindeer.
+title: "“Baby Reindeer” è una serie che finalmente piace"
+date: "2024-04-24 12:02:13 +0200"
+excerpt: "Ci hanno messo del tempo ed alla fine in Netflix hanno tirato fuori un vero e proprio capolavoro con Baby Reindeer."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/e6242c95-593f-4f8e-a523-7f920505a982_1200x600.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/e6242c95-593f-4f8e-a523-7f920505a982_1200x600.jpeg"
 ---
 ![1713795638-Baby-Reindeer-Cover.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/e6242c95-593f-4f8e-a523-7f920505a982_1200x600.jpeg)Guardiamoci realmente in faccia e lo dico con sincera onestà. **Erano anni che non trovavo una serie che mi teneva incollato allo schermo della TV per tutta la sua durata**. L’ultima, a suo tempo, era stata *Suits*. Ok calma calm non voglio mettere Martha e Donny (i due protagonisti di questa storia vera) sul piano di Harvey e Mike, però buona parte del mio sentimento è stato quello Suits <3). Vedere *Baby Reindeer* è stato finalmente entusiasmante, come non succedeva da tempo.
 

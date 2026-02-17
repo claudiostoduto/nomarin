@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'iPhone 15 Pro Max: prime impressioni'
-date: 2023-09-25 08:08:33 +0200
-excerpt: Venerdì scorso ho fatto finalmente un Day One dopo tanti mesi e dopo un weekend
-  di utilizzo vi posso dire come mi sono trovato in questi primi giorno con iPhone
-  15 Pro Max.
+title: "iPhone 15 Pro Max: prime impressioni"
+date: "2023-09-25 08:08:33 +0200"
+excerpt: "Venerdì scorso ho fatto finalmente un Day One dopo tanti mesi e dopo un weekend di utilizzo vi posso dire come mi sono trovato in questi primi giorno con iPhone 15 Pro Max."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/4fe22bcb-03e6-4eb8-80d1-33b00586340a_3014x3550.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/4fe22bcb-03e6-4eb8-80d1-33b00586340a_3014x3550.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/4fe22bcb-03e6-4eb8-80d1-33b00586340a_3014x3550.jpeg)Partiamo dal fatto che trovarlo è stata un’impresa. Si perché questo iPhone 15 Pro Max non voleva saperne di arrivare dal sottoscritto. In un primo momento avevo fatto l’ordine su [Amazon](https://amzn.to/3RAPgK4), non perché non mi fidassi di Apple, quanto per comodità. Passano i giorni e le ore ma nessun addebito, nessuna notizia della consegna e telefono sempre lì fermo tra gli ordini. Poi di colpo arriva la mail con la consegna prevista per oggi, 25 settembre data in cui esce questo articolo, pur avendo fatto l’ordine praticamente subito. Dentro di me ho detto che tanto non sarebbe stato così, Amazon (come sempre) avrebbe anticipato. Era solo una data generica massima in cui poter ricevere il telefono. Invece no, zero. Venerdì mattina alla fine mi attivo in fretta e furia e riesco, di fortuna, a trovare il modello che volevo: **iPhone 15 Pro Max 256 GB colore Titanio naturale**.
 

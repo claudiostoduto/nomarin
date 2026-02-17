@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Un anno con Substack
-date: 2024-07-26 10:30:54 +0200
-excerpt: È passato un anno da quando ho deciso di riprendere in mano un mezzo blog
-  qui su Substack.
+title: "Un anno con Substack"
+date: "2024-07-26 10:30:54 +0200"
+excerpt: "È passato un anno da quando ho deciso di riprendere in mano un mezzo blog qui su Substack."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/f3e9f6d7-d16b-449a-a6f3-76b88580d766_1280x720.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/f3e9f6d7-d16b-449a-a6f3-76b88580d766_1280x720.jpeg"
 ---
 ![1418948779.jpg](https://substack-post-media.s3.amazonaws.com/public/images/f3e9f6d7-d16b-449a-a6f3-76b88580d766_1280x720.jpeg)Sono passati esattamente **12 mesi** da quando mi sono messo a lavorare secco su questo blog su Substack. Contestualmente ho deciso di sparire dalla Rete con il mio nome e cognome, scelta migliore non l'avrei mai potuta fare. Ho dato il via all'anonimato, eliminando quella presenza in Rete che può diventare fastidiosa se non usata con parsimonia negli anni.
 

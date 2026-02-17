@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Raspberry PI 5: NAS domestico con CasaOS'
-date: 2024-10-28 08:31:01 +0100
-excerpt: Come ho creato un NAS domestico personale con CasaOS e Raspberry PI 5.
+title: "Raspberry PI 5: NAS domestico con CasaOS"
+date: "2024-10-28 08:31:01 +0100"
+excerpt: "Come ho creato un NAS domestico personale con CasaOS e Raspberry PI 5."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/55eda14e-c6f1-4409-a6eb-a87e5992db1d_800x300.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/55eda14e-c6f1-4409-a6eb-a87e5992db1d_800x300.png"
 ---
 ![casaos_banner_twilight_blue_800x300.png](https://substack-post-media.s3.amazonaws.com/public/images/55eda14e-c6f1-4409-a6eb-a87e5992db1d_800x300.png)Torniamo ancora una volta a parlare di NAS e **Raspberry PI**, un connubio che ormai è presente nella mia vita e che devo dire, dopo tanto tempo, ha finalmente trovato una sua quadra nella mia casa. Vi ho già parlato di [Homebridge](https://open.substack.com/pub/mrclaus/p/raspberry-pi-zero-2-w-con-homebridge?r=2n10f&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) e del suo progetto che sta funzionando in casa mia, ma sono voluto andare oltre.
 

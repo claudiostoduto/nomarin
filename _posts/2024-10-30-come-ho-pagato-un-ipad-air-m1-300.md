@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Come ho pagato un iPad Air M1 300 euro
-date: 2024-10-30 08:30:53 +0100
-excerpt: Ho chiuso una trattativa portandomi a casa un iPad Air M1 a 300 euro su subito.it
+title: "Come ho pagato un iPad Air M1 300 euro"
+date: "2024-10-30 08:30:53 +0100"
+excerpt: "Ho chiuso una trattativa portandomi a casa un iPad Air M1 a 300 euro su subito.it"
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/bac2b6a7-826f-4ac1-aed3-0844972dd4ad_880x660.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/bac2b6a7-826f-4ac1-aed3-0844972dd4ad_880x660.png"
 ---
 ![vendere-su-subito-2_crop_resize.png](https://substack-post-media.s3.amazonaws.com/public/images/bac2b6a7-826f-4ac1-aed3-0844972dd4ad_880x660.png)Niente il giorno post laurea mi prende la scimmia. Il buon Amazon di 200 euro di Credem non arrivava, **iPad Air** M2 rimane sempre fisso a 700 euro, insomma inizio a guardare su subito.it. Mi stavo ovviamente annoiando da un lato dall’altro mi sono detto: **se lo trovo a 300 euro massimo lo prendo.**
 

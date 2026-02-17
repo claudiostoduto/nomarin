@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'iDuoPad: ho costruito il mio iPad perfetto'
-date: 2024-11-25 10:30:47 +0100
-excerpt: Questo doppio iPad era nella mia testa da anni e devo dire che, per quanto
-  strano, a modo suo può risultare comodo.
+title: "iDuoPad: ho costruito il mio iPad perfetto"
+date: "2024-11-25 10:30:47 +0100"
+excerpt: "Questo doppio iPad era nella mia testa da anni e devo dire che, per quanto strano, a modo suo può risultare comodo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/384e0043-b57c-4b20-91c7-20c0fa1ecdb8_5712x4284.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/384e0043-b57c-4b20-91c7-20c0fa1ecdb8_5712x4284.jpeg"
 ---
 ![IMG_5730.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/384e0043-b57c-4b20-91c7-20c0fa1ecdb8_5712x4284.jpeg)Il mondo iPad mi attrae come non mai. Lo odio, lo amo e poi alla fine ci ritorno sempre. Lo ho sempre definito come quel grande amore che non passa mai e che nonostante ti tradisca, ti faccia male, ti demolisca alla fine é sempre quello per cui faresti di tutto e daresti l’anima. Fatta questa doverosa premessa, specie per chi segue il canale [Telegram](http://telegram.mrclaus.xyz/) dove ha a che fare con le mie pazzie quotidiane, ora parliamo di questo mostro che ho creato: **iDuoPad**.
 

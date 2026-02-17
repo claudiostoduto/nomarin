@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ciao capelli
-date: 2025-12-26 14:06:18 +0100
-excerpt: Era da un po’ che non mi vedevo più con i miei capelli, come tanti uomini
-  soffro di calvizie.
+title: "Ciao capelli"
+date: "2025-12-26 14:06:18 +0100"
+excerpt: "Era da un po’ che non mi vedevo più con i miei capelli, come tanti uomini soffro di calvizie."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/a2fd3349-a670-4a2c-aa95-62021cfa5797_768x1024.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/a2fd3349-a670-4a2c-aa95-62021cfa5797_768x1024.jpeg"
 ---
 ![C43641AD-C78F-4AD6-876B-68C3B9EC6499_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/a2fd3349-a670-4a2c-aa95-62021cfa5797_768x1024.jpeg)Alla fine la scorsa estate mi sono convinto nel fare il gesto più estremo per quanto riguarda la mia capigliatura. Avevo sentito tantissime testimonianze del fatto che senza non si stava male **pelati**, ma io da piccolo ho sempre avuto i capelli lunghi ed ammetto che un po’ mi mancavano.
 

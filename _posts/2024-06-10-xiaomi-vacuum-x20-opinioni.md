@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Robot aspirapolvere: serve davvero in casa?'
-date: 2024-06-10 14:34:28 +0200
-excerpt: A distanza di ben quattro modelli comprati e provati a fondo, posso dirvi
-  la mia sui robot aspirapolvere per la casa.
+title: "Robot aspirapolvere: serve davvero in casa?"
+date: "2024-06-10 14:34:28 +0200"
+excerpt: "A distanza di ben quattro modelli comprati e provati a fondo, posso dirvi la mia sui robot aspirapolvere per la casa."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/5f7b202b-6f4f-4b6b-b44f-f9523b06806b_1357x1364.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/5f7b202b-6f4f-4b6b-b44f-f9523b06806b_1357x1364.jpeg"
 ---
 È tutto iniziato quasi 3 anni e mezzo fa con il mio primo **robot**, lo **Xiaomi Mop 2S** che presi sotto l’ombrellone e che feci arrivare ancora in quella che era la mia vecchia casa. Da lì in avanti presi una decisione per cui avevo detto a me stesso che avrei solo e solamente optato per dei prodotti che mi avrebbero permesso di mettere la tecnologia al mio servizio anche in casa permettendomi quindi di risparmiare tempo, denaro e soprattutto risorse.
 

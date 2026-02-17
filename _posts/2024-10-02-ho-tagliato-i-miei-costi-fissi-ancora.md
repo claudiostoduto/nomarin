@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ho tagliato i miei costi fissi ancora
-date: 2024-10-02 08:30:55 +0200
-excerpt: Di recente ho preso ancora in mano il mio file excel per tagliare ulteriormente
-  i miei costi fissi.
+title: "Ho tagliato i miei costi fissi ancora"
+date: "2024-10-02 08:30:55 +0200"
+excerpt: "Di recente ho preso ancora in mano il mio file excel per tagliare ulteriormente i miei costi fissi."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/0c41eed7-2b26-461a-a4cf-565eb7a4a7f2_1072x614.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/0c41eed7-2b26-461a-a4cf-565eb7a4a7f2_1072x614.png"
 ---
 ![Screenshot 2024-09-28 alle 11.56.26.png](https://substack-post-media.s3.amazonaws.com/public/images/0c41eed7-2b26-461a-a4cf-565eb7a4a7f2_1072x614.png)Sto diventando "malato" lo ammetto, ma laddove posso perché non risparmiare mantenendo sempre lo stesso standard di vita? No? Mi sembra veramente superfluo oltre che stupido sprecare denaro inutilmente. In parte prima lo ero già, ma da quando sono diventato papà questo aspetto si è enormemente enfatizzato. Ora sono all’estrema ricerca di **ottimizzare il più possibile tutti i costi.**
 

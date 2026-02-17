@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Il mio nuovo zaino tech: NH Escape 500 Rolltop 32L'
-date: 2023-09-08 11:18:48 +0200
-excerpt: Tornato dalle vacanze, ho risolto il grande dilemma del mio nuovo zaino tech.
-  Ho comprato il NH Escape 500 Rolltop 32L.
+title: "Il mio nuovo zaino tech: NH Escape 500 Rolltop 32L"
+date: "2023-09-08 11:18:48 +0200"
+excerpt: "Tornato dalle vacanze, ho risolto il grande dilemma del mio nuovo zaino tech. Ho comprato il NH Escape 500 Rolltop 32L."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9bae68ca-82db-4523-8a88-ac3e04ba9ff4_4032x2268.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9bae68ca-82db-4523-8a88-ac3e04ba9ff4_4032x2268.jpeg"
 ---
 Scegliere un **nuovo zaino** è sempre qualcosa di molto complesso per quanto mi riguarda. Rispetto agli anni passati vivo molto di meno con lo zaino in spalle, ma mi sono accorto sempre di più che contiene tutto il mio mondo oltre che ciò che mi serve. Avendo una casa poi non grandissima, negli anni ho dovuto limitare non poco il mio spazio a disposizione andando a comprimere sempre di più la mia dotazione quotidiana per lavoro e svago. Ho preferito quindi optare sempre più per prodotti compatti e funzionali in grado di poter stare tutti all’interno di un unico prodotto: il mio zaino.
 

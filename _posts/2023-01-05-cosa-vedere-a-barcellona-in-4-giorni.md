@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Cosa vedere a Barcellona in 4 giorni
-date: 2023-01-05 17:24:00 +0100
-excerpt: Cosa vedere in 4 giorni a Barcellona? Ecco un itinerario completo dalle visite
-  dei musei alle cene.
+title: "Cosa vedere a Barcellona in 4 giorni"
+date: "2023-01-05 17:24:00 +0100"
+excerpt: "Cosa vedere in 4 giorni a Barcellona? Ecco un itinerario completo dalle visite dei musei alle cene."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/a2631c60-da18-4aa9-9853-e1480730c667_3024x4032.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/a2631c60-da18-4aa9-9853-e1480730c667_3024x4032.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/a2631c60-da18-4aa9-9853-e1480730c667_3024x4032.jpeg)**Barcellona** è una di quelle città europee da vedere e visitare nei minimi dettagli. Offre una varietà etnica e culturale che pochi altri luoghi possono vantare. Ha dei buoni collegamenti ed offre un clima quasi sempre mite. Insomma, perché non visitarla?
 

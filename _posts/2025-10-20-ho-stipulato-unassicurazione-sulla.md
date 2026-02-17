@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ho stipulato un’assicurazione sulla vita
-date: 2025-10-20 20:58:10 +0200
-excerpt: Dopo tanta indecisione, alla fine ho deciso di stipulare un’assicurazione
-  sulla vita per tutelare i miei cari.
+title: "Ho stipulato un’assicurazione sulla vita"
+date: "2025-10-20 20:58:10 +0200"
+excerpt: "Dopo tanta indecisione, alla fine ho deciso di stipulare un’assicurazione sulla vita per tutelare i miei cari."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/b14ce8c1-3bd5-4fcc-8352-d9fe45c90276_2500x1300.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/b14ce8c1-3bd5-4fcc-8352-d9fe45c90276_2500x1300.png"
 ---
 ![Screenshot 2025-10-20 alle 20.54.13.png](https://substack-post-media.s3.amazonaws.com/public/images/b14ce8c1-3bd5-4fcc-8352-d9fe45c90276_2500x1300.png)Il **mondo** **assicurativo** non mi è mai piaciuto fino in fondo. Tuttavia, oggi come oggi, è più che mai fondamentale avere delle coperture che ti permettano di vivere sereno e senza problemi. Che sia quindi un’assicurazione sanitaria o una copertura per degli eventi imprevisti, con un figlio, preferisco partire prevenuto ed essere coperto. Così da quando son diventato papà ammetto che ho pensato comunque a sistemare la situazione in caso mi fosse successo qualcosa. Le possibilità di ci sono non voglio essere cinico. Non sappiamo realmente cosa ci potrà accadere domani per cui dare un qualcosa in più, per me, è il minimo. Per cui, oltre alle coperture sul mutuo, cosa potevo fare se non un’**assicurazione sulla mia vita**?
 

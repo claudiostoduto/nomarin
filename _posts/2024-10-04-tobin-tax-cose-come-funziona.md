@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Tobin Tax: cos''è, come funziona'
-date: 2024-10-04 08:31:46 +0200
-excerpt: 'Tobin Tax: cos''è, come funziona e quali sono i suoi effetti sulle transazioni
-  finanziarie e la speculazione.'
+title: "Tobin Tax: cos'è, come funziona"
+date: "2024-10-04 08:31:46 +0200"
+excerpt: "Tobin Tax: cos'è, come funziona e quali sono i suoi effetti sulle transazioni finanziarie e la speculazione."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/7107811d-8b5a-4acb-8aff-85eb7b4e6c95_700x350.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/7107811d-8b5a-4acb-8aff-85eb7b4e6c95_700x350.jpeg"
 ---
 ![tobin-tax.jpg](https://substack-post-media.s3.amazonaws.com/public/images/7107811d-8b5a-4acb-8aff-85eb7b4e6c95_700x350.jpeg)**Cos'è la Tobin Tax e come funziona?**
 

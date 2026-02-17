@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Dazi USA 2025: le nuove tariffe di Trump e le reazioni Internazionali'
-date: 2025-04-06 08:39:39 +0200
-excerpt: Comprendiamo i dazi applicati dal Presidente degli Stati Uniti d'America
+title: "Dazi USA 2025: le nuove tariffe di Trump e le reazioni Internazionali"
+date: "2025-04-06 08:39:39 +0200"
+excerpt: "Comprendiamo i dazi applicati dal Presidente degli Stati Uniti d'America"
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/88dc7181-1888-45d3-8b65-3740610b85e1_1920x1202.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/88dc7181-1888-45d3-8b65-3740610b85e1_1920x1202.jpeg"
 ---
 ![Lo strazio economico dei dazi boomerang di Trump - Zero Zero News](https://substack-post-media.s3.amazonaws.com/public/images/88dc7181-1888-45d3-8b65-3740610b85e1_1920x1202.jpeg)Ad aprile 2025, l'amministrazione del Presidente Donald Trump ha implementato una serie di dazi doganali significativi, segnando una svolta nelle politiche commerciali degli Stati Uniti. Queste misure mirano a proteggere l'industria nazionale e a ridurre il deficit commerciale, ma hanno suscitato reazioni contrastanti sia a livello interno che internazionale.
 

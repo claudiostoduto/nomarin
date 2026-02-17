@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'ITA: come prenotare un volo con un cane'
-date: 2024-02-05 14:28:06 +0100
-excerpt: ITA permette di viaggiare con i cani di piccola taglia, sebbene non sia una
-  cosa eccezionale.
+title: "ITA: come prenotare un volo con un cane"
+date: "2024-02-05 14:28:06 +0100"
+excerpt: "ITA permette di viaggiare con i cani di piccola taglia, sebbene non sia una cosa eccezionale."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/5b225d0f-8128-4e54-ba67-8cc51f64f3f0.heic
+image: "https://substack-post-media.s3.amazonaws.com/public/images/5b225d0f-8128-4e54-ba67-8cc51f64f3f0.heic"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/5b225d0f-8128-4e54-ba67-8cc51f64f3f0.heic)Di ritorna dalle vacanze di Natale, abbiamo sperimentato il viaggio in aereo con la compagnia di bandiera italiana **ITA** ed il nostro piccolo cucciolo a quattro zampe. Ricordo sempre che ho un barboncino nano di 6 chili molto vivace e che, tendenzialmente, rientra sempre nei limiti imposti dai pochi operatori di viaggio per stare in cabina con noi e non in stiva.
 

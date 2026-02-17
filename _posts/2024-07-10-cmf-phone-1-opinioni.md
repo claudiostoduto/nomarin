@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'CMF Phone 1: prime ore positive'
-date: 2024-07-10 19:20:05 +0200
-excerpt: Non vedevo l'ora di giocarci con mano, questo CMF Phone 1 mi sta già piacendo.
+title: "CMF Phone 1: prime ore positive"
+date: "2024-07-10 19:20:05 +0200"
+excerpt: "Non vedevo l'ora di giocarci con mano, questo CMF Phone 1 mi sta già piacendo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9030c572-0929-4a1f-ab0f-581afc01f4b4_4149x5009.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9030c572-0929-4a1f-ab0f-581afc01f4b4_4149x5009.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/9030c572-0929-4a1f-ab0f-581afc01f4b4_4149x5009.jpeg)Sto scrivendo questo articolo direttamente da lui: CMF Phone 1. Mi è arrivato questa mattina con Amazon e devo dire che non me lo aspettavo così. Sono onesto i 199€ mi sembravano pochi, molto pochi, ma alla fine dei conti mi sta stupendo non poco e sembra persino che non li valga.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Amazon mi ha fatto risparmiare 250€
-date: 2024-03-24 19:26:40 +0100
-excerpt: Amazon mi ha fatto risparmiare un bel po’ di soldi non dovendo chiamare un
-  elettricista.
+title: "Amazon mi ha fatto risparmiare 250€"
+date: "2024-03-24 19:26:40 +0100"
+excerpt: "Amazon mi ha fatto risparmiare un bel po’ di soldi non dovendo chiamare un elettricista."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/4b121d39-c195-433e-95b3-fd834e3769c3_1094x616.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/4b121d39-c195-433e-95b3-fd834e3769c3_1094x616.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/4b121d39-c195-433e-95b3-fd834e3769c3_1094x616.jpeg)Per una volta la Smart home mi è venuta in soccorso e non sono stato io a rincorrerla per chissà qualche assurda invenzione mi volessi mettere in testa. Mi spiego meglio che altrimenti così sembro decisamente pazzo. Da ormai diversi mesi ho migrato totalmente la gestione della mia casa sul protocollo **HomeKit**. Da un lato per comodità di connessione fra tutti i dispositivi Apple, dall'altro invece per la stabilità che questo protocollo negli anni mi ha confermato di avere. Tuttavia, conoscendo il mio animo da rompi balle, mi sono sempre tenuto la porta secondaria aperta andando a cercare prodotti non specifici solo Apple HomeKit ma anche compatibili banalmente con **Google Home**. Un prodotto Android alla fine, vuoi non vuoi, lo avevo sempre in tasca o nello zaino ed un'alternativa sono sincero bisogna sempre averla a portata di mano.
 

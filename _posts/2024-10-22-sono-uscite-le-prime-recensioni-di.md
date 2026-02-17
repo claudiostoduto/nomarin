@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Sono uscite le prime recensioni di iPad Mini 7
-date: 2024-10-22 18:38:32 +0200
-excerpt: Arrivano le prime review di iPad Mini 7 un prodotto che comunque farà parlare
-  di sè.
+title: "Sono uscite le prime recensioni di iPad Mini 7"
+date: "2024-10-22 18:38:32 +0200"
+excerpt: "Arrivano le prime review di iPad Mini 7 un prodotto che comunque farà parlare di sè."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/6cea6902-15fb-4a4e-b869-41c51437c6c5_2560x1440.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/6cea6902-15fb-4a4e-b869-41c51437c6c5_2560x1440.png"
 ---
 ![nuovo-ipad-mini-7.png](https://substack-post-media.s3.amazonaws.com/public/images/6cea6902-15fb-4a4e-b869-41c51437c6c5_2560x1440.png)Vuoi o non vuoi alla fine l’iPad mini fa sempre parlare di sé. Con il [lancio](https://www.mrclaus.xyz/p/parliamo-di-ipad-mini-7) del nuovo modello avvenuto la scorsa settimana con un comunicato stampa, in molti si attendevano di vedere dal vivo le novità, io per primo. Sapete la mia indole, no? Quindi non giriamoci attorno e dopo tre anni di attesa era anche doveroso capire cosa Apple potesse sganciare per noi appassionati.
 

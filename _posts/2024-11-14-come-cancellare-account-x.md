@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Come cancellare l’account X
-date: 2024-11-14 08:48:17 +0100
-excerpt: Dopo la recenti affermazioni di Elon Musk, sempre più utenti hanno deciso
-  di cancellarsi dal suo social X.
+title: "Come cancellare l’account X"
+date: "2024-11-14 08:48:17 +0100"
+excerpt: "Dopo la recenti affermazioni di Elon Musk, sempre più utenti hanno deciso di cancellarsi dal suo social X."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/893c8b8b-755b-435f-89a9-d83b4a46e770_610x342.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/893c8b8b-755b-435f-89a9-d83b4a46e770_610x342.png"
 ---
 ![b08c7d64.png](https://substack-post-media.s3.amazonaws.com/public/images/893c8b8b-755b-435f-89a9-d83b4a46e770_610x342.png)Il buon **Elon Musk** è da molti considerato un genio, un visionario ed un imprenditore di successo. Tuttavia spesso fa più parlare di sé per tutta una serie di decisioni e di scelte prese che lo riguardano in prima persona e che lasciano strascichi per lui, le sue aziende e la gente che lo segue.
 

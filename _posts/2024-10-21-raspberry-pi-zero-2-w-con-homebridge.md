@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Raspberry PI Zero 2 W con Homebridge, perché?
-date: 2024-10-21 08:31:10 +0200
-excerpt: Ho acquistato un Raspberry PI Zero 2 W in cui ho installato Homebridge per
-  gestire la mia casa.
+title: "Raspberry PI Zero 2 W con Homebridge, perché?"
+date: "2024-10-21 08:31:10 +0200"
+excerpt: "Ho acquistato un Raspberry PI Zero 2 W in cui ho installato Homebridge per gestire la mia casa."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/6879cf4d-77cc-429e-867c-d4b50af24dde_1921x1081.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/6879cf4d-77cc-429e-867c-d4b50af24dde_1921x1081.png"
 ---
 ![homebridge-on-homekit-raspberry-pi.png](https://substack-post-media.s3.amazonaws.com/public/images/6879cf4d-77cc-429e-867c-d4b50af24dde_1921x1081.png)Tornato dalle vacanze estive e rimesso a regime un po’ tutto il mio mondo in casa, mi sono posto degli obiettivi tecnologici da migliorare e sistemare all’interno delle mie mura domestiche. Vi avevo sempre parlato bene del mio fantastico **NAS di Synology,** un prodotto economico e di fascia bassa ma che sapeva fare il suo. Al suo interno, oltre allo storage di file, foto, video ecc ecc avevo anche installato **Homebridge** per gestire quei prodotti che utilizzo in casa ma che non sono nativi con HomeKit di Apple (qualcuno ha detto per caso Tuya?).
 

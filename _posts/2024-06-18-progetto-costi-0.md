@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Progetto costi 0
-date: 2024-06-18 12:31:03 +0200
-excerpt: Una sfida utopica ma non impossibile, ci sto provando azzerando il più possibile
-  ogni cosa.
+title: "Progetto costi 0"
+date: "2024-06-18 12:31:03 +0200"
+excerpt: "Una sfida utopica ma non impossibile, ci sto provando azzerando il più possibile ogni cosa."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/110165c1-c8be-4516-a0c0-20d2342572e9_1633x980.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/110165c1-c8be-4516-a0c0-20d2342572e9_1633x980.jpeg"
 ---
 ![url.jpg](https://substack-post-media.s3.amazonaws.com/public/images/110165c1-c8be-4516-a0c0-20d2342572e9_1633x980.jpeg)Qualche mese fa ho deciso di riprendere in mano e mettere sotto controllo le mie **finanze**. Sono sempre stato una persona che ha bisogno di avere una visione completa del proprio mondo e, quindi, perderla mi ha portato a fare non poche cavolate. Diventare padre è sicuramente una delle sfide più dure e difficili che posso affrontare e, giustamente, mi ha causato un po’ di ansia dal punto di vista economico.
 

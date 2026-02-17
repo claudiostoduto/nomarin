@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sergio Marchionne
-date: 2021-08-15 12:01:00 +0200
-excerpt: Che dire, mi ha fatto emozionare.
+title: "Sergio Marchionne"
+date: "2021-08-15 12:01:00 +0200"
+excerpt: "Che dire, mi ha fatto emozionare."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/704d5d14-80dc-4bea-b29e-ea9085715eea_321x499.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/704d5d14-80dc-4bea-b29e-ea9085715eea_321x499.jpeg"
 ---
 Autore: **Tommaso Ebhardt**
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Perchè tenere traccia delle proprie spese
-date: 2023-09-13 12:30:19 +0200
-excerpt: Ho costantemente ripreso a tenere traccia e monitorare tutte le mie spese,
-  dovreste farlo anche voi.
+title: "Perchè tenere traccia delle proprie spese"
+date: "2023-09-13 12:30:19 +0200"
+excerpt: "Ho costantemente ripreso a tenere traccia e monitorare tutte le mie spese, dovreste farlo anche voi."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/179e9d5c-310f-42bc-a58b-f3b4f9733f03_2456x1514.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/179e9d5c-310f-42bc-a58b-f3b4f9733f03_2456x1514.png"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/179e9d5c-310f-42bc-a58b-f3b4f9733f03_2456x1514.png)Il **monitoraggio delle spese** è da sempre stata una delle mie fissazioni più grandi. Ho usato nel tempo tantissime applicazioni fin da quando andavo al liceo. Non scherzo quando vi dico che le ho provate tutte, ma proprio tutte. Poi, passato il periodo universitario, ho cominciato a studiare un mio excel che ho portato avanti fino al maggio 2020. Da lì il vuoto fino alla scorsa estate, ovvero al momento in cui ho comprato casa ed in cui mi sono detto che era decisamente il caso di fare pace con me stesso **per capire dove andassero a finire i miei soldi**.
 

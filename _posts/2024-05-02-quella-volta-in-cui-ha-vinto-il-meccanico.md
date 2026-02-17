@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Quella volta in cui ha vinto il meccanico sul reso Amazon
-date: 2024-05-02 12:07:52 +0200
-excerpt: Questo weekend vi ho raccontato come sono riuscito a recuperare le mie cuffie
-  Logitech Vibe 125 dopo un piccolo problema che hanno avuto di recente.
+title: "Quella volta in cui ha vinto il meccanico sul reso Amazon"
+date: "2024-05-02 12:07:52 +0200"
+excerpt: "Questo weekend vi ho raccontato come sono riuscito a recuperare le mie cuffie Logitech Vibe 125 dopo un piccolo problema che hanno avuto di recente."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/26e4cf66-f264-4516-bb47-840e3a19a754_745x497.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/26e4cf66-f264-4516-bb47-840e3a19a754_745x497.jpeg"
 ---
 ![attrezzi-meccanico_NG1.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/26e4cf66-f264-4516-bb47-840e3a19a754_745x497.jpeg)Quando mi succedono queste cose e so dove mettere le mani, mi gaso. Perdonatemi se parto in questo modo ed inizio così esultando ma in questo caso ci sta. Faccio però una piccola premessa. Amazon in questi anni ci ha abituato, male, sotto tantissimi punti di vista fornendoci delle garanzie che le grande catene di elettronica e non solo si sognano ancora oggi. Non è solo il fatto di ricevere il prodotto a casa spesso a prezzo inferiore, ma anche il fatto che attorno a questo vi ruotino mille aspetti fra cui anche la garanzia del reso. Quante volte ci siamo imbattuti su un problema di un prodotto e dall’assistenza Amazon ci hanno detto che non era un problema, etichetta di reso e via con il rimborso?
 

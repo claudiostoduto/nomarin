@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Apple Intelligence ad oggi è un flop?
-date: 2025-04-02 09:25:19 +0200
-excerpt: Sono un utente Apple ormai da anni e non penso di aver assistito ad un flop
-  simile a quello di Apple Intelligence.
+title: "Apple Intelligence ad oggi è un flop?"
+date: "2025-04-02 09:25:19 +0200"
+excerpt: "Sono un utente Apple ormai da anni e non penso di aver assistito ad un flop simile a quello di Apple Intelligence."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/848a9bf4-ef6e-4dd3-b26a-ca19795b41d9_580x326.webp
+image: "https://substack-post-media.s3.amazonaws.com/public/images/848a9bf4-ef6e-4dd3-b26a-ca19795b41d9_580x326.webp"
 ---
 ![Apple-Intelligence-2047839.webp](https://substack-post-media.s3.amazonaws.com/public/images/848a9bf4-ef6e-4dd3-b26a-ca19795b41d9_580x326.webp)Ammettiamolo, erano anni che Apple non faceva un disastro simile a quello di Apple Intelligence. Forse nemmeno l’AirPower è paragonabile a questo flop. Il motivo? l’annuncio in pompa magna con tanto di prodotti venduti esclusivamente con questa grande novità. Bene, ed ora che si fa?
 

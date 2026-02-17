@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Redmi Pad: finalmente un bel tablet Android'
-date: 2023-04-03 13:04:00 +0200
-excerpt: Il Redmi Pad è uno di quei prodotti che ti sorprende sotto ogni punto di
-  vista.
+title: "Redmi Pad: finalmente un bel tablet Android"
+date: "2023-04-03 13:04:00 +0200"
+excerpt: "Il Redmi Pad è uno di quei prodotti che ti sorprende sotto ogni punto di vista."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/d8bfc8f7-d90b-436b-8588-2162596ccb50_4032x3024.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/d8bfc8f7-d90b-436b-8588-2162596ccb50_4032x3024.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/d8bfc8f7-d90b-436b-8588-2162596ccb50_4032x3024.jpeg)Poco dopo Natale ho sentito la necessità, come non so, di acquistare un **tablet** per vedere un film, una serie o un video mentre mi occupo di altro. Ammetto che non ne avevo sentito bisogno fino al momento in cui ho iniziato a trovare scomodo usare il MacBook Air per questioni di spazio. Sai mentre cucini non sempre puoi piazzare il portatile vicino, per cui mi sono domandato se fosse il caso di comprare un nuovo iPad o meno.
 

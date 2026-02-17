@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Non fate la eSIM con Very Mobile
-date: 2023-01-04 17:08:00 +0100
-excerpt: Very Mobile offre il servizio eSIM per le proprie offerte ma non è in grado
-  di gestirlo.
+title: "Non fate la eSIM con Very Mobile"
+date: "2023-01-04 17:08:00 +0100"
+excerpt: "Very Mobile offre il servizio eSIM per le proprie offerte ma non è in grado di gestirlo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/1a85af91-497c-4fcd-a688-1fcb0d0ef1b7_597x480.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/1a85af91-497c-4fcd-a688-1fcb0d0ef1b7_597x480.png"
 ---
 ## 
 

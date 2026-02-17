@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Il mio setup finanziario
-date: 2023-10-16 12:31:07 +0200
-excerpt: Sono riuscito a costruire un setup finanziario congruo per il mio utilizzo
-  ed allo stesso tempo sicuro.
+title: "Il mio setup finanziario"
+date: "2023-10-16 12:31:07 +0200"
+excerpt: "Sono riuscito a costruire un setup finanziario congruo per il mio utilizzo ed allo stesso tempo sicuro."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/aee9dd80-b9df-4be0-aa11-2d845a22c0f0.heic
+image: "https://substack-post-media.s3.amazonaws.com/public/images/aee9dd80-b9df-4be0-aa11-2d845a22c0f0.heic"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/aee9dd80-b9df-4be0-aa11-2d845a22c0f0.heic)Da qualche settimana ho ormai messo a buon punto il mio setup finanziario che potrei definire, in questa fase della mia vita, praticamente perfetto. Avevo bisogno di una soluzione che da una parte fosse accentratata e dall’altra flessibile ma allo stesso tempo sicura. Con qualche stratagemma e pazienza, alla fine ho dato vita ad una soluzione che non prevede alcuna azione da parte mia se non l’utilizzo di base.
 

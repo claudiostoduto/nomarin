@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Notion vs Apple Notes
-date: 2024-02-19 14:00:28 +0100
-excerpt: Dopo tanto tempo ho mandato in pensione Notion in favore di Apple Notes.
+title: "Notion vs Apple Notes"
+date: "2024-02-19 14:00:28 +0100"
+excerpt: "Dopo tanto tempo ho mandato in pensione Notion in favore di Apple Notes."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/64826a08-dc64-42e4-aa4e-b097d4f4439c_1400x608.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/64826a08-dc64-42e4-aa4e-b097d4f4439c_1400x608.jpeg"
 ---
 ![1LmT8Lj5ahz1waKYjSVnZDg@2x.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/64826a08-dc64-42e4-aa4e-b097d4f4439c_1400x608.jpeg)Ormai sto usando da qualche settimana Apple Notes al posto di Notion. Come vi ho anticipato nella newsletter LIFE, non c’è un motivo particolare per cui ho abbandonato “la grande N” in favore delle semplici note di Apple. Ho voluto provare, dopo qualche anno di utilizzo, qualcosa di nuovo. Per me che sono maniacale e pignolo sicuramente è stata una bella ventata di aria gelida, non fresca, ma volevo in ogni caso provarci.
 

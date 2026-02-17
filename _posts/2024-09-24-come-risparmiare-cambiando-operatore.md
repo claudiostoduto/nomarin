@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Come risparmiare cambiando operatore telefonico mobile
-date: 2024-09-24 08:02:09 +0200
-excerpt: Cambiare operatore non pagando praticamente niente se non un paio di euro.
+title: "Come risparmiare cambiando operatore telefonico mobile"
+date: "2024-09-24 08:02:09 +0200"
+excerpt: "Cambiare operatore non pagando praticamente niente se non un paio di euro."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/2577f841-544a-4e61-a1cd-7cf460f57278_2818x1678.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/2577f841-544a-4e61-a1cd-7cf460f57278_2818x1678.png"
 ---
 ![Screenshot 2024-09-08 alle 16.06.02.png](https://substack-post-media.s3.amazonaws.com/public/images/2577f841-544a-4e61-a1cd-7cf460f57278_2818x1678.png)Non sto sicuramente scoprendo l’acqua calda come si suol dire, però in circa 12 mesi provando e cambiando vari operatori sul mio numero secondario, ho trovato una sorta di “guida” per risparmiare qualcosa.
 

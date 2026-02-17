@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Il bello di scomparire
-date: 2024-08-28 11:31:04 +0200
-excerpt: Ormai da un anno circo ho completamente rimosso quasi ogni mia foto e/o presenza
-  online ad eccezione di questo blog.
+title: "Il bello di scomparire"
+date: "2024-08-28 11:31:04 +0200"
+excerpt: "Ormai da un anno circo ho completamente rimosso quasi ogni mia foto e/o presenza online ad eccezione di questo blog."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/66388750-bfbd-4520-853d-496c6fd9312e_1920x1079.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/66388750-bfbd-4520-853d-496c6fd9312e_1920x1079.jpeg"
 ---
 ![AA1jPi66.img.jpg](https://substack-post-media.s3.amazonaws.com/public/images/66388750-bfbd-4520-853d-496c6fd9312e_1920x1079.jpeg)Un anno fa deciso di attuare una decisione drastica ma che da tempo volevo prendere. Ho **cancellato ogni mia presenza online** andando a limitare al minimo le mie informazioni e lasciando solamente questo blog come fonte di comunicazione sulla Rete ed un profilo [Twitter](http://twitter.mrclaus.xyz) collegato a [Telegram](http://telegram.mrclaus.xyz). Decisi di eliminare il mio nome e cognome, nickname con cui mi ero fatto conoscere in Rete per anni, a favore di una abbreviazione di origine familiare (la mia compagna).
 

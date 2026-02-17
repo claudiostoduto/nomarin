@@ -1,11 +1,11 @@
 ---
 layout: post
-title: L'arte di correre
-date: 2024-09-03 07:14:53 +0200
-excerpt: Bevuto in un lampo, bello ma non mi ha trasmesso molte emozioni.
+title: "L'arte di correre"
+date: "2024-09-03 07:14:53 +0200"
+excerpt: "Bevuto in un lampo, bello ma non mi ha trasmesso molte emozioni."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/77cfc467-0a1b-40ef-b058-0fc14cf306c6_962x1500.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/77cfc467-0a1b-40ef-b058-0fc14cf306c6_962x1500.jpeg"
 ---
 Autore: [Haruki Murakami](https://amzn.to/3MuUDGU)
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: La fine di un'era
-date: 2025-04-10 08:01:22 +0200
-excerpt: Anche per Chris Lawley è cambiato il modo di usare l'iPad
+title: "La fine di un'era"
+date: "2025-04-10 08:01:22 +0200"
+excerpt: "Anche per Chris Lawley è cambiato il modo di usare l'iPad"
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/f9fbc5a9-c978-4f49-8d98-a783e92461e7_2286x1478.heic
+image: "https://substack-post-media.s3.amazonaws.com/public/images/f9fbc5a9-c978-4f49-8d98-a783e92461e7_2286x1478.heic"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/f9fbc5a9-c978-4f49-8d98-a783e92461e7_2286x1478.heic)Per il mondo degli iPaddisti, Chris Lawley è una di quelle figure molto vicine al buon Viticci. Parliamo di un YouTube ed un content creator che da sempre ha fatto della sua vicinanza al mondo iPad il suo punto di riferimento nonché la sua verticalità principale.
 

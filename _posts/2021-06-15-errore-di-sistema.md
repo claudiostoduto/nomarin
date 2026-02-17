@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Errore di sistema
-date: 2021-06-15 11:58:00 +0200
-excerpt: Per chi ha già letto l’altro capolavoro di Snowden, alcune parti saranno
-  ripetitive.
+title: "Errore di sistema"
+date: "2021-06-15 11:58:00 +0200"
+excerpt: "Per chi ha già letto l’altro capolavoro di Snowden, alcune parti saranno ripetitive."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/e40c843a-227f-4c97-a3b0-c2e25d9e1b9e_329x499.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/e40c843a-227f-4c97-a3b0-c2e25d9e1b9e_329x499.jpeg"
 ---
 Autore: **Ed Snowden**
 

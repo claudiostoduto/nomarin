@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Come ripagare i debiti
-date: 2024-03-04 14:00:52 +0100
-excerpt: Ammetto di non essere un grandissimo risparmiatore, ma in questi ultimi mesi
-  ho iniziato a mettere da parte qualcosa seriamente cercando prima di tutto di ripagare
-  i debiti.
+title: "Come ripagare i debiti"
+date: "2024-03-04 14:00:52 +0100"
+excerpt: "Ammetto di non essere un grandissimo risparmiatore, ma in questi ultimi mesi ho iniziato a mettere da parte qualcosa seriamente cercando prima di tutto di ripagare i debiti."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/3b59e0db-1c0c-4998-b6aa-8dee0a45e76b_634x422.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/3b59e0db-1c0c-4998-b6aa-8dee0a45e76b_634x422.jpeg"
 ---
 ![finanziamento-auto-rate.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/3b59e0db-1c0c-4998-b6aa-8dee0a45e76b_634x422.jpeg)Sono passati praticamente tre anni da quando ho stravolto la mia vita andando incontro ad un lavoro sicuro ed ad una stabilità economica e finanziaria praticamente da qui fino alla fine dei miei giorni. Presi quella decisione di buon cuore dopo il momento del Covid e, lo ammetto, spinto anche dalla paura di non rivivere più una situazione di incertezza come quella del passato. Da lì decisi di mettermi seriamente a gestire le mie finanze trovato un giusto equilibrio generale ed una discreta stabilità. Passati però quei due anni circa ebbi la brutta idea di comprare casa. C’è ne ho già parlato più di una volta di questa cosa e sapete cosa ne penso. Tornassi indietro, vista anche la situazione attuale, non la ricomprerei.
 

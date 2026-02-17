@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Perché ho cancellato l’American Express Platino
-date: 2024-10-14 08:31:06 +0200
-excerpt: Vi spiego in semplici punti perché ho cancellato l’American Express Platino.
+title: "Perché ho cancellato l’American Express Platino"
+date: "2024-10-14 08:31:06 +0200"
+excerpt: "Vi spiego in semplici punti perché ho cancellato l’American Express Platino."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/94e60d68-b3d6-43b3-bfc0-f81d183a37e2_1024x768.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/94e60d68-b3d6-43b3-bfc0-f81d183a37e2_1024x768.jpeg"
 ---
 ![platinum-box.jpg](https://substack-post-media.s3.amazonaws.com/public/images/94e60d68-b3d6-43b3-bfc0-f81d183a37e2_1024x768.jpeg)Alla fine, come vi avevo anticipato nella newsletter e non solo, ho cancellato definitivamente la mia **American Express Platino**. Avevo deciso mesi fa di provarla e di darle una chance nonostante la mia taccagnaggine. 60€ al mese non erano pochi, ma se ben sfruttati potevano essere ammortizzati per bene. Sottolineo che, nonostante la mia decisione, questo mio pensiero non cambia ancora oggi.
 

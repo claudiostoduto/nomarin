@@ -1,12 +1,11 @@
 ---
 layout: post
-title: La mia routine quotidiana 2024
-date: 2024-03-14 06:57:38 +0100
-excerpt: Ho ufficialmente collaudato e certificato la mia nuova routine quotidiana
-  che mi ha permesso di trovare un giusto equilibrio generale nella giornata lavorativa.
+title: "La mia routine quotidiana 2024"
+date: "2024-03-14 06:57:38 +0100"
+excerpt: "Ho ufficialmente collaudato e certificato la mia nuova routine quotidiana che mi ha permesso di trovare un giusto equilibrio generale nella giornata lavorativa."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9f540341-7f71-42ea-a237-52279d21421a_734x489.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9f540341-7f71-42ea-a237-52279d21421a_734x489.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/9f540341-7f71-42ea-a237-52279d21421a_734x489.jpeg)Dalla fine della scorsa estate e dalla scoperta dell'arrivo di un nuovo membro della famiglia ho iniziato a cercare di trovare una nuova routine quotidiana che si potesse sposare al meglio con le mie esigenze, con quelle della mia famiglia e con quelle del mio lavoro. Rigorosamente in questo ordine. 
 

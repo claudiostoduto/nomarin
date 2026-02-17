@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ho capito come usare l’Apple Watch
-date: 2024-04-29 11:59:53 +0200
-excerpt: Sono alla terza generazione di Apple Watch al mio polso e solo ora ho capito
-  come può essermi utile.
+title: "Ho capito come usare l’Apple Watch"
+date: "2024-04-29 11:59:53 +0200"
+excerpt: "Sono alla terza generazione di Apple Watch al mio polso e solo ora ho capito come può essermi utile."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9098ed2d-7a90-4a25-852b-d8b43929e0ab.heic
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9098ed2d-7a90-4a25-852b-d8b43929e0ab.heic"
 ---
 Lo ammetto, spesso le cose le inizio ad utilizzare con calma e con i miei tempi. Non sono sempre in linea con quello che mi ruota attorno, sono particolare dai. Sono alla terza generazione di **Apple Watch** al mio polso e solamente ora, dopo aver compiuto trent’anni, **ho iniziato ad usare realmente il prodotto ed a capirne l’uso di base.**
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Come ho smesso di usare la mia American Express
-date: 2025-08-24 10:00:56 +0200
-excerpt: Ero e sono un grande fan di American Express ma ammetto che negli ultimi
-  mesi ho ridimensionati il suo utilizzo.
+title: "Come ho smesso di usare la mia American Express"
+date: "2025-08-24 10:00:56 +0200"
+excerpt: "Ero e sono un grande fan di American Express ma ammetto che negli ultimi mesi ho ridimensionati il suo utilizzo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/59344973-31b0-4828-b8dc-8e0c6a122b00_2360x955.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/59344973-31b0-4828-b8dc-8e0c6a122b00_2360x955.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/59344973-31b0-4828-b8dc-8e0c6a122b00_2360x955.jpeg)Fra me ed **American Express** c’è un grande amore, da anni. Mi ricordo il pre-Covid con la mia prima Amex Oro e, visto il periodo, qualche primo difetto di utilizzo diciamo così. Poi tutto è cambiato, ho avuto la [Platino](https://www.mrclaus.xyz/p/perche-ho-cancellato-lamerican-express?utm_source=publication-search) poi cancellata ed infine ho eletto la [Gold Credit](https://www.mrclaus.xyz/p/miglior-american-express-italia?utm_source=publication-search) a mia carta preferita, nonché quella che ad oggi ha più senso.
 

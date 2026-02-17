@@ -1,12 +1,11 @@
 ---
 layout: post
-title: iPhone 15 Pro Max e MacBook Air M1 battono iPad
-date: 2024-08-23 11:31:11 +0200
-excerpt: Ho passato la mia estate senza iPad, con un tablet Samsung, ma alla fine
-  ho riscoperto l’uso del MacBook Air M1.
+title: "iPhone 15 Pro Max e MacBook Air M1 battono iPad"
+date: "2024-08-23 11:31:11 +0200"
+excerpt: "Ho passato la mia estate senza iPad, con un tablet Samsung, ma alla fine ho riscoperto l’uso del MacBook Air M1."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/639e9f34-0ba7-418d-a85b-5bac41e6fbf0_4284x5712.heic
+image: "https://substack-post-media.s3.amazonaws.com/public/images/639e9f34-0ba7-418d-a85b-5bac41e6fbf0_4284x5712.heic"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/639e9f34-0ba7-418d-a85b-5bac41e6fbf0_4284x5712.heic)Oltre ad essere stata una torrida e calda estate, per me, dal punto di vista tecnologico, è stato un periodo di calma piatta e che mi ha fatto nuovamente riscoprire alcuni prodotti ed usi che non consideravo.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: E se non volessi guadagnare di più?
-date: 2024-07-24 10:39:54 +0200
-excerpt: Ultimamente mi sono completamente ritirato su alcuni aspetti economici cercando
-  di capire come gestire meglio il mio denaro senza voler guadagnare di più.
+title: "E se non volessi guadagnare di più?"
+date: "2024-07-24 10:39:54 +0200"
+excerpt: "Ultimamente mi sono completamente ritirato su alcuni aspetti economici cercando di capire come gestire meglio il mio denaro senza voler guadagnare di più."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/83acec4f-267a-4d26-9e2f-4a4fe165d3d4_1030x664.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/83acec4f-267a-4d26-9e2f-4a4fe165d3d4_1030x664.jpeg"
 ---
 ![url.jpg](https://substack-post-media.s3.amazonaws.com/public/images/83acec4f-267a-4d26-9e2f-4a4fe165d3d4_1030x664.jpeg)Nel percorso di ricostruzione finanziaria che sto attuando in primis con me stesso ed in secondo luogo nei confronti della mia famiglia, mi sono spesso scontrato con una delle più facili considerazioni che il tipico lavoratore italiano può effettuare: **lamentarsi del proprio stipendio basso.**
 

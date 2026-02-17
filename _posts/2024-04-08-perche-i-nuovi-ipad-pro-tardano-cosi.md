@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Perché i nuovi iPad Pro tardano così tanto?
-date: 2024-04-08 11:30:18 +0200
-excerpt: Non sono chiaramente un visionario, ma è palese che ci sia qualcosa che non
-  va con il rilascio dei nuovi iPad Pro.
+title: "Perché i nuovi iPad Pro tardano così tanto?"
+date: "2024-04-08 11:30:18 +0200"
+excerpt: "Non sono chiaramente un visionario, ma è palese che ci sia qualcosa che non va con il rilascio dei nuovi iPad Pro."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/70cc79c5-fdb8-4f85-84fc-ff33299b900f_1536x864.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/70cc79c5-fdb8-4f85-84fc-ff33299b900f_1536x864.png"
 ---
 ![ipad-pro-2024.png](https://substack-post-media.s3.amazonaws.com/public/images/70cc79c5-fdb8-4f85-84fc-ff33299b900f_1536x864.png)Sembra ormai quasi una sorta di barzelletta, come le dimissioni di Allegri dalla Juventus, quella che riguarda il lancio dei nuovi **iPad Pro 2024**. Il modello di settimana generazione del tablet Pro di Apple tarda ancora e dopo un periodo, quello di marzo, che sembrava quello designato, ormai siamo agli sgoccioli dei 18 mesi circa dall’ultimo rilascio.
 

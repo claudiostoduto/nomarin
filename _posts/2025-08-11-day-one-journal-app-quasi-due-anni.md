@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Day One journal app: quasi due anni dopo'
-date: 2025-08-11 17:05:29 +0200
-excerpt: Dopo quasi due anni di utilizzo di Day One, vi posso dire che non ne posso
-  fare a meno.
+title: "Day One journal app: quasi due anni dopo"
+date: "2025-08-11 17:05:29 +0200"
+excerpt: "Dopo quasi due anni di utilizzo di Day One, vi posso dire che non ne posso fare a meno."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/9eebce29-5fe5-4e14-8896-1f37583d901c_674x469.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/9eebce29-5fe5-4e14-8896-1f37583d901c_674x469.jpeg"
 ---
 ![IMG_0143.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/9eebce29-5fe5-4e14-8896-1f37583d901c_674x469.jpeg)Me lo ricordo ancora, sta per nascere mio figlio e mi sono detto: voglio qualcosa che mi permetta di scrivere giorno per giorno tutto ciò che succede e, nel tempo, ricordare tutto. Cosa c’è di meglio di **Day One**? Parliamo di un’applicazione che per gli utenti iOS è storica. Fu una delle prime che acquistai e che negli anni si è evoluta diventando anche multipiattaforma.
 

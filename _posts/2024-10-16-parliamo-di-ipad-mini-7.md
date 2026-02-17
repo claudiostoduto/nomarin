@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Parliamo di iPad Mini 7
-date: 2024-10-16 08:31:04 +0200
-excerpt: Lo volevamo ed è arrivato il nuovo iPad Mini 7 che, come sempre, ha fatto
-  parlare di sé in negativo.
+title: "Parliamo di iPad Mini 7"
+date: "2024-10-16 08:31:04 +0200"
+excerpt: "Lo volevamo ed è arrivato il nuovo iPad Mini 7 che, come sempre, ha fatto parlare di sé in negativo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/e346744a-e9a3-4b04-b029-76c703ee7c40_2618x1636.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/e346744a-e9a3-4b04-b029-76c703ee7c40_2618x1636.png"
 ---
 ![Screenshot 2024-10-16 alle 07.37.31.png](https://substack-post-media.s3.amazonaws.com/public/images/e346744a-e9a3-4b04-b029-76c703ee7c40_2618x1636.png)Nel primo pomeriggio del **15 ottobre**, proprio mentre mi stavo laureando, **Apple** ha presentato ufficialmente il nuovo **iPad Mini 7** con un semplice comunicato stampa. Si era parlato di un potenziale evento in arrivo nel corso delle prossime settimane ma alla fine, almeno sembrerebbe per ora, niente di fatto.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Come iniziare ad investire nel 2024: step 5 il PAC'
-date: 2024-09-06 19:22:40 +0200
-excerpt: Passaggio numero 5 della nostra guida in cui ora costruiamo il nostro PAC.
+title: "Come iniziare ad investire nel 2024: step 5 il PAC"
+date: "2024-09-06 19:22:40 +0200"
+excerpt: "Passaggio numero 5 della nostra guida in cui ora costruiamo il nostro PAC."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/427eff93-d972-4255-8660-24cc57639140_1024x1024.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/427eff93-d972-4255-8660-24cc57639140_1024x1024.png"
 ---
 ![Pasted Graphic.png](https://substack-post-media.s3.amazonaws.com/public/images/427eff93-d972-4255-8660-24cc57639140_1024x1024.png)A Gennaio del 2024 ho tirato una riga importante su tanti aspetti della mia vita. Fino ad oggi abbiamo visto come risparmiare, come azzerare i costi, come creare un fondo di emergenza ed iniziare ad avere un fondo pensione.
 

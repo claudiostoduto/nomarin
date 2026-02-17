@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Ho cancellato Instagram dallo smartphone
-date: 2024-01-24 14:30:16 +0100
-excerpt: Ho deciso di cancellare Instagram dallo smartphone per iniziare a sistemare
-  il mio cervello.
+title: "Ho cancellato Instagram dallo smartphone"
+date: "2024-01-24 14:30:16 +0100"
+excerpt: "Ho deciso di cancellare Instagram dallo smartphone per iniziare a sistemare il mio cervello."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/82612655-b259-4653-aa98-dcce8055be7b_738x415.webp
+image: "https://substack-post-media.s3.amazonaws.com/public/images/82612655-b259-4653-aa98-dcce8055be7b_738x415.webp"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/82612655-b259-4653-aa98-dcce8055be7b_738x415.webp)Per chi mi segue su **Instagram** avrà notato che negli ultimi 12 mesi il mio utilizzo di è ridotto tantissimo. Sono passato da utilizzatore frequente con varie pubblicazioni e 0. Come sempre per me o esiste il bianco o esiste il nero. Non c'è il grigio o le sfumature a lui connesse. Va beh, pace. Detto ciò, ho cancellato Instagram dai miei dispositivi. Non ho cancellato l’account attenzione, ma l’applicazione da tutti gli smartphone e/o tablet che ho. Ad oggi è più di una settimana che non mi vedete attivo né come pubblicatore e nemmeno come spettatore delle vostre storie o post.
 

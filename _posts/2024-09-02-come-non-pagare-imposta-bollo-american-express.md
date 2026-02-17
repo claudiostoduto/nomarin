@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Come non pagare l’imposta di bollo con American Express
-date: 2024-09-02 11:30:51 +0200
-excerpt: Se anche voi siete clienti di American Express ed odiate pagare il bollo,
-  c’è una soluzione (non troppo legittima).
+title: "Come non pagare l’imposta di bollo con American Express"
+date: "2024-09-02 11:30:51 +0200"
+excerpt: "Se anche voi siete clienti di American Express ed odiate pagare il bollo, c’è una soluzione (non troppo legittima)."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/78d379b6-ea10-45cf-a55c-679c75fce162_1908x1562.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/78d379b6-ea10-45cf-a55c-679c75fce162_1908x1562.png"
 ---
 ![Screenshot 2024-08-30 alle 16.22.28.png](https://substack-post-media.s3.amazonaws.com/public/images/78d379b6-ea10-45cf-a55c-679c75fce162_1908x1562.png)Penso vi ricordiate tutti quando vi ho detto che mi ero finalmente [regalato](https://www.mrclaus.xyz/p/perche-ho-deciso-di-spendere-720?utm_source=publication-search) l’**American Express Platino**, un prodotto che aumenta chiaramente quelli che sono i miei costi mensili e che va contro tanti miei principi ma che, oggettivamente, ti offre molto di più di quello che tu possa pensare di avere con il semplice canone di 60 euro al mese.
 

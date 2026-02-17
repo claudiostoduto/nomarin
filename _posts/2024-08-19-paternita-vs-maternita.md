@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Perché la paternità è diversa dalla maternità?
-date: 2024-08-19 11:16:03 +0200
-excerpt: Sono diventato papà da qualche mese, ma purtroppo solo adesso mi sono potuto
-  avvicinare a mio figlio più nel concreto.
+title: "Perché la paternità è diversa dalla maternità?"
+date: "2024-08-19 11:16:03 +0200"
+excerpt: "Sono diventato papà da qualche mese, ma purtroppo solo adesso mi sono potuto avvicinare a mio figlio più nel concreto."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/4436de3a-4f96-4cf5-b124-c94bb385d0dd_480x340.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/4436de3a-4f96-4cf5-b124-c94bb385d0dd_480x340.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/4436de3a-4f96-4cf5-b124-c94bb385d0dd_480x340.jpeg)Sono una di quelle persone che alla fine ha bisogno di vivere le cose prima di poterle giudicare con mano. Inizialmente pensavo che la maternità fosse giusta e necessaria per la mamma, ma non per il papà. Nei primi mesi noi siamo importanti certamente, ma il livello di attaccamento alla mamma è tutto di un altro livello, che ci piaccia o meno.
 

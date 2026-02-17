@@ -1,12 +1,11 @@
 ---
 layout: post
-title: YouTube Premium è l’unica “TV” che voglio pagare
-date: 2024-02-07 14:35:08 +0100
-excerpt: Da un paio di mesi sto usando ormai YouTube Premium e non potrei più tornare
-  indietro, davvero.
+title: "YouTube Premium è l’unica “TV” che voglio pagare"
+date: "2024-02-07 14:35:08 +0100"
+excerpt: "Da un paio di mesi sto usando ormai YouTube Premium e non potrei più tornare indietro, davvero."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/49660f64-a2ae-4d42-8f80-d383d565cc24_1200x626.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/49660f64-a2ae-4d42-8f80-d383d565cc24_1200x626.png"
 ---
 ![url.png](https://substack-post-media.s3.amazonaws.com/public/images/49660f64-a2ae-4d42-8f80-d383d565cc24_1200x626.png)In concomitanza con l’acquisto del Galaxy S23 Ultra, ebbi modo di ricevere per 4 mesi gratis la prova di **YouTube Premium**. Per chi non lo conoscesse, si tratta della versione per l’appunto a pagamento del social di Google dove vengono rimosse tutte le pubblicità e che da anche in aggiunta il servizio YT Music, comparabile a Spotify e simili.
 

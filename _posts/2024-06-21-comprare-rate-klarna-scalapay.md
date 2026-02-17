@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Perché comprare i prodotti a rate?
-date: 2024-06-21 12:20:27 +0200
-excerpt: Mi chiedo perché ormai ci sia la corsa a rateizzare tutto, persino gli acquisti
-  su H&M.
+title: "Perché comprare i prodotti a rate?"
+date: "2024-06-21 12:20:27 +0200"
+excerpt: "Mi chiedo perché ormai ci sia la corsa a rateizzare tutto, persino gli acquisti su H&M."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/2bd7d7ca-cbcb-4391-8b61-ab2d03cf88ee_640x426.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/2bd7d7ca-cbcb-4391-8b61-ab2d03cf88ee_640x426.jpeg"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/2bd7d7ca-cbcb-4391-8b61-ab2d03cf88ee_640x426.jpeg)Viviamo nella società delle rate. Nel 2024, oltre al consolidamento di aziende che hanno fatto di questo settore il loro mantra (le due principali le vedete qui sopra nell’immagine), c’è stata la definitiva esplosione del mondo “**pago con calma a rate**”. Klarna e Scalapay hanno fatto definitivamente il botto crescendo a livelli che nessuno si sarebbe potuto immaginare al momento del loro arrivo sul mercato.
 

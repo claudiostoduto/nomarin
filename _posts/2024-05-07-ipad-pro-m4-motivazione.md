@@ -1,12 +1,11 @@
 ---
 layout: post
-title: iPad Pro 2024 e la mossa commerciale del processore M4
-date: 2024-05-07 20:40:35 +0200
-excerpt: Apple ha lanciato il nuovo iPad Pro con processore M4 e sicuramente questo
-  ha fatto e farà parlare di sé sotto molti punti di vista.
+title: "iPad Pro 2024 e la mossa commerciale del processore M4"
+date: "2024-05-07 20:40:35 +0200"
+excerpt: "Apple ha lanciato il nuovo iPad Pro con processore M4 e sicuramente questo ha fatto e farà parlare di sé sotto molti punti di vista."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/0d8eeed9-d428-4619-8c96-51c9da0327e8_2048x1152.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/0d8eeed9-d428-4619-8c96-51c9da0327e8_2048x1152.jpeg"
 ---
 ![Pasted Graphic 4.jpg](https://substack-post-media.s3.amazonaws.com/public/images/0d8eeed9-d428-4619-8c96-51c9da0327e8_2048x1152.jpeg)L’aggiornamento degli **iPad Pro** che tanto attendevamo faranno molto parlare di loro, ma non per il motivo che voi tutti pensate. Apple ha deciso di sconvolgere quel poco che rimane del mercato dei tablet con questa nuova ed attesa versione Pro dopo tre generazioni quasi di piatto generale. È arrivato il tanto atteso schermo **OLED**, una nuova scocca più sottile, una fotocamera in meno, la nuova fotocamera frontale orizzontale, ma nessuna porta Thunderbolt 4 in più.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Guida ai regali di Natale 2024
-date: 2024-12-01 08:31:28 +0100
-excerpt: Siamo arrivati a quel momento dell’anno, andiamo a vedere la guida ai regali
-  di Natale 2024.
+title: "Guida ai regali di Natale 2024"
+date: "2024-12-01 08:31:28 +0100"
+excerpt: "Siamo arrivati a quel momento dell’anno, andiamo a vedere la guida ai regali di Natale 2024."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/b29a3d81-21c0-423a-a4c6-16827b5d2135_1080x1080.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/b29a3d81-21c0-423a-a4c6-16827b5d2135_1080x1080.png"
 ---
 ![Natale 2024.png](https://substack-post-media.s3.amazonaws.com/public/images/b29a3d81-21c0-423a-a4c6-16827b5d2135_1080x1080.png)Anche quest’anno siamo arrivati al periodo che ormai da diverso tempo preferisco: il Natale. Si respira un’aria sempre diversa, magica a modo suo e tutti tendiamo a voler essere più bravi e più buoni.
 

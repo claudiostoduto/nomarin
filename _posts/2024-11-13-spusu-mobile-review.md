@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'spusu mobile: come va dopo 3 mesi?'
-date: 2024-11-13 09:31:05 +0100
-excerpt: Ormai sono passati tre mesi da quando uso spusu mobile, come numero secondario
-  vi racconto come è andata.
+title: "spusu mobile: come va dopo 3 mesi?"
+date: "2024-11-13 09:31:05 +0100"
+excerpt: "Ormai sono passati tre mesi da quando uso spusu mobile, come numero secondario vi racconto come è andata."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/59873531-d0cf-4694-9dca-38741aefe506_600x365.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/59873531-d0cf-4694-9dca-38741aefe506_600x365.png"
 ---
 ![spusu-logo-mmw.png](https://substack-post-media.s3.amazonaws.com/public/images/59873531-d0cf-4694-9dca-38741aefe506_600x365.png)Poco dopo l’estate ho deciso di migrare il mio secondo numero verso **spusu mobile**, un operatore che sinceramente non avevo mai molto considerato negli anni se non per eventuali triangolazioni.  Invece, tornato dal mare, mi sono deciso nel fare la sim ed il passaggio in cui tutto è andato liscio come l’olio.
 

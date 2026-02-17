@@ -1,11 +1,11 @@
 ---
 layout: post
-title: La mia esperienza con Pulsee
-date: 2023-03-31 17:26:00 +0200
-excerpt: 'I sei mesi più brutti con un fornitore di gas e luce: Pulsee.'
+title: "La mia esperienza con Pulsee"
+date: "2023-03-31 17:26:00 +0200"
+excerpt: "I sei mesi più brutti con un fornitore di gas e luce: Pulsee."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/90852cf9-d81e-4914-82ba-fe5f41ccaa3b_865x251.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/90852cf9-d81e-4914-82ba-fe5f41ccaa3b_865x251.png"
 ---
 ![](https://substack-post-media.s3.amazonaws.com/public/images/90852cf9-d81e-4914-82ba-fe5f41ccaa3b_865x251.png)Cerco di essere sempre molto oggettivo nelle cose che mi accadono, ma quanto mi è successo con **Pulsee** è veramente stupido a mio avviso.
 

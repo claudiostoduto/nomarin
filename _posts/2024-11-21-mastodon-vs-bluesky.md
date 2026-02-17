@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Migriamo su Mastodon o su Bluesky?
-date: 2024-11-21 09:19:38 +0100
-excerpt: Per tanti è la domanda del momento dopo aver abbandonato X, ma quale social
-  conviene scegliere?
+title: "Migriamo su Mastodon o su Bluesky?"
+date: "2024-11-21 09:19:38 +0100"
+excerpt: "Per tanti è la domanda del momento dopo aver abbandonato X, ma quale social conviene scegliere?"
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/d711d234-a1cd-4014-bcc6-6c8cb470d552_1280x720.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/d711d234-a1cd-4014-bcc6-6c8cb470d552_1280x720.jpeg"
 ---
 ![bluesky-2.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/d711d234-a1cd-4014-bcc6-6c8cb470d552_1280x720.jpeg)L’abbandono di **X** da parte di tantissimi utenti singoli e grandi player di settori come l’informazione, l’intrattenimento e non solo ha iniziato a destare qualche preoccupazione. La domanda successiva è stata quella su dove andare ad atterrare e forse per la prima volta c’è stata una grande migrazione di massa verso **Bluesky**.
 

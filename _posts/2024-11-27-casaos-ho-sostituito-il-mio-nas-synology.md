@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'CasaOS: ho sostituito il mio NAS Synology e non torno indietro'
-date: 2024-11-27 10:30:46 +0100
-excerpt: CasaOS mi ha conquistato sostituendo il mio vecchio NAS di Synology in maniera
-  definitiva.
+title: "CasaOS: ho sostituito il mio NAS Synology e non torno indietro"
+date: "2024-11-27 10:30:46 +0100"
+excerpt: "CasaOS mi ha conquistato sostituendo il mio vecchio NAS di Synology in maniera definitiva."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/f988a136-3edd-49ab-a9b7-419581578bb7_2360x1640.png
+image: "https://substack-post-media.s3.amazonaws.com/public/images/f988a136-3edd-49ab-a9b7-419581578bb7_2360x1640.png"
 ---
 ![IMG_0032.png](https://substack-post-media.s3.amazonaws.com/public/images/f988a136-3edd-49ab-a9b7-419581578bb7_2360x1640.png)Ormai ho dismesso il mio precedente **NAS** da qualche mese e devo dire che non ne sto sentendo affatto la mancanza. Nel mentre sono venute fuori delle cose anche su **Synology** che mi hanno fatto dire che forse ho scelto il momento giusto per andare via e migrare da quel contesto.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Il più grosso errore che feci da giornalista
-date: 2024-09-04 11:31:09 +0200
-excerpt: Fino a qualche anno fa ero un giornalista freelance e commisi più di qualche
-  errore purtroppo.
+title: "Il più grosso errore che feci da giornalista"
+date: "2024-09-04 11:31:09 +0200"
+excerpt: "Fino a qualche anno fa ero un giornalista freelance e commisi più di qualche errore purtroppo."
 categories: []
 tags: []
-image: https://substack-post-media.s3.amazonaws.com/public/images/7dbeae69-62fd-4b4a-a328-c70482a5b4d1_886x886.jpeg
+image: "https://substack-post-media.s3.amazonaws.com/public/images/7dbeae69-62fd-4b4a-a328-c70482a5b4d1_886x886.jpeg"
 ---
 ![02097C5B-8A24-4391-9049-E334E7763DB3_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/7dbeae69-62fd-4b4a-a328-c70482a5b4d1_886x886.jpeg)Sono passati ormai diversi anni da quando smisi di fare il giornalista. Iniziai nel 2011 con il primo blog di tecnologia che mi diede non poche soddisfazioni per poi lanciare il mio grande amore nonché colui che mi fece perdere il sonno. [instanews.it](http://instanews.it). progetto chiuso, venduto e con una fit che, fatta post covid, mi ha lasciato anche contento e felice devo dire.
 
