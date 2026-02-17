@@ -2,8 +2,8 @@
 layout: post
 title: "Africa ui"
 date: 2025-02-6
-categories: "pensieri"
-tags: "jekyll,test"
+categories: [riflessioni]
+tags: [jekyll, test, novità]
 description: "Il primo vero articolo del mio nuovo blog creato con Jekyll e So Simple."
 ---
 
