@@ -10,9 +10,9 @@
 # url: /tags/
 # title: Recipes
 # url: /recipes/
-- title: Search
+- title: Cerca
   url: /search/
-- title: feed
-  url: /feed
+# title: feed
+# url: /feed
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
