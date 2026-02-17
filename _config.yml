@@ -9,6 +9,12 @@ remote_theme: null
 # Configurazione del tema So Simple
 skin: "/assets/css/skins/default.css"
 
+navigation:
+  - title: "Chi sono"
+    url: /chi-sono/
+  - title: "Archivio"
+    url: /posts/
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
