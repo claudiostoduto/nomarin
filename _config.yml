@@ -48,7 +48,7 @@ defaults:
 # Site Author
 author:
   name: Mr. Claus
-  picture: /assets/images/avatar.jpg
+  picture: /assets/images/avatar.jpeg
   email: hello@mrclaus.xyz
   twitter: mrclaus_xyz
   links:
