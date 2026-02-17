@@ -1,13 +1,21 @@
-title: Pigro e Passivo
-description: Un blog pigro, passivo e consapevole
-url: "https://www.pigroepassivo.it"
-baseurl: ""
 
-theme: null
-lang: it
-theme_skin: default
+title: "Passivo e Riflessivo"
+description: "Un sito creato con Jekyll e tema So Simple"
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: /:categories/:title/
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-include-cache
+
+# Tema locale
+theme: null
+
+include:
+  - so-simple-theme
+
+exclude:
+  - README.md
