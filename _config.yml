@@ -1,7 +1,8 @@
 title: "Pigro e Passivo"
 description: "Un blog molto, molto lento"
 locale: "it-IT"
-baseurl: "/Pigroepassivo"             # IMPORTANTE: Il nome della tua repo con la barra davanti
+url: "https://claudiostoduto.github.io"
+baseurl: "/Pigroepassivo"            
 
 # Forza GitHub a ignorare i temi predefiniti
 theme: null
