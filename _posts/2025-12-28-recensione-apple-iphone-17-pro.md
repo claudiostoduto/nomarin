@@ -5,7 +5,6 @@ date: "2025-12-28 10:21:20 +0100"
 excerpt: "Non volevo cambiare il mio iPhone ma alla fine questo 17 Pro è un grandissimo upgrade."
 categories: [Tecnologia]
 tags: [recensione iphone 17 pro, apple iphone 17 pro, apple]
-image: "https://substack-post-media.s3.amazonaws.com/public/images/d10983c9-16cb-4084-b957-a3e01b4eefda_665x1182.jpeg"
 ---
 ![EB8352D2-656C-41CE-AFBB-2EFAEBD99821_1_105_c.jpeg](https://substack-post-media.s3.amazonaws.com/public/images/d10983c9-16cb-4084-b957-a3e01b4eefda_665x1182.jpeg)
 
