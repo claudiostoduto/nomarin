@@ -22,7 +22,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: mmistakes # site's Twitter username
+  username: mrclaus_xyz # site's Twitter username
 
 # Impostazioni per i link
 
@@ -48,19 +48,17 @@ defaults:
 # Site Author
 author:
   name: Mr. Claus
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
+  picture: /assets/images/avatar.jpg
+  email: hello@mrclaus.xyz
+  twitter: mrclaus_xyz
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/mrclaus_xyz
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/mrclaus_xyz
       icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
+   
 
 # Footer Links
 footer_links:
