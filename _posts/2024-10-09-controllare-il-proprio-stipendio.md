@@ -3,7 +3,7 @@ layout: post
 title: "Controllare il proprio stipendio con Stipendee"
 date: "2024-10-09 08:31:21 +0200"
 excerpt: "Per tutti coloro che hanno dei CCLN, vi siete mai chiesti quanto è il vostro reale stipendio?"
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/648d9bac-d279-40a9-808a-fded34baf0a2_2014x1496.png"
 ---

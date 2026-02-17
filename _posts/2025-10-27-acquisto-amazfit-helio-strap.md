@@ -3,7 +3,7 @@ layout: post
 title: "Ho comprato una band per tracciare i miei dati"
 date: "2025-10-27 08:28:55 +0100"
 excerpt: "Ho comprato la Amazfit Helio Strap per tenere traccia di alcuni dati del mio corpo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/740b2a47-9c78-4caa-8c36-8f8e29b5e3eb_1464x600.jpeg"
 ---

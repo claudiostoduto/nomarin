@@ -3,8 +3,8 @@ layout: post
 title: "iPadOS 26.2: grazie"
 date: "2025-12-27 12:25:54 +0100"
 excerpt: "Senza dubbi iPadOS 26.2 ha risolto un problema fastidioso."
-categories: []
-tags: []
+categories: [Tecnologia]
+tags: [iPad, apple, ipaddista, ipados]
 image: "https://substack-post-media.s3.amazonaws.com/public/images/eb55993d-f8d8-4f63-a885-5da37c3127f3_2360x1640.png"
 ---
 ![IMG_0209.png](https://substack-post-media.s3.amazonaws.com/public/images/eb55993d-f8d8-4f63-a885-5da37c3127f3_2360x1640.png)**iPadOS 26.2** è arrivato ormai da qualche settimana e finalmente Apple ha corretto quel fastidioso problema legato a Slide Over o meglio, ha riparato ad un suo danno. Già perché con il ritorno a questa versione finalmente anche **Slide Over** è nuovamente fra noi dopo troppa assenza, per me inutile.

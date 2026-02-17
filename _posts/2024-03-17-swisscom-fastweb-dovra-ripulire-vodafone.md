@@ -3,7 +3,7 @@ layout: post
 title: "Swisscom: Fastweb dovrà ripulire Vodafone"
 date: "2024-03-17 09:59:01 +0100"
 excerpt: "La notizia della settimana in ambito tecnologico e non solo è l'acquisizione conclusa di Vodafone Italia da parte del colosso Swisscom proprietario, tra gli altri, anched i Fastweb."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/6c9f4167-7fb1-4473-a503-55aee102b1d2_1020x533.jpeg"
 ---

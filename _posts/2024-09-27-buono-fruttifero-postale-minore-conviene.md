@@ -3,7 +3,7 @@ layout: post
 title: "Buono fruttifero Postale dedicato ai minori: conviene?"
 date: "2024-09-27 08:00:40 +0200"
 excerpt: "Buono fruttifero Postale dedicato ai minori è una buona alternativa che, se scelta in tempo, può dare delle soddisfazioni."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/463573a8-d28a-45ce-8139-bce7c70f54c8_2016x1518.png"
 ---

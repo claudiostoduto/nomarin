@@ -3,7 +3,7 @@ layout: post
 title: "Stage Manager su iPadOS 17: la mia opinione"
 date: "2024-02-26 12:08:25 +0100"
 excerpt: "Ci sono alcune novità di Apple che non riesco a digerire, una di queste è Stage Manager su iPadOS."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/828136da-b6f1-4658-b958-32d346a06051_2360x1640.png"
 ---

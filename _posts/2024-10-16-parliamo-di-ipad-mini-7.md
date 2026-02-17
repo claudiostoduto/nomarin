@@ -3,7 +3,7 @@ layout: post
 title: "Parliamo di iPad Mini 7"
 date: "2024-10-16 08:31:04 +0200"
 excerpt: "Lo volevamo ed è arrivato il nuovo iPad Mini 7 che, come sempre, ha fatto parlare di sé in negativo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/e346744a-e9a3-4b04-b029-76c703ee7c40_2618x1636.png"
 ---

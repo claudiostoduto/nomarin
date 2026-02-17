@@ -3,7 +3,7 @@ layout: post
 title: "Perché ha senso un iPhone Dual SIM"
 date: "2020-10-12 08:15:00 +0200"
 excerpt: "Uso il mio iPhone XR con due SIM da mesi e non mi sono mai trovato così bene."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/131d9eba-23f6-4297-a957-4eca08cdd58f_1000x661.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ho cancellato Instagram dallo smartphone"
 date: "2024-01-24 14:30:16 +0100"
 excerpt: "Ho deciso di cancellare Instagram dallo smartphone per iniziare a sistemare il mio cervello."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/82612655-b259-4653-aa98-dcce8055be7b_738x415.webp"
 ---

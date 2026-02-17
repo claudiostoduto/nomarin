@@ -3,7 +3,7 @@ layout: post
 title: "Ho lasciato CoopVoce per Very Mobile"
 date: "2024-04-15 11:52:31 +0200"
 excerpt: "Dopo un mio errore ho deciso di lasciare CoopVoce per ripassare a Very Mobile."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/7f4cbb7d-753a-4ba2-9a89-949c3097c9e3_1280x889.jpeg"
 ---

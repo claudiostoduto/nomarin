@@ -3,7 +3,7 @@ layout: post
 title: "Quanto ho speso nel 2023"
 date: "2024-01-10 14:57:19 +0100"
 excerpt: "2023 un anno di grandi spese e di follie generali. Quanto mi è costato?"
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/87ac8968-adaa-41df-ba74-9130749c5810_2000x1390.png"
 ---

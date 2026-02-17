@@ -3,7 +3,7 @@ layout: post
 title: "Day One journal app: quasi due anni dopo"
 date: "2025-08-11 17:05:29 +0200"
 excerpt: "Dopo quasi due anni di utilizzo di Day One, vi posso dire che non ne posso fare a meno."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9eebce29-5fe5-4e14-8896-1f37583d901c_674x469.jpeg"
 ---

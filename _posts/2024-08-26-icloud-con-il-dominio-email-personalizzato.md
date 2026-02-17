@@ -3,7 +3,7 @@ layout: post
 title: "iCloud+ con il dominio email personalizzato è fantastico"
 date: "2024-08-26 12:02:25 +0200"
 excerpt: "Addio a Gmail per la gestione di account di posta con domini personalizzati grazie ad iCloud+."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0ebacd6e-af67-4b43-862f-82b67dc137f5_1802x1082.jpeg"
 ---

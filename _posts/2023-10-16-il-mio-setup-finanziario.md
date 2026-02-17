@@ -3,7 +3,7 @@ layout: post
 title: "Il mio setup finanziario"
 date: "2023-10-16 12:31:07 +0200"
 excerpt: "Sono riuscito a costruire un setup finanziario congruo per il mio utilizzo ed allo stesso tempo sicuro."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/aee9dd80-b9df-4be0-aa11-2d845a22c0f0.heic"
 ---

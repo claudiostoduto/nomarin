@@ -3,7 +3,7 @@ layout: post
 title: "La miglior American Express"
 date: "2024-09-25 08:31:21 +0200"
 excerpt: "Dopo aver provato anche l’Amex Platino, ho scoperto la miglior American Express da richiedere."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f5423bb7-8798-4f00-a9f4-39efc1eccc49_1200x630.png"
 ---

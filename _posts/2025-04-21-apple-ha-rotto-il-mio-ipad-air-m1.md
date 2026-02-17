@@ -3,7 +3,7 @@ layout: post
 title: "Apple ha rotto il mio iPad Air M1"
 date: "2025-04-21 13:33:31 +0200"
 excerpt: "Lo dico con grande rammarico, ma l’aggiornamento di iPadOS 18.4 ha stroncato il mio iPad Air M1."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/7f85fff5-b2d9-4611-b42f-dbfd25bd131e_2360x1640.png"
 ---

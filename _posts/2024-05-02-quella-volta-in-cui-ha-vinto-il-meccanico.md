@@ -3,7 +3,7 @@ layout: post
 title: "Quella volta in cui ha vinto il meccanico sul reso Amazon"
 date: "2024-05-02 12:07:52 +0200"
 excerpt: "Questo weekend vi ho raccontato come sono riuscito a recuperare le mie cuffie Logitech Vibe 125 dopo un piccolo problema che hanno avuto di recente."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/26e4cf66-f264-4516-bb47-840e3a19a754_745x497.jpeg"
 ---

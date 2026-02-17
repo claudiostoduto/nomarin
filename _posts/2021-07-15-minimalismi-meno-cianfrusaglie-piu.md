@@ -3,7 +3,7 @@ layout: post
 title: "Minimalismi: Meno cianfrusaglie, più divertimento"
 date: "2021-07-15 12:00:00 +0200"
 excerpt: "Seguo Silvio da tempo e mi piace il suo approccio alla vita, al lavoro ed al mondo tecnologico/digitale."
-categories: []
+categories: [Libri]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/612ccade-663c-436d-86df-2f5bf8c44310_317x500.jpeg"
 ---

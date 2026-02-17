@@ -3,7 +3,7 @@ layout: post
 title: "Stories: iPad mini 7 Review by Viticci"
 date: "2024-10-23 10:07:07 +0200"
 excerpt: "Federico Viticci di MacStories.net ha recensito il nuovo iPad mini di settima generazione, o A17 Pro come lo chiama Apple."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/71b979ca-200b-48fb-993d-4f445b6cf0c4_1080x608.jpeg"
 ---

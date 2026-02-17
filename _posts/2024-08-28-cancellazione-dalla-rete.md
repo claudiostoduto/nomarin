@@ -3,7 +3,7 @@ layout: post
 title: "Il bello di scomparire"
 date: "2024-08-28 11:31:04 +0200"
 excerpt: "Ormai da un anno circo ho completamente rimosso quasi ogni mia foto e/o presenza online ad eccezione di questo blog."
-categories: []
+categories: [Crescita Personale]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/66388750-bfbd-4520-853d-496c6fd9312e_1920x1079.jpeg"
 ---

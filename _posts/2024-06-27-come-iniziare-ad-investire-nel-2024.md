@@ -3,7 +3,7 @@ layout: post
 title: "Come iniziare ad investire nel 2024: step 1"
 date: "2024-06-27 12:30:40 +0200"
 excerpt: "Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi che mi hanno permesso di capire come e dove cominciare di nuovo ad investire."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/04305adb-6f60-497c-abc8-e72cf678699b_1024x1024.png"
 ---

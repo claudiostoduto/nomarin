@@ -3,7 +3,7 @@ layout: post
 title: "Sono io che non sono adatto al Mac, forse"
 date: "2024-03-06 14:30:49 +0100"
 excerpt: "iPad vs Mac, la mia eterna sfida che prosegue nel corso del 2024 nonostante alcune certezze."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/85898b16-78f0-41a5-9ed3-5750295448a4_1920x1080.png"
 ---

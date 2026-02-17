@@ -3,7 +3,7 @@ layout: post
 title: "Progetto costi 0"
 date: "2024-06-18 12:31:03 +0200"
 excerpt: "Una sfida utopica ma non impossibile, ci sto provando azzerando il più possibile ogni cosa."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/110165c1-c8be-4516-a0c0-20d2342572e9_1633x980.jpeg"
 ---

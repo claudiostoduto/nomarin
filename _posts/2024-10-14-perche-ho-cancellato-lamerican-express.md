@@ -3,7 +3,7 @@ layout: post
 title: "Perché ho cancellato l’American Express Platino"
 date: "2024-10-14 08:31:06 +0200"
 excerpt: "Vi spiego in semplici punti perché ho cancellato l’American Express Platino."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/94e60d68-b3d6-43b3-bfc0-f81d183a37e2_1024x768.jpeg"
 ---

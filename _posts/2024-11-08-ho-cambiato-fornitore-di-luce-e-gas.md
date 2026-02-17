@@ -3,7 +3,7 @@ layout: post
 title: "Ho cambiato fornitore di luce e gas grazie a Reddit"
 date: "2024-11-08 09:01:51 +0100"
 excerpt: "Reddit Questa estate ho cambiato i contratti di luce e gas lasciando il mio vecchio operatore, tutto grazie a Reddit."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/42ea37f4-fd68-497d-b4c9-564b00ecc4a2_825x293.png"
 ---

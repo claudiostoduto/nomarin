@@ -2,7 +2,7 @@
 layout: post
 title: "Soldi gratis"
 date: "2024-08-21 13:27:56 +0200"
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/73270df1-39fe-4895-bda3-6e6c1c947151_1200x630.jpeg"
 ---

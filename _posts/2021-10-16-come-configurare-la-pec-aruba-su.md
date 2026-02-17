@@ -3,7 +3,7 @@ layout: post
 title: "Come configurare la PEC Aruba su Mail per iOS e iPadOS"
 date: "2021-10-16 18:23:00 +0200"
 excerpt: "Come configurare la propria posta certificata PEC sul proprio iPhone e iPad sull’applicazione Mail."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d6500418-a3f7-42d0-b43e-da195ead6f29_7380x3400.png"
 ---

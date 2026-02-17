@@ -3,7 +3,7 @@ layout: post
 title: "Apple Watch Series 10: ho fatto bene ad aspettare"
 date: "2024-09-10 07:12:56 +0200"
 excerpt: "Apple ha presentato, insieme ad iPhone 16, il nuovo Apple Watch Series 10 per questo 2024 con alcune interessanti novità."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/5e6225fb-d093-4a24-a843-40ef13df4e81_3110x1596.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Abbandono Spotify, passo ad Overcast e YouTube Music"
 date: "2025-05-07 08:02:36 +0200"
 excerpt: "Ho preso una decisione su Spotify lasciandolo in favore di YouTube Music ed Overcast."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/35c3408a-cd6d-497c-a1cf-19ca43ac0a39_3840x2160.png"
 ---

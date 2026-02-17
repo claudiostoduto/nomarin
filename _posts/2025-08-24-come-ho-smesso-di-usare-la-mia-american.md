@@ -3,7 +3,7 @@ layout: post
 title: "Come ho smesso di usare la mia American Express"
 date: "2025-08-24 10:00:56 +0200"
 excerpt: "Ero e sono un grande fan di American Express ma ammetto che negli ultimi mesi ho ridimensionati il suo utilizzo."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/59344973-31b0-4828-b8dc-8e0c6a122b00_2360x955.jpeg"
 ---

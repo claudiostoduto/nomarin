@@ -3,7 +3,7 @@ layout: post
 title: "Ho capito come usare l’Apple Watch"
 date: "2024-04-29 11:59:53 +0200"
 excerpt: "Sono alla terza generazione di Apple Watch al mio polso e solo ora ho capito come può essermi utile."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9098ed2d-7a90-4a25-852b-d8b43929e0ab.heic"
 ---

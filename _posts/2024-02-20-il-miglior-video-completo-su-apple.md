@@ -3,7 +3,7 @@ layout: post
 title: "Il miglior video (completo) su Apple Vision Pro"
 date: "2024-02-20 08:30:29 +0100"
 excerpt: "Jakidale ha realizzato quello che ad oggi è il miglior video sul nuovo visore di Apple."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/78e5d522-272a-42d9-bdfd-c68a2416ce3f_1960x1102.jpeg"
 ---

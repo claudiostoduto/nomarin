@@ -3,7 +3,7 @@ layout: post
 title: "Apple Intelligence ad oggi è un flop?"
 date: "2025-04-02 09:25:19 +0200"
 excerpt: "Sono un utente Apple ormai da anni e non penso di aver assistito ad un flop simile a quello di Apple Intelligence."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/848a9bf4-ef6e-4dd3-b26a-ca19795b41d9_580x326.webp"
 ---

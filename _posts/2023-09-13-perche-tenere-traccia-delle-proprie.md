@@ -3,7 +3,7 @@ layout: post
 title: "Perchè tenere traccia delle proprie spese"
 date: "2023-09-13 12:30:19 +0200"
 excerpt: "Ho costantemente ripreso a tenere traccia e monitorare tutte le mie spese, dovreste farlo anche voi."
-categories: []
+categories: [Finanze]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/179e9d5c-310f-42bc-a58b-f3b4f9733f03_2456x1514.png"
 ---

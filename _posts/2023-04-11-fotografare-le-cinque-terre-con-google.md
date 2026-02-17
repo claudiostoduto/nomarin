@@ -3,7 +3,7 @@ layout: post
 title: "Fotografare le Cinque Terre con Google Pixel 6a"
 date: "2023-04-11 12:59:00 +0200"
 excerpt: "Il Google Pixel 6a rimane oggi un telefono concreto, affidabile e da un ottimo comparto fotografico."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/cddd1faa-5deb-4d1c-ad4a-a51ed09b842e_3024x4032.jpeg"
 ---

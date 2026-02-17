@@ -3,7 +3,7 @@ layout: post
 title: "Notion vs Apple Notes"
 date: "2024-02-19 14:00:28 +0100"
 excerpt: "Dopo tanto tempo ho mandato in pensione Notion in favore di Apple Notes."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/64826a08-dc64-42e4-aa4e-b097d4f4439c_1400x608.jpeg"
 ---

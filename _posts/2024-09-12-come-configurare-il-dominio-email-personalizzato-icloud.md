@@ -3,7 +3,7 @@ layout: post
 title: "Come configurare il dominio email personalizzato su iCloud+"
 date: "2024-09-12 10:01:29 +0200"
 excerpt: "Configurare un dominio personalizzato di posta su iCloud+ è veramente semplicissimo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f099dec1-b0c1-4f90-8f27-e51233578643_1456x874.webp"
 ---

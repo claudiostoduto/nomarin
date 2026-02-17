@@ -3,7 +3,7 @@ layout: post
 title: "Apple Notes é troppo sottovalutato"
 date: "2024-03-01 14:12:30 +0100"
 excerpt: "Note di Apple è un’applicazione che, davvero, sottovalutiamo troppo per le potenzialità che mette a disposizione."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/c07a3289-9bc8-4fe6-b05a-b42255fea188.heic"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Vorrei macOS su un 11”"
 date: "2024-09-30 10:01:31 +0200"
 excerpt: "Alla fine parliamo tanto di iPad, ma macOS per tanti usi è ancora molto avanti e su un 11” farebbe la differenza."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f9d2ee13-d350-42f4-9d8d-897ac3cc5d5b_2048x1464.jpeg"
 ---

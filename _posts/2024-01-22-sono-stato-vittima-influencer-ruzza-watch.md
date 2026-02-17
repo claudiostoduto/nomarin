@@ -3,7 +3,7 @@ layout: post
 title: "Sono stato “vittima” dell’influencer marketing"
 date: "2024-01-22 14:30:51 +0100"
 excerpt: "Ammetto di essere caduto nella trappola. Qualche mese fa ho comprato anche io un Ruzza Watch."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9e341b2a-1ed4-40d5-9265-b3e6f63bf431_3024x4032.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Perché la paternità è diversa dalla maternità?"
 date: "2024-08-19 11:16:03 +0200"
 excerpt: "Sono diventato papà da qualche mese, ma purtroppo solo adesso mi sono potuto avvicinare a mio figlio più nel concreto."
-categories: []
+categories: [Crescita Personale]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/4436de3a-4f96-4cf5-b124-c94bb385d0dd_480x340.jpeg"
 ---

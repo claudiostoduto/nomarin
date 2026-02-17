@@ -3,7 +3,7 @@ layout: post
 title: "Apple cancella Apple Car, la sua auto elettrica"
 date: "2024-02-28 07:30:33 +0100"
 excerpt: "La notizia non era nell’aria ma ora, dopo le parole di Gurman, è ufficiale la cancellazione del progetto Apple Car."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/fa3ef114-5c76-4607-bef7-e401393778e9_1500x840.webp"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "“Effetto gennaio”: di cosa si tratta?"
 date: "2024-12-06 10:31:09 +0100"
 excerpt: "Ci stiamo avviando alla chiusura dell’anno ma occhio a comprare sui mercati per via del cosiddetto “effetto gennaio”."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/eac9e408-0714-4b47-b61f-302e9e23a2d8_975x483.png"
 ---

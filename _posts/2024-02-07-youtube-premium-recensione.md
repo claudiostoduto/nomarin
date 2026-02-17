@@ -3,7 +3,7 @@ layout: post
 title: "YouTube Premium è l’unica “TV” che voglio pagare"
 date: "2024-02-07 14:35:08 +0100"
 excerpt: "Da un paio di mesi sto usando ormai YouTube Premium e non potrei più tornare indietro, davvero."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/49660f64-a2ae-4d42-8f80-d383d565cc24_1200x626.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Revolut conto cointestato: 10 minuti e via"
 date: "2023-11-06 18:30:17 +0100"
 excerpt: "Revolut mi ha risolto un problema che mi portavo dietro da questa estate in meno di dieci minuti."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/05daa1ea-ae2c-4b27-97a0-1c4b400a0c5a_3000x2000.png"
 ---

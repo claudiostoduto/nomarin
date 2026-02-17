@@ -3,7 +3,7 @@ layout: post
 title: "Perché uso due iPad: Pro M4 e Mini 7"
 date: "2024-11-19 15:18:34 +0100"
 excerpt: "Faiz Aly ha mostrato in un video come utilizza regolarmente due iPad in una sua giornata tipo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/832c8c6e-ab0f-42fd-a292-8edd15d0ab25_3352x1682.heic"
 ---

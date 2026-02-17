@@ -3,7 +3,7 @@ layout: post
 title: "Come non pagare l’imposta di bollo con American Express"
 date: "2024-09-02 11:30:51 +0200"
 excerpt: "Se anche voi siete clienti di American Express ed odiate pagare il bollo, c’è una soluzione (non troppo legittima)."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/78d379b6-ea10-45cf-a55c-679c75fce162_1908x1562.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Migriamo su Mastodon o su Bluesky?"
 date: "2024-11-21 09:19:38 +0100"
 excerpt: "Per tanti è la domanda del momento dopo aver abbandonato X, ma quale social conviene scegliere?"
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d711d234-a1cd-4014-bcc6-6c8cb470d552_1280x720.jpeg"
 ---

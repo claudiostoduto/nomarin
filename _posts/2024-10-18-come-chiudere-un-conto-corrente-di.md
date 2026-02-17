@@ -3,7 +3,7 @@ layout: post
 title: "Come chiudere un conto corrente di qualsiasi banca attraverso BBVA"
 date: "2024-10-18 08:30:39 +0200"
 excerpt: "Ho chiuso un conto di Credit Agricole tramite BBVA senza recarmi in filiale fisica."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/fede2f71-0209-4225-83fe-de4c2f3f3ed7_1920x2074.png"
 ---

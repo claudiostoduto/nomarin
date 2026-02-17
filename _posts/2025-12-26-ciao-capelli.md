@@ -3,7 +3,7 @@ layout: post
 title: "Ciao capelli"
 date: "2025-12-26 14:06:18 +0100"
 excerpt: "Era da un po’ che non mi vedevo più con i miei capelli, come tanti uomini soffro di calvizie."
-categories: []
+categories: [Crescita Personale]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/a2fd3349-a670-4a2c-aa95-62021cfa5797_768x1024.jpeg"
 ---

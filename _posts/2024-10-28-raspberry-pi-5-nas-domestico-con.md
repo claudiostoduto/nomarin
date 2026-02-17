@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry PI 5: NAS domestico con CasaOS"
 date: "2024-10-28 08:31:01 +0100"
 excerpt: "Come ho creato un NAS domestico personale con CasaOS e Raspberry PI 5."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/55eda14e-c6f1-4409-a6eb-a87e5992db1d_800x300.png"
 ---

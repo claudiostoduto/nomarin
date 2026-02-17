@@ -3,7 +3,7 @@ layout: post
 title: "Come risparmiare cambiando operatore telefonico mobile"
 date: "2024-09-24 08:02:09 +0200"
 excerpt: "Cambiare operatore non pagando praticamente niente se non un paio di euro."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/2577f841-544a-4e61-a1cd-7cf460f57278_2818x1678.png"
 ---

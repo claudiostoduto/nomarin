@@ -3,7 +3,7 @@ layout: post
 title: "Volotea: come prenotare un volo con il cane"
 date: "2023-11-08 12:30:12 +0100"
 excerpt: "Viaggiare in aereo con un cane non è semplice, ma Volotea lo rende più accessibile."
-categories: []
+categories: [Viaggi]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/283f1817-4a4a-4f04-89b0-4d9c356a4d3c_4032x3024.jpeg"
 ---

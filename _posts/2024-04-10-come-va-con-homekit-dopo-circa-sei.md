@@ -3,7 +3,7 @@ layout: post
 title: "Come va con HomeKit dopo circa sei mesi?"
 date: "2024-04-10 15:01:09 +0200"
 excerpt: "Dopo aver preso la decisione di passare direttamente tutto su HomeKit, mi guardo indietro e non me ne pento e non penso ad Home Assistant, per ora."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/96b12788-3e2b-4da3-b4c3-35fb82cb8e0c_1200x900.webp"
 ---

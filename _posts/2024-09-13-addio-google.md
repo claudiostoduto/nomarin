@@ -3,7 +3,7 @@ layout: post
 title: "Addio Google?"
 date: "2024-09-13 11:30:56 +0200"
 excerpt: "Piano piano sto limitando sempre di più i miei utilizzi di Google e dei suoi servizi."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/118f97ef-278b-48bf-8fab-c31ea7364c1c_1280x548.jpeg"
 ---

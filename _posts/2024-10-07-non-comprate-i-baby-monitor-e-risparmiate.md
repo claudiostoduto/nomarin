@@ -3,7 +3,7 @@ layout: post
 title: "Non comprate i baby monitor e risparmiate soldi"
 date: "2024-10-07 10:30:59 +0200"
 excerpt: "Da buon genitore, vuoi non avere un baby monitor? Ovviamente. Ma non lo pago 100 euro mi spiace."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/725cf2bb-b746-48de-a1b1-7c8aab74e2fe_2048x1365.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Stage Manager lo uso solo su un monitor esterno"
 date: "2024-11-04 09:30:38 +0100"
 excerpt: "Avendo ripreso un iPad Air M1, mi è venuto in mente Stage Manager che in realtà non uso."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/fce842ed-8c2d-4c0b-8efa-3cd3a9eaf8f6_3000x2000.jpeg"
 ---

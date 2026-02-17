@@ -3,7 +3,7 @@ layout: post
 title: "48 ore con il Google Pixel 7a"
 date: "2023-05-13 12:56:00 +0200"
 excerpt: "Il Google Pixel 7a è nelle mie mani da 48 ore mostrando alcuni pro e contro che mi aspettavo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/280b523e-1cd5-44e6-ab60-1444a7d72b4b_4022x2677.jpeg"
 ---

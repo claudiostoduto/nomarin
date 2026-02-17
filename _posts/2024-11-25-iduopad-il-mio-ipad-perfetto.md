@@ -3,7 +3,7 @@ layout: post
 title: "iDuoPad: ho costruito il mio iPad perfetto"
 date: "2024-11-25 10:30:47 +0100"
 excerpt: "Questo doppio iPad era nella mia testa da anni e devo dire che, per quanto strano, a modo suo può risultare comodo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/384e0043-b57c-4b20-91c7-20c0fa1ecdb8_5712x4284.jpeg"
 ---

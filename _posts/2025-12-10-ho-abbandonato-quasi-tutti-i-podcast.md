@@ -3,7 +3,7 @@ layout: post
 title: "Ho abbandonato quasi tutti i podcast di Chora"
 date: "2025-12-10 08:08:05 +0100"
 excerpt: "Ebbene si, alla fine mi sono deciso di abbandonare la maggior parte dei podcast di Chora Media."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d7afd7ba-34c8-48a4-8114-b45de478c38a_330x153.png"
 ---

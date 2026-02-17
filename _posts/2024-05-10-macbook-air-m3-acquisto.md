@@ -3,7 +3,7 @@ layout: post
 title: "Ma io volevo comprare il MacBook Air M3, ed ora?"
 date: "2024-05-10 12:30:55 +0200"
 excerpt: "Con la presentazione del nuovo Apple Silicon M4 su iPad Pro, Apple ha completamente cambiato i miei piani."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0260d6d5-de5e-4c1f-a01e-f498ee94ba0e_1200x630.jpeg"
 ---

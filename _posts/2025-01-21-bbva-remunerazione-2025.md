@@ -3,7 +3,7 @@ layout: post
 title: "BBVA: come cambia la remunerazione del conto corrente"
 date: "2025-01-21 08:55:46 +0100"
 excerpt: "Alla fine, la tanto temuta modifica contrattuale è arrivata. Cambiano le condizioni remunerative di BBVA."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/7b57429c-1736-4b9e-9c89-9afbae114ca6_592x701.png"
 ---

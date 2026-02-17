@@ -3,7 +3,7 @@ layout: post
 title: "Perché i nuovi iPad Pro tardano così tanto?"
 date: "2024-04-08 11:30:18 +0200"
 excerpt: "Non sono chiaramente un visionario, ma è palese che ci sia qualcosa che non va con il rilascio dei nuovi iPad Pro."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/70cc79c5-fdb8-4f85-84fc-ff33299b900f_1536x864.png"
 ---

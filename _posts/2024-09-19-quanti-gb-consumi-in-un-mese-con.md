@@ -3,7 +3,7 @@ layout: post
 title: "Quanti GB consumi in un mese con lo smartphone?"
 date: "2024-09-19 08:01:23 +0200"
 excerpt: "Ti sei mai chiesto quanto consumi in un mese? Io si e ne sono rimasto stupito."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/c5eb5f7b-2db3-44f0-bfc1-ec0aceb3833b_1290x579.jpeg"
 ---

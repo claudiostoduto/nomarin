@@ -3,7 +3,7 @@ layout: post
 title: "Come cancellare l’account X"
 date: "2024-11-14 08:48:17 +0100"
 excerpt: "Dopo la recenti affermazioni di Elon Musk, sempre più utenti hanno deciso di cancellarsi dal suo social X."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/893c8b8b-755b-435f-89a9-d83b4a46e770_610x342.png"
 ---

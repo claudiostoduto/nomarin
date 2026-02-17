@@ -3,7 +3,7 @@ layout: post
 title: "Perché comprare i prodotti a rate?"
 date: "2024-06-21 12:20:27 +0200"
 excerpt: "Mi chiedo perché ormai ci sia la corsa a rateizzare tutto, persino gli acquisti su H&M."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/2bd7d7ca-cbcb-4391-8b61-ab2d03cf88ee_640x426.jpeg"
 ---

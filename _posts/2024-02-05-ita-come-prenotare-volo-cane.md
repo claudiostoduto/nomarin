@@ -3,7 +3,7 @@ layout: post
 title: "ITA: come prenotare un volo con un cane"
 date: "2024-02-05 14:28:06 +0100"
 excerpt: "ITA permette di viaggiare con i cani di piccola taglia, sebbene non sia una cosa eccezionale."
-categories: []
+categories: [Viaggi]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/5b225d0f-8128-4e54-ba67-8cc51f64f3f0.heic"
 ---

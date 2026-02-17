@@ -3,7 +3,7 @@ layout: post
 title: "Ho sostituito Pocket con GoodLinks"
 date: "2024-11-11 10:30:54 +0100"
 excerpt: "Non ho mai digerito Pocket come servizio di read it later, finalmente lo ho sostituito con GoodLinks."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/185d6ba4-7dd3-47c8-8f1e-56f20fb2a5b8_2266x1488.heic"
 ---

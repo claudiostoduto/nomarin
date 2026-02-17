@@ -3,7 +3,7 @@ layout: post
 title: "CMF Phone 1: prime ore positive"
 date: "2024-07-10 19:20:05 +0200"
 excerpt: "Non vedevo l'ora di giocarci con mano, questo CMF Phone 1 mi sta già piacendo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9030c572-0929-4a1f-ab0f-581afc01f4b4_4149x5009.jpeg"
 ---

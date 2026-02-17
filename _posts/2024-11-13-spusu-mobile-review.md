@@ -3,7 +3,7 @@ layout: post
 title: "spusu mobile: come va dopo 3 mesi?"
 date: "2024-11-13 09:31:05 +0100"
 excerpt: "Ormai sono passati tre mesi da quando uso spusu mobile, come numero secondario vi racconto come è andata."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/59873531-d0cf-4694-9dca-38741aefe506_600x365.png"
 ---

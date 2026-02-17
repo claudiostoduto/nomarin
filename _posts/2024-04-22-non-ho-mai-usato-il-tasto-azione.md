@@ -3,7 +3,7 @@ layout: post
 title: "Non ho mai usato il tasto azione di iPhone 15 Pro Max"
 date: "2024-04-22 12:30:56 +0200"
 excerpt: "Sono ormai passati diversi mesi da quando ho preso iPhone 15 Pro Max ma non ho mai usato il pulsante Action."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f2703fda-d524-4874-b70e-fab92860a2e9_1600x900.png"
 ---

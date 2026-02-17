@@ -3,7 +3,7 @@ layout: post
 title: "Whatsapp per iPad: finalmente!"
 date: "2025-05-28 06:39:51 +0200"
 excerpt: "Dopo una lunghissima attesa, finalmente è arrivato Whatsapp per iPad. Disponibile al download."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/5631e4e5-eee4-46d8-bcc7-4a73a2db205e_1270x472.jpeg"
 ---

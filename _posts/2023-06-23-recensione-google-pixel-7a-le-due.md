@@ -3,7 +3,7 @@ layout: post
 title: "Recensione Google Pixel 7a: le due facce"
 date: "2023-06-23 12:31:00 +0200"
 excerpt: "Ho aspettato il primo aggiornamento corposo per giudicare questo Google Pixel 7a, un telefono che mi sta piacendo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/92021f2a-7526-4b1f-8982-d34262535de2_3024x4032.jpeg"
 ---

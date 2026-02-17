@@ -3,7 +3,7 @@ layout: post
 title: "eSIM: come funziona con spusu mobile?"
 date: "2024-11-20 09:30:53 +0100"
 excerpt: "spusu mobile permette di avere delle eSIM ed il suo processo di richiesta è tra i più rapidi ed efficienti fra tutti."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0313a4c0-c2fb-4eba-acf9-d2a5616b762a_1200x540.jpeg"
 ---

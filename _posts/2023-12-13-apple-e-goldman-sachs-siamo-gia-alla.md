@@ -3,7 +3,7 @@ layout: post
 title: "Apple e Goldman Sachs: siamo già alla fine?"
 date: "2023-12-13 11:00:47 +0100"
 excerpt: "Apple potrebbe a breve annunciare un nuovo partner finanziario dopo l’uscita di Goldman Sachs dal precedente accordo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0eca28cf-d82e-4a47-9430-e8231b5bf78f_571x465.png"
 ---

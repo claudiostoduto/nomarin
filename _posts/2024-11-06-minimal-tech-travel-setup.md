@@ -3,7 +3,7 @@ layout: post
 title: "Minimal Tech Travel Setup"
 date: "2024-11-06 10:30:48 +0100"
 excerpt: "Viaggiare leggeri è veramente un must, forse ho trovato il mio setup definitivo."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0b372831-c452-4f66-bf56-6e7dba27c28b_5198x3899.jpeg"
 ---

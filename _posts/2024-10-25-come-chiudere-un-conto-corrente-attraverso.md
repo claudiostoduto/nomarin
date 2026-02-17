@@ -3,7 +3,7 @@ layout: post
 title: "Come chiudere un conto corrente attraverso isybank"
 date: "2024-10-25 08:34:43 +0200"
 excerpt: "Puoi chiudere qualsiasi tipologia di conto corrente tramite isybank senza recarti in alcuna filiale."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/b3777cc0-2c11-46fa-96e8-335e028159a2_1920x1381.png"
 ---

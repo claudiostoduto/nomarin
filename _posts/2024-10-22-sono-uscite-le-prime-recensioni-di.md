@@ -3,7 +3,7 @@ layout: post
 title: "Sono uscite le prime recensioni di iPad Mini 7"
 date: "2024-10-22 18:38:32 +0200"
 excerpt: "Arrivano le prime review di iPad Mini 7 un prodotto che comunque farà parlare di sè."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/6cea6902-15fb-4a4e-b869-41c51437c6c5_2560x1440.png"
 ---

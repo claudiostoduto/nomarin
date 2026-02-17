@@ -3,7 +3,7 @@ layout: post
 title: "Amazon mi ha fatto risparmiare 250€"
 date: "2024-03-24 19:26:40 +0100"
 excerpt: "Amazon mi ha fatto risparmiare un bel po’ di soldi non dovendo chiamare un elettricista."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/4b121d39-c195-433e-95b3-fd834e3769c3_1094x616.jpeg"
 ---

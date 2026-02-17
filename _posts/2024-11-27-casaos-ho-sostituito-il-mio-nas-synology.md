@@ -3,7 +3,7 @@ layout: post
 title: "CasaOS: ho sostituito il mio NAS Synology e non torno indietro"
 date: "2024-11-27 10:30:46 +0100"
 excerpt: "CasaOS mi ha conquistato sostituendo il mio vecchio NAS di Synology in maniera definitiva."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f988a136-3edd-49ab-a9b7-419581578bb7_2360x1640.png"
 ---

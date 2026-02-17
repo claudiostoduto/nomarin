@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry PI Zero 2 W con Homebridge, perché?"
 date: "2024-10-21 08:31:10 +0200"
 excerpt: "Ho acquistato un Raspberry PI Zero 2 W in cui ho installato Homebridge per gestire la mia casa."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/6879cf4d-77cc-429e-867c-d4b50af24dde_1921x1081.png"
 ---

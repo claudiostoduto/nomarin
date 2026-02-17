@@ -3,7 +3,7 @@ layout: post
 title: "Un anno con un barboncino nano a Torino"
 date: "2024-02-22 14:02:23 +0100"
 excerpt: "Praticamente un anno fa Coco è entrato nella mia vita come se non ci fosse domani e, ad oggi, è stata la miglior decisione che potessi prendere."
-categories: []
+categories: [Famiglia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/a779b299-7a91-4f9f-816d-924995af1c82_4032x3024.jpeg"
 ---

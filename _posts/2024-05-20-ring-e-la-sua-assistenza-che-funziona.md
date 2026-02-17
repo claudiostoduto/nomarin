@@ -3,7 +3,7 @@ layout: post
 title: "Ring e la sua assistenza che funziona"
 date: "2024-05-20 12:27:37 +0200"
 excerpt: "Ho comprato un Ring Intercom nel corso di una fantastica offerta su Amazon ma avevo il problema delle chiamate fantasma."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/503f8fde-d1fa-40e1-a013-91c3d2370c91_1400x700.png"
 ---

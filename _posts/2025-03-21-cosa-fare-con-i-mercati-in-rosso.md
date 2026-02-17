@@ -3,7 +3,7 @@ layout: post
 title: "Cosa fare con i mercati in rosso"
 date: "2025-03-21 09:19:39 +0100"
 excerpt: "Ormai sono due settimane piene che i mercati stanno andando in rosso quasi regolarmente. Cosa fare con i propri investimenti?"
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/c2fb37fd-fd85-456d-9a1e-af6c001b325f_735x416.jpeg"
 ---

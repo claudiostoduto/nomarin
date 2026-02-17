@@ -3,7 +3,7 @@ layout: post
 title: "Ho tagliato i miei costi fissi ancora"
 date: "2024-10-02 08:30:55 +0200"
 excerpt: "Di recente ho preso ancora in mano il mio file excel per tagliare ulteriormente i miei costi fissi."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/0c41eed7-2b26-461a-a4cf-565eb7a4a7f2_1072x614.png"
 ---

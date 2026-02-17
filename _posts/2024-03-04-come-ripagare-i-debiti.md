@@ -3,7 +3,7 @@ layout: post
 title: "Come ripagare i debiti"
 date: "2024-03-04 14:00:52 +0100"
 excerpt: "Ammetto di non essere un grandissimo risparmiatore, ma in questi ultimi mesi ho iniziato a mettere da parte qualcosa seriamente cercando prima di tutto di ripagare i debiti."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/3b59e0db-1c0c-4998-b6aa-8dee0a45e76b_634x422.jpeg"
 ---

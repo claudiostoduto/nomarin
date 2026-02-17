@@ -3,7 +3,7 @@ layout: post
 title: "iPhone 15 Pro Max: prime impressioni"
 date: "2023-09-25 08:08:33 +0200"
 excerpt: "Venerdì scorso ho fatto finalmente un Day One dopo tanti mesi e dopo un weekend di utilizzo vi posso dire come mi sono trovato in questi primi giorno con iPhone 15 Pro Max."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/4fe22bcb-03e6-4eb8-80d1-33b00586340a_3014x3550.jpeg"
 ---

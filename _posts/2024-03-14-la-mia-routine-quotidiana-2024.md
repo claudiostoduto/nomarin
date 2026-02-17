@@ -3,7 +3,7 @@ layout: post
 title: "La mia routine quotidiana 2024"
 date: "2024-03-14 06:57:38 +0100"
 excerpt: "Ho ufficialmente collaudato e certificato la mia nuova routine quotidiana che mi ha permesso di trovare un giusto equilibrio generale nella giornata lavorativa."
-categories: []
+categories: [Crescita Personale]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9f540341-7f71-42ea-a237-52279d21421a_734x489.jpeg"
 ---

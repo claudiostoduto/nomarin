@@ -3,7 +3,7 @@ layout: post
 title: "Arriva la carta di credito di BBVA"
 date: "2024-11-23 11:30:54 +0100"
 excerpt: "BBVA ha lanciato la sua prima carta di credito in Italia con diversi vantaggi."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d5d2dbe1-790a-40ef-a8a0-99a55bf4ef2b_1290x1404.jpeg"
 ---

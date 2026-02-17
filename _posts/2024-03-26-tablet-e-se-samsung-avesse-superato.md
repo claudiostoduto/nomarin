@@ -3,7 +3,7 @@ layout: post
 title: "Tablet: e se Samsung avesse superato Apple?"
 date: "2024-03-26 12:02:49 +0100"
 excerpt: "L'iPad è il tablet per eccellenza per molti anche se, negli anni, Samsung ha nettamente recuperato terreno, forse anche superandola."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/7f708621-888d-4206-97e4-f9163780dbc9_1200x900.jpeg"
 ---

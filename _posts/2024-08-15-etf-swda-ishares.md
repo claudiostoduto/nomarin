@@ -3,7 +3,7 @@ layout: post
 title: "Non so investire, scelgo l'ETF SWDA"
 date: "2024-08-15 11:30:22 +0200"
 excerpt: "Se non so investire o non ho una cultura in tal senso, posso comunque mettere al sicuro i miei risparmi dall’inflazione con un semplice ETF."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/ccba1819-305f-4576-9a86-41e44532f434_628x330.png"
 ---

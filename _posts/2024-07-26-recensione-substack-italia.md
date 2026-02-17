@@ -3,7 +3,7 @@ layout: post
 title: "Un anno con Substack"
 date: "2024-07-26 10:30:54 +0200"
 excerpt: "È passato un anno da quando ho deciso di riprendere in mano un mezzo blog qui su Substack."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/f3e9f6d7-d16b-449a-a6f3-76b88580d766_1280x720.jpeg"
 ---

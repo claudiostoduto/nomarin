@@ -3,7 +3,7 @@ layout: post
 title: "Non ho venduto l’iPhone 15 Pro Max"
 date: "2025-11-01 09:33:11 +0100"
 excerpt: "A differenza di tutti i pensieri, non ho venduto il mio iPhone 15 Pro Max."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/cb278264-906e-4505-8aae-5b1397c61683_817x962.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Nothing Phone 1: qualcosa di diverso?"
 date: "2022-10-30 17:50:00 +0100"
 excerpt: "In un mercato statico, il Nothing Phone 1 ha deciso di portare qualcosa di diverso."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/16ff623b-f08c-4a62-859d-54f0442125bd_3991x2993.jpeg"
 ---

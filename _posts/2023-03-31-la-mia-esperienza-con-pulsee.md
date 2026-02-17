@@ -3,7 +3,7 @@ layout: post
 title: "La mia esperienza con Pulsee"
 date: "2023-03-31 17:26:00 +0200"
 excerpt: "I sei mesi più brutti con un fornitore di gas e luce: Pulsee."
-categories: []
+categories: [Varie]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/90852cf9-d81e-4914-82ba-fe5f41ccaa3b_865x251.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "iPhone 15 è il vero grosso upgrade"
 date: "2023-09-15 20:12:21 +0200"
 excerpt: "iPhone 15 Pro è il telefono più chiacchierato, ma iPhone 15 è il vero upgrade."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/6604b94d-6f69-45f2-9352-2646a2d833a5_753x1126.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ho comprato un Kindle 2022"
 date: "2024-06-03 12:20:10 +0200"
 excerpt: "Ho deciso di portarmi avanti con l’estate e sfruttare una delle tante promozioni di Amazon per comprare un Kindle 2022."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/346f2ac5-eca1-4930-88c7-cc02bd1da737_960x1280.jpeg"
 ---

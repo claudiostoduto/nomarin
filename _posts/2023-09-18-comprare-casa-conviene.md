@@ -3,7 +3,7 @@ layout: post
 title: "Comprare casa conviene?"
 date: "2023-09-18 17:45:30 +0200"
 excerpt: "Maggio 2022 decido di comprare una casa da ristrutturare ma dopo un anno economicamente ancora non mi sono ripreso."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/089e1f1a-3408-4b4e-8345-bf4224fbd8ad_909x336.png"
 ---

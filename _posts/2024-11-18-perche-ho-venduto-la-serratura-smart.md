@@ -3,7 +3,7 @@ layout: post
 title: "Perché ho venduto la serratura smart"
 date: "2024-11-18 10:30:46 +0100"
 excerpt: "Avevo acquistato una serratura smart di Switchbot ma l’ho venduta."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/eaf94957-1b0d-4705-86e1-8885823c083f_880x495.png"
 ---

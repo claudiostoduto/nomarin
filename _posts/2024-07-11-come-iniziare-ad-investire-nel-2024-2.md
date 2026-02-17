@@ -3,7 +3,7 @@ layout: post
 title: "Come iniziare ad investire nel 2024: step 2"
 date: "2024-07-11 12:01:37 +0200"
 excerpt: "Ho piano piano ripreso possesso delle mie finanze per iniziare nuovamente ad investire, ma cerchiamo di azzerare prima tutti i costi."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/a384bef0-c819-4bef-a85b-1fe9e572a70b_1024x1024.png"
 ---

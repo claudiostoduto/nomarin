@@ -3,7 +3,7 @@ layout: post
 title: "É arrivata la fine per Airbnb con la Local law 18?"
 date: "2023-09-12 11:00:31 +0200"
 excerpt: "Airbnb e simili potrebbero cambiare definitivamente volto a seguito della Local law 18 introdotta di recente."
-categories: []
+categories: [Viaggi]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/c2086991-0961-43af-8e8a-1243027bb4e7_945x630.jpeg"
 ---

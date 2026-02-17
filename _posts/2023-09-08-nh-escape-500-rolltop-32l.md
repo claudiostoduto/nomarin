@@ -3,7 +3,7 @@ layout: post
 title: "Il mio nuovo zaino tech: NH Escape 500 Rolltop 32L"
 date: "2023-09-08 11:18:48 +0200"
 excerpt: "Tornato dalle vacanze, ho risolto il grande dilemma del mio nuovo zaino tech. Ho comprato il NH Escape 500 Rolltop 32L."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/9bae68ca-82db-4523-8a88-ac3e04ba9ff4_4032x2268.jpeg"
 ---

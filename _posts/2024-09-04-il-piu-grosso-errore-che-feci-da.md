@@ -3,7 +3,7 @@ layout: post
 title: "Il più grosso errore che feci da giornalista"
 date: "2024-09-04 11:31:09 +0200"
 excerpt: "Fino a qualche anno fa ero un giornalista freelance e commisi più di qualche errore purtroppo."
-categories: []
+categories: [Crescita Personale]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/7dbeae69-62fd-4b4a-a328-c70482a5b4d1_886x886.jpeg"
 ---

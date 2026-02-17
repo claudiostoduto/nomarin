@@ -3,7 +3,7 @@ layout: post
 title: "Come iniziare ad investire nel 2024: step 3"
 date: "2024-08-21 15:42:30 +0200"
 excerpt: "Ho piano piano ripreso possesso delle mie finanze negli ultimi 6/7 mesi ora creiamo il fondo di emergenza."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/46639547-9b10-4d97-bada-b1e24af49c16_1024x1024.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Day One è la miglior Journal App"
 date: "2024-09-16 11:30:41 +0200"
 excerpt: "Ho ripreso a scrivere seriamente su Day One da quasi un anno, non ne posso più fare a meno."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/c67dde1c-d7e6-4de3-81c3-ed47aece4b99_3070x1036.png"
 ---

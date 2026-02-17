@@ -3,7 +3,7 @@ layout: post
 title: "Massimizza i tuoi risparmi con American Express Platino: scopri il codice amico che ti regala fino a 720 Euro!"
 date: "2024-05-06 10:01:10 +0200"
 excerpt: "Come guadagnare 720 euro con American Express Platino? Semplice con questo codice."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/12194397-373d-4bbf-b2d6-143f06df9e3c_2000x1500.webp"
 ---

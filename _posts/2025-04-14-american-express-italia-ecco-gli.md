@@ -3,7 +3,7 @@ layout: post
 title: "American Express Italia: ecco gli aumenti dal 14 maggio"
 date: "2025-04-14 12:31:33 +0200"
 excerpt: "American Express alza il listino di tutte le sue carte in Italia dal 14 maggio 2025."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/fc87dedc-8da6-4d84-aa32-1ba998c9ec23_1164x822.jpeg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ho stipulato un’assicurazione sulla vita"
 date: "2025-10-20 20:58:10 +0200"
 excerpt: "Dopo tanta indecisione, alla fine ho deciso di stipulare un’assicurazione sulla vita per tutelare i miei cari."
-categories: []
+categories: [Finanza]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/b14ce8c1-3bd5-4fcc-8352-d9fe45c90276_2500x1300.png"
 ---

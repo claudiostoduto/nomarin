@@ -3,7 +3,7 @@ layout: post
 title: "Sono passato ad HomeKit come riferimento per la domotica"
 date: "2023-10-24 12:30:15 +0200"
 excerpt: "Qualche settimana fa ho deciso di convertire tutta la mia casa ad HomeKit, spendendo, ma essendo più soddisfatto."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/3f8373ff-29ac-41df-8265-334a4b3a802a_1200x630.png"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Quanto costa Torino Palermo in auto"
 date: "2023-09-05 06:15:25 +0200"
 excerpt: "Questa estate ho viaggiato in auto da Torino a Palermo andata e ritorno con una spesa decisamente non elevata."
-categories: []
+categories: [Viaggi]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/25e17b70-99a0-4be6-ac21-68a3a5f6d294_1170x1090.jpeg"
 ---

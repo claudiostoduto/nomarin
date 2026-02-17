@@ -3,7 +3,7 @@ layout: post
 title: "Redmi Pad: finalmente un bel tablet Android"
 date: "2023-04-03 13:04:00 +0200"
 excerpt: "Il Redmi Pad è uno di quei prodotti che ti sorprende sotto ogni punto di vista."
-categories: []
+categories: [Tecnologia]
 tags: []
 image: "https://substack-post-media.s3.amazonaws.com/public/images/d8bfc8f7-d90b-436b-8588-2162596ccb50_4032x3024.jpeg"
 ---
