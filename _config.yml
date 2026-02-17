@@ -45,6 +45,10 @@ defaults:
     values:
       layout: page
 
+# Liquid
+liquid:
+  error_mode: strict
+
 # Build settings
 markdown: kramdown
 feed:
