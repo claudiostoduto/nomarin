@@ -1,33 +1,22 @@
 title: "Pigro e Passivo"
-description: "Un blog molto, molto lento"
-locale: "it-IT"
+description: "Il mio nuovo sito"
 url: "https://claudiostoduto.github.io"
-baseurl: "/Pigroepassivo"            
+baseurl: "/Pigroepassivo"
 
-# Forza GitHub a ignorare i temi predefiniti
-remote_theme: mmistakes/so-simple-theme
+# Configurazione Tema
+locale: "it-IT"
+# Usiamo il remote_theme per forzare GitHub a caricare i file corretti se i locali sono corrotti
+remote_theme: "mmistakes/so-simple-theme"
 
-# Plugin necessari
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
-# Percorso dei CSS del tema So Simple
-skin: "/assets/css/skins/default.css"
+# Impostazioni per i link
+permalink: /:categories/:year/:month/:day/:title/
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Chi sono"
-    url: /chi-sono/
-  - title: "Blog"
-    url: /posts/
-  - title: "Tag"
-    url: /tags/
-
-    # Forza i layout corretti
 defaults:
   - scope:
       path: ""
@@ -39,3 +28,14 @@ defaults:
       type: pages
     values:
       layout: page
+
+# Menu di navigazione
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Chi sono"
+    url: /chi-sono/
+  - title: "Blog"
+    url: /posts/
+  - title: "Tag"
+    url: /tags/
