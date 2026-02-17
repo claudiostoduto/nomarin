@@ -8,6 +8,8 @@ locale: "it-IT"
 # Usiamo il remote_theme per forzare GitHub a caricare i file corretti se i locali sono corrotti
 remote_theme: "mmistakes/so-simple-theme"
 
+search_full_content: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
