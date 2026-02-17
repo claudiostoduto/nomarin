@@ -1,6 +1,7 @@
 title: "Pigro e Passivo"
 description: "Un blog molto, molto lento"
 locale: "it-IT"
+baseurl: "/Pigroepassivo"             # IMPORTANTE: Il nome della tua repo con la barra davanti
 
 # Forza GitHub a ignorare i temi predefiniti
 theme: null
@@ -25,3 +26,16 @@ navigation:
     url: /posts/
   - title: "Tag"
     url: /tags/
+
+    # Forza i layout corretti
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
