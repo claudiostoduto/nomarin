@@ -15,7 +15,10 @@ plugins:
   - jekyll-feed
 
 # Impostazioni per i link
-permalink: /:categories/:year/:month/:day/:title/
+
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: /page:num/
 
 defaults:
   - scope:
