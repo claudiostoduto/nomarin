@@ -19,13 +19,13 @@ sitemap: false
   }
 }
 
-/* --- Hide tags in single posts (So Simple override) --- */
-.post-tags,
-.taxonomy-tags,
-.post-taxonomy .tags {
+/* Nasconde l'intera sezione Tags nel singolo post */
+.layout--post ul:has(a[rel="tag"]) {
   display: none !important;
 }
 
-a[rel="tag"] {
+/* Nasconde anche il titolo "Tags" che sta subito sopra */
+.layout--post h1 + * h3:has(+ ul:has(a[rel="tag"])),
+.layout--post h3:has(+ ul:has(a[rel="tag"])) {
   display: none !important;
 }
