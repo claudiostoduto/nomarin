@@ -31,3 +31,18 @@ sitemap: false
 .layout--post h3:has(+ nav ul a[rel="tag"]) {
   display: none !important;
 }
+
+
+/* ---- TYPOGRAPHY OVERRIDE ---- */
+/* Rimuove il corsivo dai titoli */
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: normal;
+}
+
+/* Titoli dei post */
+.entry-title,
+.page-title,
+.post-title {
+  font-style: normal;
+}
