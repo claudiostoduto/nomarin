@@ -18,3 +18,10 @@ sitemap: false
     margin-top: 1rem;
   }
 }
+
+/* --- Hide tags in single posts (So Simple override) --- */
+.post-tags,
+.taxonomy-tags,
+.post-taxonomy .tags {
+  display: none !important;
+}
