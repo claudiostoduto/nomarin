@@ -18,14 +18,16 @@ sitemap: false
     margin-top: 1rem;
   }
 }
+/* Hide ONLY the Tags section in post pages (keep categories) */
 
-/* Nasconde l'intera sezione Tags nel singolo post */
+/* 1) nasconde la lista dei tag */
 .layout--post ul:has(a[rel="tag"]) {
   display: none !important;
 }
 
-/* Nasconde anche il titolo "Tags" che sta subito sopra */
-.layout--post h1 + * h3:has(+ ul:has(a[rel="tag"])),
-.layout--post h3:has(+ ul:has(a[rel="tag"])) {
+/* 2) nasconde il titolo "Tags" quando è seguito (direttamente o via wrapper) dalla lista tag */
+.layout--post h3:has(+ ul a[rel="tag"]),
+.layout--post h3:has(+ div ul a[rel="tag"]),
+.layout--post h3:has(+ nav ul a[rel="tag"]) {
   display: none !important;
 }
