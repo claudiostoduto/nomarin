@@ -25,3 +25,7 @@ sitemap: false
 .post-taxonomy .tags {
   display: none !important;
 }
+
+a[rel="tag"] {
+  display: none !important;
+}
