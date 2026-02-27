@@ -1,5 +1,3 @@
-Sergio Marchionne by Chapeau
-
 ---
 layout: post
 title: "Sergio Marchionne by Chapeau"
