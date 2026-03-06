@@ -7,6 +7,7 @@ categories: [Tecnologia]
 tags: [apple, macbook air m1, macbook air m1 2020]
 image: "https://substack-post-media.s3.amazonaws.com/public/images/73664e80-f529-4de9-81d5-0b6d34159158_2048x1536.jpeg"
 ---
+
 ![url.jpg](https://substack-post-media.s3.amazonaws.com/public/images/73664e80-f529-4de9-81d5-0b6d34159158_2048x1536.jpeg)Ho configurato in questi giorni il mio MacBook Air M1 come server di casa. Ho installato Plex Media Server, anche se lo manderò in dismissione, Tailscale, la condivisione Samba e tutto ciò che mi serve per accedere ai miei file anche fuori dal contesto di casa.
 
 **Il risultato? Funziona alla grande.**
