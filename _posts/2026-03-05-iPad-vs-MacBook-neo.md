@@ -1,11 +1,11 @@
 ---
 layout: post
-title: “MacBook Neo: perché preferire un iPad?”
-date: “2026-03-05 06:07:00 +0100”
-excerpt: “Apple ha lanciato il nuovo Macbook Neo mettendolo direttamente in concorrenza con i suoi iPad.”
+title: "MacBook Neo: perché preferire un iPad?"
+date: "2026-03-05 06:07:00 +0100"
+excerpt: "Apple ha lanciato il nuovo Macbook Neo mettendolo direttamente in concorrenza con i suoi iPad."
 categories: [Tecnologia]
 tags: [Apple, iPad, Macbook Neo]
-image: “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1772689828/f3b0wmj6q7xwr2dkwwar.jpg”
+image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1772689828/f3b0wmj6q7xwr2dkwwar.jpg"
 ---
 
 Come ampiamente anticipato, Apple ha lanciato ufficialmente il nuovo **MacBook Neo abbassando l’asticella di prezzo** in ingresso per il mondo dei Mac portatili.
