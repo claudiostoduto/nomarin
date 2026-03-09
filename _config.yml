@@ -109,3 +109,11 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
