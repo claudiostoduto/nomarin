@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ho smesso di tracciare le spese per sei mesi"
-date: "2026-06-16 06:00:00 +0100"
-excerpt: "Ho ripreso a correre, ma mi sono fatto male come un pesce lesso."
+date: "2026-06-16 05:00:00 +0100"
+excerpt: "Ho smesso di tracciare le mie spese per sei mesi e le cose non sono andate benissimo."
 categories: [Finanza]
 tags: [tracking spese, excel spese, finanza personale]
 image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1781583060/j4dinr3prmjwpfpdsiti.png"
@@ -18,4 +18,4 @@ Le cose non sono proprio andate benissimo devo dire, anzi. Ho accumulato ed accu
 
 **Ora sto tornando in carreggiata.** Per tanti mesi ho avuto la testa altrove e non concentrata sulle cose che mi ero imposto e che pensavo fossero ormai diventate una routine ed una abitudine concreta. Ho chiuso tanti conti, dopo ve ne parlerò meglio, ed ho deciso di riprendere in mano anche questo aspetto della mia vita assolutamente per nulla secondario. 
 
-NON SMETTETE DI TRACCIARE LE VOSTRE SPESE, MI RACCOMANDO.
+**NON SMETTETE DI TRACCIARE LE VOSTRE SPESE, MI RACCOMANDO.**
