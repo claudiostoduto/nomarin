@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ho smesso di tracciare le spese per sei mesi"
-date: "2026-06-16 07:00:00 +0100"
+date: "2026-06-16 06:00:00 +0100"
 excerpt: "Ho ripreso a correre, ma mi sono fatto male come un pesce lesso."
 categories: [Finanza]
 tags: [tracking spese, excel spese, finanza personale]
