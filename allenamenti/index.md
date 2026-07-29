@@ -16,12 +16,13 @@ permalink: /allenamenti/
 
 ## 🏃 Ultimi allenamenti
 
-<div style=“max-width: 800px; margin: auto;”>
-  <iframe 
-    height=“600” 
-    width=“100%” 
-    frameborder=“0” 
-    scrolling=“no” 
-    src=“https://www.strava.com/athletes/19905400/latest-rides”>
+<div style="max-width: 800px; margin: auto;">
+  <iframe
+    height="600"
+    width="100%"
+    frameborder="0"
+    scrolling="no"
+    src="https://www.strava.com/athletes/19905400/latest-rides">
   </iframe>
 </div>
+
