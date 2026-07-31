@@ -1,8 +1,6 @@
-—
-layout: page
-title: Allenamenti
-permalink: /allenamenti/
-—
+- - - 
+
+
 
 ## 📊 Statistiche mensili
 
