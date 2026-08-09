@@ -1,14 +1,9 @@
-<<<<<<< main
-- - - 
-
-
 =======
 ---
 layout: page
 title: Allenamenti
 permalink: /allenamenti/
 ---
->>>>>>> origin/main
 
 ## 📊 Statistiche mensili
 
