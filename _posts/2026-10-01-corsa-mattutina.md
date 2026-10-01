@@ -5,11 +5,11 @@ date: "2026-10-01 06:08:00 +0200"
 excerpt: "Analisi dettagliata della corsa mattutina a Torino: 5 km tra le vie del centro e lungo Po."
 categories: [Running]
 tags: [running, running Torino, strava, running, come preparare una corsa, correre a Torino, run Torino, corse Torino, running club torino]
-image: "https://res.cloudinary.com/claudiostoduto/image/upload/v1771395849/srjft1xwuole5v8zkhtg.jpg"
+image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1790833842/i6xuu7gkv2swtyzuwstf.jpg"
 ---
 
 <figure>
-<img src="https://res.cloudinary.com/dtnbbyjaq/image/upload/v1727758500/strava_map_torino_20261001.png" alt="Mappa Corsa Mattutina Torino" />
+<img src="https://res.cloudinary.com/dtnbbyjaq/image/upload/v1790833842/i6xuu7gkv2swtyzuwstf.jpg" alt="Mappa Corsa Mattutina Torino" />
 </figure>
 
 ## 🏃‍♂️ Analisi Sessione: Corsa Mattutina a Torino
