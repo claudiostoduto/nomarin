@@ -2,7 +2,7 @@
 layout: post
 title: "Variazioni: 2km risc + 3x( 1,5 km < 6:15 + 0,5 km rec) + 1 km def."
 date: "2026-09-29 08:35:00 +0200"
-permalink: /running/2026-09-29-variazioni-2km-risc-3x1-5-km-6-15-0-5-km-rec-1-km-def/
+permalink: /running/2026-09-29-variazioni/
 excerpt: "Sessione di variazioni di ritmo a Torino lungo il Po: 9 km con 3 blocchi veloci sotto i 6:15/km e recuperi attivi."
 categories: [Running]
 tags: [running, running Torino, strava, running, come preparare una corsa, correre a Torino, run Torino, corse Torino, running club torino]
