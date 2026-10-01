@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corsa mattutina"
-date: "2026-10-01 06:08:00 +0200"
+date: "2026-10-01 04:08:00"
 excerpt: "Analisi dettagliata della corsa mattutina a Torino: 5 km tra le vie del centro e lungo Po."
 categories: [Running]
 tags: [running, running Torino, strava, running, come preparare una corsa, correre a Torino, run Torino, corse Torino, running club torino]
