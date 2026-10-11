@@ -3,6 +3,7 @@ layout: post
 title: "Da Amazfit Active 2 a T-Rex 3 Pro: il mio upgrade per la corsa (e oltre)"
 date: "2026-10-11 18:00:00 +0100"
 tags: [Running, Smartwatch, Amazfit, Tech Review]
+categories: [Tecnologia]
 image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1791738802/sfwtvrm43fdbatqydqdj.jpg"
 ---
 
