@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Perché corro: come la corsa mi ha (letteralmente) cambiato la vita"
-date: "2026-10-18 20:00:00"
+date: "2026-10-18 20:00:00 +0200"
 tags: [Running, Racconti, Motivazione]
 # image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1792350307/f4hzkrmxxteqav757g1n.jpg"
 ---
