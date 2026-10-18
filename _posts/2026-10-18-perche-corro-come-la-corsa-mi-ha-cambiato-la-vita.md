@@ -3,7 +3,8 @@ layout: post
 title: "Perché corro: come la corsa mi ha (letteralmente) cambiato la vita"
 date: "2026-10-18 20:00:00 +0200"
 tags: [Running, Racconti, Motivazione]
-# image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1792350307/f4hzkrmxxteqav757g1n.jpg"
+categories: [Running]
+image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1792350307/f4hzkrmxxteqav757g1n.jpg"
 ---
 
 Verso l'inizio del 2026 mi sono reso conto di una cosa: **la mia vita mi era un po' sfuggita di mano**. Il mio "declino", passatemi il termine, è iniziato circa tre anni fa, e la corsa è stata il modo in cui ho ricominciato a rimettere in ordine i pezzi.
