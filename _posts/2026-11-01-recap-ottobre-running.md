@@ -1,21 +1,21 @@
-—
+——-
 layout: post
-title: “Recap Running: Settembre 2026”
-date: “2026-10-01 05:00:00 +0200”
-permalink: /running/2026-09-recap-mensile/
-excerpt: “Resoconto mensile degli allenamenti di settembre 2026: 102,3 km percorsi, 13 giorni di corsa e 1.601 m di dislivello positivo.”
+title: “Recap Running: Ottobre 2026”
+date: “2026-11-01 08:00:00 +0100”
+permalink: /running/2026-10-recap-mensile/
+excerpt: “Resoconto mensile degli allenamenti di ottobre 2026: 122,3 km percorsi, 13 giorni di corsa, 14 ore di allenamento e 780 m di dislivello positivo.”
 categories: [Running]
 tags: [running, running Torino, strava, recap mensile, statistiche corsa, allenamento running]
-image: “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1790833842/i6xuu7gkv2swtyzuwstf.jpg”
-—
+image: “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg”
+——-
 
 <figure>
-  <img src=“URL_IMMAGINE_COPERTINA_O_GRAFICO_STRAVA” alt=“Recap Running Settembre 2026” />
+  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg” alt=“Recap Running Ottobre 2026” />
 </figure>
 
-## 🏃‍♂️ Recap Mensile: Settembre 2026
+## 🏃‍♂️ Recap Mensile: Ottobre 2026
 
-Un mese intenso e costante di allenamenti a Torino! Settembre si chiude con il superamento del muro dei **100 km mensili**, mantenendo una buona regolarità e accumulando un bel po’ di dislivello sulle gambe. 🏛️⛰️
+Ottobre si chiude con un nuovo record mensile di chilometraggio! Un mese di grande continuità a Torino, in cui il volume è salito a **122,3 km** concentrandosi maggiormente sul ritmo e sulla velocizzazione dei percorsi pianeggianti lungo Po e in centro città. 🏛️⚡
 
 —
 
@@ -24,10 +24,10 @@ Un mese intenso e costante di allenamenti a Torino! Settembre si chiude con il s
 Ecco il riassunto complessivo di tutti gli allenamenti registrati su Strava durante il mese:
 
 - 📅 **Giorni di corsa:** 13 giorni
-- ⏱️ **Tempo totale in movimento:** 12 ore
-- 📏 **Distanza totale:** 102,3 km
-- ⛰️ **Dislivello positivo totale:** 1.601 m
-- ⚡ **Passo medio stimato:** ~7:02 /km
+- ⏱️ **Tempo totale in movimento:** 14 ore
+- 📏 **Distanza totale:** 122,3 km
+- ⛰️ **Dislivello positivo totale:** 780 m
+- ⚡ **Passo medio stimato:** ~6:52 /km
 - 👟 **Scarpe principali:** ASICS Nimbus 28
 - ⌚ **Device:** Amazfit Active 2 (Round)
 
@@ -35,28 +35,28 @@ Ecco il riassunto complessivo di tutti gli allenamenti registrati su Strava dura
 
 ### 🗓️ Frequenza e Costanza di Allenamento
 
-Analizzando la distribuzione delle sessioni, la frequenza si è stabilizzata su circa **3 uscite a settimana**, con una presenza costante nei giorni di martedì, giovedì e nel weekend (domenica).
+Con 13 giornate di allenamento e ben 14 ore complessive trascorse sui percorsi, ottobre ha visto una distribuzione dinamica delle uscite, compresi dei blocchi intensi nel weekend e durante le uscite infrasettimanali.
 
 <figure>
-  <img src=“URL_DELLA_PRIMA_IMMAGINE_CALENDARIO” alt=“Calendario uscite di Settembre - Strava” />
-  <figcaption>Calendario delle 13 uscite di corsa distribuite nel mese di Settembre.</figcaption>
+  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg” alt=“Calendario uscite di Ottobre - Strava” />
+  <figcaption>Calendario delle uscite di corsa distribuite nel mese di Ottobre 2026.</figcaption>
 </figure>
 
 —
 
 ### 📈 Progressione e Confronto Annuale
 
-A livello di volume orario, settembre conferma l’ottimo trend di continuità iniziato nella seconda metà dell’anno, mantenendosi su livelli elevati di carico rispetto ai mesi invernali e primaverili.
+Con **14 ore di allenamento**, ottobre segna il picco orario e di distanza dell’anno, superando anche i volumi di agosto e settembre e confermando il trend di crescita costante iniziato a febbraio.
 
 <figure>
-  <img src=“URL_DELLA_SECONDA_IMMAGINE_GRAFICO” alt=“Confronto orario mensile Strava 2026” />
+  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511670/sbiy3w1dgolmpwhflbsz.jpg” alt=“Confronto orario mensile Strava 2026” />
   <figcaption>Confronto delle ore di allenamento mensili nel corso del 2026.</figcaption>
 </figure>
 
 —
 
-### 💡 Note, Sensazioni e Obiettivi per Ottobre
+### 💡 Note, Sensazioni e Obiettivi per Novembre
 
-- **Sensazioni:** Buona risposta muscolare e cardiovascolare, soprattutto sulle uscite con dislivello positivo (+1.601 m totali).
-- **Attrezzatura:** Le *ASICS Nimbus 28* continuano a garantire un ottimo comfort nei lunghi e nei percorsi cittadino/pavé a Torino.
-- **Obiettivo Ottobre:** Mantenere il volume sopra i 100 km mensili e lavorare leggermente sulla velocità nei tratti pianeggianti. 💪🏃‍♂️
+- **Sensazioni:** Ottima progressione sul passo medio (~6:52 /km) grazie al minor dislivello complessivo (+780 m rispetto ai +1.601 m di settembre) e a una maggiore spinta sui percorsi veloci.
+- **Attrezzatura:** Le *ASICS Nimbus 28* continuano a comportarsi in modo eccellente su asfalto e percorsi cittadini.
+- **Obiettivo Novembre:** Consolidare la base aerobica e mantenere una frequenza costante nonostante il cambio di stagione e le temperature più rigide. 💪🏃‍♂️
