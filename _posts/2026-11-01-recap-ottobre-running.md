@@ -7,7 +7,6 @@ excerpt: “Resoconto mensile degli allenamenti di ottobre 2026: 122,3 km percor
 categories: [Running]
 tags: [running, running Torino, strava, recap mensile, statistiche corsa, allenamento running]
 image “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg”
-
 ---
 
 <figure>
