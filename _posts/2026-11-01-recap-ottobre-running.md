@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxf
 ---
 
 <figure>
-  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg” alt=“Recap Running Ottobre 2026” />
+<img src="https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793698769/nsyrvd7f73nizygx83bq.jpg" alt="" />
 </figure>
 
 ## 🏃‍♂️ Recap Mensile: Ottobre 2026
@@ -37,21 +37,11 @@ Ecco il riassunto complessivo di tutti gli allenamenti registrati su Strava dura
 
 Con 13 giornate di allenamento e ben 14 ore complessive trascorse sui percorsi, ottobre ha visto una distribuzione dinamica delle uscite, compresi dei blocchi intensi nel weekend e durante le uscite infrasettimanali.
 
-<figure>
-  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg” alt=“Calendario uscite di Ottobre - Strava” />
-  <figcaption>Calendario delle uscite di corsa distribuite nel mese di Ottobre 2026.</figcaption>
-</figure>
-
 —
 
 ### 📈 Progressione e Confronto Annuale
 
 Con **14 ore di allenamento**, ottobre segna il picco orario e di distanza dell’anno, superando anche i volumi di agosto e settembre e confermando il trend di crescita costante iniziato a febbraio.
-
-<figure>
-  <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511670/sbiy3w1dgolmpwhflbsz.jpg” alt=“Confronto orario mensile Strava 2026” />
-  <figcaption>Confronto delle ore di allenamento mensili nel corso del 2026.</figcaption>
-</figure>
 
 —
 
