@@ -6,8 +6,9 @@ permalink: /running/ottobre-2026-recap-mensile/
 excerpt: “Resoconto mensile degli allenamenti di ottobre 2026: 122,3 km percorsi, 13 giorni di corsa, 14 ore di allenamento e 780 m di dislivello positivo.”
 categories: [Running]
 tags: [running, running Torino, strava, recap mensile, statistiche corsa, allenamento running]
-image “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg”
+image: “https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg”
 ---
+
 <figure>
   <img src=“https://res.cloudinary.com/dtnbbyjaq/image/upload/v1793511649/ezdpr07xxfhwxsukveqg.jpg” alt=“Recap Running Ottobre 2026” />
 </figure>
