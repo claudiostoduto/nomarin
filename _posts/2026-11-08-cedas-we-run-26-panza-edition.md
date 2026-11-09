@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cedars We Run 26 (panza edition)"
+title: "Cedas We Run 26 (panza edition)"
 date: "2026-11-08 09:00:00 +0100"
 permalink: /running/2026-11-08-cedars-we-run-26-panza-edition/
 excerpt: "Nuovo Record Personale sui 10 km alla Cedars We Run 26: 10,02 km a 5:53 /km abbassando il personale a 58:52!"

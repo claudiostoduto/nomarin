@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Corsa mattutina"
-date: "2026-11-08 07:34:00 +0100"
-permalink: /running/2026-11-08-corsa-mattutina/
+date: "2026-11-07 07:34:00 +0100"
+permalink: /running/2026-11-07-corsa-mattutina/
 excerpt: "Analisi della corsa mattutina a Torino: 4 km di recupero rigenerante a ritmo blando tra le vie del centro cittadino."
 categories: [Running]
 tags: [running, running Torino, strava, running, corsa mattutina, corsa rigenerante, correre a Torino, run Torino, corse Torino, running club torino]
